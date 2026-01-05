@@ -444,14 +444,36 @@ def executive_view(df):
     st.markdown("---")
     
     # Monthly Revenue Trend
-    st.subheader("📈 Monthly Revenue Trend")
-    
-    # Create month column
-    df_copy = df.copy()
-    df_copy['order_month'] = df_copy['order_date'].dt.to_period('M')
-    monthly_revenue = df_copy.groupby('order_month')['net_amount'].sum().reset_index()
-    monthly_revenue['order_month'] = monthly_revenue['order_month'].astype(str)
-    monthly_revenue.columns = ['Month', 'Revenue']
+st.subheader("📈 Monthly Revenue Trend")
+
+# Create month column from order_date
+df['year_month'] = df['order_date'].dt.to_period('M').astype(str)
+monthly_revenue = df.groupby('year_month')['net_amount'].sum().reset_index()
+monthly_revenue = monthly_revenue.sort_values('year_month')
+monthly_revenue.columns = ['Month', 'Revenue']
+
+# Debug: Show the data
+with st.expander("📊 View Monthly Revenue Data"):
+    st.dataframe(monthly_revenue)
+
+# Create the line chart with markers
+fig_monthly = px.line(
+    monthly_revenue, 
+    x='Month', 
+    y='Revenue',
+    title='Monthly Revenue Trend (AED)',
+    labels={'Revenue': 'Revenue (AED)', 'Month': 'Month'},
+    markers=True
+)
+fig_monthly.update_traces(
+    line_color='#667eea', 
+    line_width=3,
+    marker=dict(size=10, color='#667eea', line=dict(width=2, color='#ffffff'))
+)
+fig_monthly = apply_light_theme(fig_monthly, height=400)
+st.plotly_chart(fig_monthly, use_container_width=True)
+
+create_insight_box("Track monthly revenue patterns to identify seasonal trends and plan strategic initiatives accordingly.")
     
     # Create the line chart with markers
     fig_monthly = px.line(
