@@ -1,0 +1,2001 @@
+customer_id,customer_name,city,signup_date,signup_channel,customer_segment
+CUST_00001,Aisha Al Maktoum,Dubai,2025-05-24,Referral,Premium
+CUST_00002,Layla Khan,Abu Dhabi,2025-03-16,App,Regular
+CUST_00003,Aisha Mahmoud,Dubai,2025-02-17,Call Center,Regular
+CUST_00004,Tariq Ali,Sharjah,2025-01-20,App,VIP
+CUST_00005,Ahmed Al Nahyan,Sharjah,2025-04-25,App,Regular
+CUST_00006,Layla Mahmoud,Dubai,2025-11-08,App,Regular
+CUST_00007,Ahmed Mahmoud,Abu Dhabi,2025-04-15,App,Regular
+CUST_00008,Amina Ali,Dubai,2025-04-26,App,Regular
+CUST_00009,Abdullah Salem,Abu Dhabi,2025-05-26,Call Center,Regular
+CUST_00010,Ahmed Al Qasimi,Abu Dhabi,2025-12-27,Web,Regular
+CUST_00011,Huda Hassan,Abu Dhabi,2025-05-26,App,Regular
+CUST_00012,Ali Khan,Ajman,2025-06-25,Referral,Premium
+CUST_00013,Aisha Al Nahyan,Dubai,2025-07-17,App,Regular
+CUST_00014,Aisha Hassan,Abu Dhabi,2025-06-29,App,Regular
+CUST_00015,Leila Ahmed,Dubai,2025-01-26,Referral,Regular
+CUST_00016,Abdullah Mahmoud,Sharjah,2025-03-08,App,Regular
+CUST_00017,Youssef Al Nahyan,Abu Dhabi,2025-10-13,App,VIP
+CUST_00018,Sara Salem,Sharjah,2025-07-08,Referral,Premium
+CUST_00019,Tariq Khan,Abu Dhabi,2025-12-30,Referral,Regular
+CUST_00020,Mohammed Al Maktoum,Dubai,2025-12-08,App,Regular
+CUST_00021,Layla Ahmed,Dubai,2025-02-13,App,Premium
+CUST_00022,Layla Al Nahyan,Dubai,2025-07-17,App,Regular
+CUST_00023,Khalid Ibrahim,Dubai,2025-11-25,Call Center,Regular
+CUST_00024,Noor Al Qasimi,Ras Al Khaimah,2025-07-12,Call Center,Regular
+CUST_00025,Noor Khan,Dubai,2025-12-13,Call Center,Premium
+CUST_00026,Khalid Al Nahyan,Sharjah,2025-11-11,Call Center,Regular
+CUST_00027,Mariam Mahmoud,Dubai,2025-05-09,App,Premium
+CUST_00028,Mariam Ibrahim,Abu Dhabi,2025-07-17,App,Regular
+CUST_00029,Khalid Mahmoud,Dubai,2025-04-26,App,Premium
+CUST_00030,Hassan Al Maktoum,Abu Dhabi,2025-05-01,Call Center,Regular
+CUST_00031,Fatima Hassan,Dubai,2025-07-28,Web,Premium
+CUST_00032,Khalid Al Nahyan,Abu Dhabi,2025-04-22,Call Center,Regular
+CUST_00033,Tariq Hassan,Abu Dhabi,2025-04-22,App,Regular
+CUST_00034,Zainab Ali,Dubai,2025-11-29,App,Regular
+CUST_00035,Abdullah Al Qasimi,Dubai,2025-05-19,Web,VIP
+CUST_00036,Ali Khan,Dubai,2025-10-18,App,Premium
+CUST_00037,Amina Ahmed,Dubai,2025-10-30,App,Regular
+CUST_00038,Huda Salem,Dubai,2025-07-27,Referral,Premium
+CUST_00039,Noor Khan,Abu Dhabi,2025-03-15,Call Center,Premium
+CUST_00040,Rashid Ibrahim,Dubai,2025-02-19,Call Center,Regular
+CUST_00041,Fatima Al Nahyan,Sharjah,2025-03-23,Call Center,Regular
+CUST_00042,Mariam Ali,Dubai,2025-11-05,App,Regular
+CUST_00043,Mohammed Ali,Sharjah,2025-07-18,Call Center,Regular
+CUST_00044,Leila Ibrahim,Abu Dhabi,2025-10-01,App,Regular
+CUST_00045,Khalid Mahmoud,Dubai,2025-01-09,App,VIP
+CUST_00046,Aisha Mahmoud,Dubai,2025-05-20,Web,Premium
+CUST_00047,Hassan Al Nahyan,Dubai,2025-06-03,Referral,VIP
+CUST_00048,Huda Al Qasimi,Dubai,2025-08-24,Web,Regular
+CUST_00049,Ahmed Ahmed,Dubai,2025-09-17,App,Regular
+CUST_00050,Mariam Mahmoud,Abu Dhabi,2025-02-27,App,Regular
+CUST_00051,Sara Mahmoud,Ajman,2025-11-11,App,Regular
+CUST_00052,Omar Al Qasimi,Abu Dhabi,2025-07-14,Referral,Regular
+CUST_00053,Mariam Mahmoud,Sharjah,2025-10-02,Call Center,Regular
+CUST_00054,Ahmed Salem,Sharjah,2025-06-18,App,Regular
+CUST_00055,Zainab Al Maktoum,Abu Dhabi,2025-03-02,Web,Regular
+CUST_00056,Noor Ahmed,Sharjah,2025-05-06,App,Regular
+CUST_00057,Fatima Khan,Dubai,2025-10-21,Web,Regular
+CUST_00058,Mohammed Al Nahyan,Dubai,2025-09-09,Web,Regular
+CUST_00059,Mohammed Mahmoud,Abu Dhabi,2025-03-09,App,Regular
+CUST_00060,Ali Ibrahim,Dubai,2025-10-12,Referral,Regular
+CUST_00061,Mariam Ahmed,Dubai,2025-10-01,App,VIP
+CUST_00062,Leila Ali,Ajman,2025-04-22,App,Regular
+CUST_00063,Amina Khan,Sharjah,2026-01-04,Web,Regular
+CUST_00064,Sara Ali,Dubai,2025-12-13,App,Premium
+CUST_00065,Noor Ibrahim,Ajman,2025-09-25,Web,Regular
+CUST_00066,Abdullah Al Nahyan,Dubai,2025-05-10,Web,Premium
+CUST_00067,Layla Al Nahyan,Ajman,2025-06-26,Call Center,Regular
+CUST_00068,Ahmed Salem,Dubai,2025-10-14,App,Premium
+CUST_00069,Layla Salem,Abu Dhabi,2025-04-26,App,Regular
+CUST_00070,Ahmed Al Nahyan,Sharjah,2026-01-01,App,Regular
+CUST_00071,Fatima Khan,Abu Dhabi,2025-02-07,Web,Regular
+CUST_00072,Fatima Hassan,Dubai,2025-02-09,Web,Regular
+CUST_00073,Rashid Khan,Dubai,2025-05-26,Web,Regular
+CUST_00074,Zainab Khan,Sharjah,2025-10-07,Web,Regular
+CUST_00075,Ali Salem,Dubai,2025-10-26,App,Regular
+CUST_00076,Zainab Khan,Dubai,2025-09-03,Referral,Regular
+CUST_00077,Huda Khan,Ajman,2025-02-21,Web,Premium
+CUST_00078,Aisha Ali,Abu Dhabi,2025-07-04,Web,Regular
+CUST_00079,Huda Ali,Dubai,2025-08-31,Web,Regular
+CUST_00080,Fatima Al Nahyan,Dubai,2025-02-04,Web,Regular
+CUST_00081,Youssef Hassan,Ajman,2025-02-28,Referral,VIP
+CUST_00082,Layla Khan,Dubai,2025-04-11,App,VIP
+CUST_00083,Amina Ibrahim,Abu Dhabi,2025-03-16,Referral,VIP
+CUST_00084,Huda Al Qasimi,Ajman,2025-05-26,App,Regular
+CUST_00085,Abdullah Khan,Ajman,2025-02-11,App,Regular
+CUST_00086,Abdullah Mahmoud,Abu Dhabi,2025-02-23,Referral,Regular
+CUST_00087,Fatima Mahmoud,Abu Dhabi,2025-01-11,App,Regular
+CUST_00088,Mohammed Khan,Ras Al Khaimah,2025-03-30,App,Regular
+CUST_00089,Huda Ibrahim,Ajman,2025-09-07,Web,Regular
+CUST_00090,Omar Ali,Sharjah,2025-02-03,App,Regular
+CUST_00091,Mariam Ali,Sharjah,2025-01-05,Call Center,Premium
+CUST_00092,Youssef Ahmed,Ajman,2025-08-24,Web,Regular
+CUST_00093,Sara Ali,Sharjah,2025-12-26,Web,Premium
+CUST_00094,Amina Ibrahim,Sharjah,2025-03-24,Call Center,Regular
+CUST_00095,Omar Ahmed,Dubai,2025-04-25,App,Regular
+CUST_00096,Fatima Salem,Dubai,2025-10-08,Web,Regular
+CUST_00097,Fatima Hassan,Dubai,2025-02-02,Web,Regular
+CUST_00098,Fatima Salem,Dubai,2025-09-05,Call Center,Regular
+CUST_00099,Rashid Mahmoud,Dubai,2025-03-25,Web,Premium
+CUST_00100,Fatima Mahmoud,Dubai,2025-02-14,Web,Regular
+CUST_00101,Mariam Al Nahyan,Dubai,2025-11-04,Web,Regular
+CUST_00102,Mohammed Khan,Abu Dhabi,2025-07-29,Web,VIP
+CUST_00103,Aisha Salem,Abu Dhabi,2025-05-10,App,Premium
+CUST_00104,Tariq Salem,Dubai,2025-01-24,App,Regular
+CUST_00105,Leila Al Nahyan,Dubai,2025-08-06,Referral,Premium
+CUST_00106,Tariq Salem,Sharjah,2025-09-28,App,Regular
+CUST_00107,Hassan Ahmed,Dubai,2025-04-18,App,Regular
+CUST_00108,Hassan Khan,Sharjah,2025-05-19,Web,Regular
+CUST_00109,Youssef Al Qasimi,Ras Al Khaimah,2025-12-13,Web,Regular
+CUST_00110,Sara Ibrahim,Abu Dhabi,2025-06-14,App,Regular
+CUST_00111,Mohammed Al Maktoum,Dubai,2025-08-26,Call Center,Regular
+CUST_00112,Leila Salem,Dubai,2025-02-24,App,Regular
+CUST_00113,Mohammed Mahmoud,Ajman,2025-04-23,Web,Regular
+CUST_00114,Rashid Ahmed,Dubai,2025-03-12,Web,Regular
+CUST_00115,Noor Al Nahyan,Dubai,2025-05-09,App,Regular
+CUST_00116,Noor Ahmed,Abu Dhabi,2025-03-25,Web,Regular
+CUST_00117,Abdullah Mahmoud,Dubai,2025-12-30,Web,Regular
+CUST_00118,Sara Salem,Ajman,2025-12-04,Web,Regular
+CUST_00119,Rashid Al Maktoum,Dubai,2025-12-11,Web,Regular
+CUST_00120,Amina Ahmed,Abu Dhabi,2025-12-09,Referral,Regular
+CUST_00121,Aisha Al Qasimi,Dubai,2025-05-19,Web,Regular
+CUST_00122,Aisha Al Nahyan,Abu Dhabi,2025-10-14,Referral,Regular
+CUST_00123,Ali Ahmed,Ras Al Khaimah,2025-05-28,Referral,Regular
+CUST_00124,Leila Khan,Dubai,2025-06-28,App,Regular
+CUST_00125,Omar Ahmed,Dubai,2025-09-19,Web,Regular
+CUST_00126,Zainab Ahmed,Dubai,2025-01-30,Call Center,Regular
+CUST_00127,Mohammed Ali,Sharjah,2025-05-25,App,Regular
+CUST_00128,Fatima Al Maktoum,Sharjah,2025-06-23,Web,Premium
+CUST_00129,Ali Ahmed,Sharjah,2025-03-27,Call Center,Regular
+CUST_00130,Abdullah Mahmoud,Dubai,2025-12-31,Call Center,Premium
+CUST_00131,Huda Mahmoud,Ras Al Khaimah,2025-01-08,App,Regular
+CUST_00132,Aisha Al Nahyan,Sharjah,2025-12-23,App,VIP
+CUST_00133,Ali Mahmoud,Ajman,2025-01-22,App,Premium
+CUST_00134,Noor Salem,Sharjah,2025-10-13,App,VIP
+CUST_00135,Ali Ali,Abu Dhabi,2025-03-10,Call Center,Regular
+CUST_00136,Fatima Ahmed,Ajman,2025-07-09,App,Regular
+CUST_00137,Fatima Hassan,Ajman,2025-04-21,App,Regular
+CUST_00138,Layla Al Nahyan,Ras Al Khaimah,2025-07-04,Referral,Regular
+CUST_00139,Amina Ali,Abu Dhabi,2025-11-17,App,Regular
+CUST_00140,Ali Khan,Dubai,2025-03-28,Web,Premium
+CUST_00141,Mariam Ali,Sharjah,2025-01-16,Call Center,Regular
+CUST_00142,Mariam Hassan,Abu Dhabi,2025-08-02,App,Regular
+CUST_00143,Layla Ahmed,Abu Dhabi,2025-03-26,Call Center,Regular
+CUST_00144,Aisha Ali,Dubai,2025-01-23,App,Premium
+CUST_00145,Zainab Khan,Abu Dhabi,2025-04-16,App,Regular
+CUST_00146,Abdullah Hassan,Sharjah,2025-06-09,App,Premium
+CUST_00147,Layla Khan,Sharjah,2025-01-16,App,Regular
+CUST_00148,Omar Ali,Ras Al Khaimah,2025-06-21,App,Regular
+CUST_00149,Khalid Al Nahyan,Sharjah,2025-05-26,Referral,VIP
+CUST_00150,Noor Mahmoud,Sharjah,2025-07-27,App,Regular
+CUST_00151,Amina Hassan,Sharjah,2025-01-18,Web,Regular
+CUST_00152,Aisha Ahmed,Ajman,2025-04-05,App,Regular
+CUST_00153,Tariq Ahmed,Dubai,2025-01-23,Web,Regular
+CUST_00154,Aisha Salem,Dubai,2025-08-14,App,Regular
+CUST_00155,Noor Hassan,Sharjah,2025-08-15,Web,VIP
+CUST_00156,Leila Mahmoud,Dubai,2025-03-04,App,Premium
+CUST_00157,Youssef Salem,Dubai,2025-04-11,Referral,Regular
+CUST_00158,Khalid Al Maktoum,Ras Al Khaimah,2026-01-01,App,Premium
+CUST_00159,Huda Al Maktoum,Abu Dhabi,2025-09-27,Referral,Regular
+CUST_00160,Amina Khan,Abu Dhabi,2025-07-09,Referral,Regular
+CUST_00161,Huda Al Nahyan,Abu Dhabi,2025-12-10,Web,Regular
+CUST_00162,Hassan Salem,Abu Dhabi,2025-06-13,Web,VIP
+CUST_00163,Aisha Ahmed,Dubai,2025-09-20,App,VIP
+CUST_00164,Sara Ali,Ajman,2025-06-20,Web,Regular
+CUST_00165,Youssef Ahmed,Dubai,2025-10-14,App,Regular
+CUST_00166,Ali Khan,Dubai,2025-08-07,Web,Regular
+CUST_00167,Youssef Al Qasimi,Ras Al Khaimah,2025-11-15,Referral,Regular
+CUST_00168,Tariq Ahmed,Abu Dhabi,2025-07-30,App,Premium
+CUST_00169,Amina Al Maktoum,Sharjah,2025-06-08,App,VIP
+CUST_00170,Sara Khan,Sharjah,2025-08-12,Referral,Premium
+CUST_00171,Tariq Salem,Abu Dhabi,2025-12-05,App,VIP
+CUST_00172,Hassan Ibrahim,Ajman,2025-08-18,App,Regular
+CUST_00173,Abdullah Khan,Dubai,2025-09-22,Call Center,VIP
+CUST_00174,Zainab Al Qasimi,Dubai,2025-12-07,Web,Regular
+CUST_00175,Mohammed Ahmed,Ras Al Khaimah,2025-09-24,Call Center,Premium
+CUST_00176,Leila Hassan,Abu Dhabi,2025-02-20,App,Regular
+CUST_00177,Layla Ahmed,Dubai,2025-04-29,Call Center,Premium
+CUST_00178,Omar Al Qasimi,Ras Al Khaimah,2025-01-16,Referral,Regular
+CUST_00179,Fatima Khan,Sharjah,2025-09-04,Referral,Premium
+CUST_00180,Leila Al Nahyan,Dubai,2025-08-25,Web,Regular
+CUST_00181,Huda Salem,Ras Al Khaimah,2025-04-13,Web,Regular
+CUST_00182,Youssef Ibrahim,Sharjah,2025-07-27,Web,Regular
+CUST_00183,Layla Al Qasimi,Dubai,2025-12-05,Web,Regular
+CUST_00184,Ahmed Al Nahyan,Sharjah,2025-08-09,Web,Premium
+CUST_00185,Layla Al Qasimi,Abu Dhabi,2025-12-26,Web,Premium
+CUST_00186,Rashid Ibrahim,Abu Dhabi,2025-01-29,App,Regular
+CUST_00187,Amina Khan,Sharjah,2025-03-07,Web,Premium
+CUST_00188,Abdullah Al Qasimi,Dubai,2025-08-29,App,Regular
+CUST_00189,Rashid Mahmoud,Dubai,2025-11-04,Web,Regular
+CUST_00190,Hassan Ibrahim,Abu Dhabi,2025-11-13,Referral,Regular
+CUST_00191,Rashid Ali,Abu Dhabi,2025-10-11,Call Center,Regular
+CUST_00192,Abdullah Al Qasimi,Abu Dhabi,2025-09-04,Call Center,VIP
+CUST_00193,Abdullah Ahmed,Dubai,2025-05-10,Referral,Regular
+CUST_00194,Khalid Mahmoud,Dubai,2025-09-09,Web,VIP
+CUST_00195,Layla Ahmed,Abu Dhabi,2025-08-17,App,Regular
+CUST_00196,Mohammed Ahmed,Dubai,2025-05-04,App,Regular
+CUST_00197,Khalid Hassan,Dubai,2025-06-16,App,Regular
+CUST_00198,Amina Al Nahyan,Abu Dhabi,2025-03-15,App,Regular
+CUST_00199,Ali Khan,Ajman,2025-07-19,Web,Regular
+CUST_00200,Ali Khan,Dubai,2025-02-05,App,Regular
+CUST_00201,Huda Ali,Dubai,2025-06-22,App,Regular
+CUST_00202,Amina Ibrahim,Dubai,2025-08-04,App,Regular
+CUST_00203,Fatima Khan,Dubai,2025-08-07,App,Regular
+CUST_00204,Youssef Salem,Sharjah,2025-12-26,App,Premium
+CUST_00205,Ahmed Salem,Abu Dhabi,2025-07-17,App,Premium
+CUST_00206,Zainab Al Maktoum,Ajman,2025-07-03,App,Regular
+CUST_00207,Sara Ali,Sharjah,2025-08-06,Web,Regular
+CUST_00208,Amina Mahmoud,Dubai,2025-11-08,App,Regular
+CUST_00209,Layla Ibrahim,Abu Dhabi,2025-04-26,App,Regular
+CUST_00210,Khalid Ali,Sharjah,2025-09-09,App,Regular
+CUST_00211,Ahmed Ali,Sharjah,2025-06-25,Call Center,Regular
+CUST_00212,Youssef Al Qasimi,Abu Dhabi,2025-08-31,App,Regular
+CUST_00213,Ali Salem,Abu Dhabi,2025-10-04,App,Regular
+CUST_00214,Ahmed Ali,Dubai,2025-11-03,App,Regular
+CUST_00215,Tariq Al Maktoum,Dubai,2025-02-15,App,Regular
+CUST_00216,Huda Al Qasimi,Ajman,2025-08-28,Web,Regular
+CUST_00217,Mariam Al Maktoum,Sharjah,2025-05-17,Web,Regular
+CUST_00218,Youssef Hassan,Abu Dhabi,2025-04-22,Web,Premium
+CUST_00219,Abdullah Hassan,Abu Dhabi,2025-06-25,App,Regular
+CUST_00220,Youssef Ahmed,Dubai,2025-08-07,Web,Regular
+CUST_00221,Khalid Al Nahyan,Dubai,2025-09-01,Referral,Regular
+CUST_00222,Ahmed Mahmoud,Dubai,2025-01-30,App,Regular
+CUST_00223,Noor Khan,Dubai,2025-12-02,App,Regular
+CUST_00224,Mohammed Al Maktoum,Dubai,2025-01-19,App,Premium
+CUST_00225,Layla Khan,Dubai,2025-01-14,Web,Regular
+CUST_00226,Leila Al Qasimi,Ras Al Khaimah,2025-05-06,App,Regular
+CUST_00227,Ali Ibrahim,Ras Al Khaimah,2025-12-12,Call Center,Premium
+CUST_00228,Aisha Salem,Dubai,2025-04-25,App,Regular
+CUST_00229,Abdullah Ahmed,Ajman,2025-07-11,Web,Regular
+CUST_00230,Mariam Salem,Dubai,2025-11-10,Call Center,Regular
+CUST_00231,Aisha Al Qasimi,Dubai,2025-06-12,App,Regular
+CUST_00232,Aisha Salem,Dubai,2025-01-17,App,Regular
+CUST_00233,Sara Salem,Dubai,2025-12-16,Web,Regular
+CUST_00234,Youssef Ali,Abu Dhabi,2025-04-15,Web,Regular
+CUST_00235,Mohammed Salem,Dubai,2025-12-23,App,Regular
+CUST_00236,Layla Al Nahyan,Ras Al Khaimah,2025-12-26,App,Premium
+CUST_00237,Sara Salem,Dubai,2025-03-06,Web,Premium
+CUST_00238,Tariq Al Maktoum,Abu Dhabi,2025-06-30,Web,Regular
+CUST_00239,Amina Ali,Dubai,2025-12-08,Referral,Premium
+CUST_00240,Noor Al Nahyan,Ras Al Khaimah,2025-09-20,App,Premium
+CUST_00241,Hassan Al Maktoum,Ajman,2025-08-07,App,Regular
+CUST_00242,Zainab Al Nahyan,Sharjah,2025-08-13,Web,Premium
+CUST_00243,Noor Ibrahim,Dubai,2026-01-01,Call Center,Regular
+CUST_00244,Ali Ali,Dubai,2025-04-04,App,Premium
+CUST_00245,Rashid Ahmed,Sharjah,2025-11-15,Web,Regular
+CUST_00246,Amina Ibrahim,Ajman,2025-08-30,App,Premium
+CUST_00247,Huda Salem,Abu Dhabi,2025-05-21,App,Regular
+CUST_00248,Hassan Khan,Dubai,2025-02-17,Web,Regular
+CUST_00249,Khalid Ibrahim,Dubai,2025-05-08,Call Center,Regular
+CUST_00250,Abdullah Salem,Abu Dhabi,2025-11-12,Referral,Regular
+CUST_00251,Youssef Hassan,Dubai,2025-01-18,Referral,Regular
+CUST_00252,Zainab Hassan,Dubai,2025-04-07,App,Premium
+CUST_00253,Zainab Khan,Abu Dhabi,2025-07-04,Web,Premium
+CUST_00254,Khalid Hassan,Sharjah,2025-05-27,App,Regular
+CUST_00255,Leila Ahmed,Dubai,2025-10-15,Web,Regular
+CUST_00256,Ahmed Mahmoud,Abu Dhabi,2025-04-11,Call Center,Premium
+CUST_00257,Mohammed Khan,Dubai,2025-07-31,Call Center,Regular
+CUST_00258,Zainab Mahmoud,Sharjah,2025-05-07,App,Regular
+CUST_00259,Zainab Ibrahim,Sharjah,2025-08-21,App,Regular
+CUST_00260,Ahmed Al Nahyan,Sharjah,2025-06-03,Web,Regular
+CUST_00261,Layla Ali,Sharjah,2025-12-24,Web,Regular
+CUST_00262,Layla Ahmed,Dubai,2025-12-09,App,VIP
+CUST_00263,Tariq Hassan,Abu Dhabi,2025-09-03,App,Regular
+CUST_00264,Amina Mahmoud,Ajman,2025-06-29,App,Regular
+CUST_00265,Huda Mahmoud,Abu Dhabi,2025-06-22,Web,Regular
+CUST_00266,Noor Ibrahim,Ajman,2025-05-22,Referral,Regular
+CUST_00267,Sara Ahmed,Sharjah,2025-05-02,Referral,Premium
+CUST_00268,Aisha Khan,Dubai,2025-06-14,Web,Regular
+CUST_00269,Aisha Mahmoud,Abu Dhabi,2025-12-23,Web,VIP
+CUST_00270,Mariam Khan,Ajman,2025-04-24,Web,Regular
+CUST_00271,Zainab Ahmed,Ras Al Khaimah,2025-11-01,Call Center,Regular
+CUST_00272,Rashid Salem,Ajman,2025-05-28,Call Center,Regular
+CUST_00273,Aisha Khan,Abu Dhabi,2025-06-04,App,Regular
+CUST_00274,Layla Hassan,Dubai,2025-04-05,Call Center,Regular
+CUST_00275,Sara Al Maktoum,Dubai,2026-01-01,App,Regular
+CUST_00276,Amina Al Qasimi,Ajman,2025-05-24,App,Regular
+CUST_00277,Fatima Al Maktoum,Sharjah,2025-10-14,Web,Regular
+CUST_00278,Sara Al Qasimi,Abu Dhabi,2025-11-26,App,Regular
+CUST_00279,Zainab Al Nahyan,Abu Dhabi,2025-01-10,App,VIP
+CUST_00280,Tariq Ahmed,Dubai,2025-09-01,Web,Regular
+CUST_00281,Zainab Ibrahim,Dubai,2025-06-27,Web,Regular
+CUST_00282,Mariam Al Maktoum,Ras Al Khaimah,2025-05-13,App,Regular
+CUST_00283,Zainab Al Nahyan,Dubai,2025-02-06,Referral,Regular
+CUST_00284,Youssef Ibrahim,Abu Dhabi,2025-02-10,App,Premium
+CUST_00285,Tariq Al Maktoum,Dubai,2025-03-22,Call Center,Regular
+CUST_00286,Ali Salem,Dubai,2025-06-08,App,Regular
+CUST_00287,Mohammed Khan,Abu Dhabi,2025-03-05,App,Premium
+CUST_00288,Amina Ali,Abu Dhabi,2025-11-10,Web,Regular
+CUST_00289,Leila Salem,Abu Dhabi,2025-04-29,Web,Regular
+CUST_00290,Rashid Ali,Dubai,2025-08-22,Call Center,VIP
+CUST_00291,Abdullah Ahmed,Dubai,2025-11-01,App,Regular
+CUST_00292,Huda Ahmed,Abu Dhabi,2025-10-22,App,Regular
+CUST_00293,Leila Al Maktoum,Sharjah,2025-11-12,Web,Regular
+CUST_00294,Aisha Khan,Dubai,2025-11-20,App,Regular
+CUST_00295,Omar Ahmed,Dubai,2025-12-08,App,Premium
+CUST_00296,Mohammed Al Qasimi,Dubai,2025-05-06,Web,Regular
+CUST_00297,Mariam Mahmoud,Dubai,2025-02-11,App,Premium
+CUST_00298,Mariam Al Maktoum,Ajman,2025-08-01,Call Center,Regular
+CUST_00299,Abdullah Salem,Sharjah,2025-09-01,App,Regular
+CUST_00300,Sara Al Maktoum,Ajman,2025-05-02,App,Regular
+CUST_00301,Sara Ahmed,Dubai,2025-12-29,App,Regular
+CUST_00302,Abdullah Al Nahyan,Abu Dhabi,2025-12-21,App,Premium
+CUST_00303,Layla Ahmed,Sharjah,2025-11-20,App,Regular
+CUST_00304,Tariq Khan,Dubai,2025-08-09,Web,Regular
+CUST_00305,Aisha Mahmoud,Abu Dhabi,2025-04-29,App,Regular
+CUST_00306,Ali Ahmed,Abu Dhabi,2025-03-17,App,VIP
+CUST_00307,Mohammed Al Maktoum,Sharjah,2025-03-29,App,Premium
+CUST_00308,Sara Salem,Abu Dhabi,2025-10-22,Call Center,Premium
+CUST_00309,Sara Ibrahim,Abu Dhabi,2025-03-08,App,Regular
+CUST_00310,Abdullah Ahmed,Abu Dhabi,2025-12-28,Web,Regular
+CUST_00311,Youssef Ahmed,Dubai,2025-09-17,Call Center,VIP
+CUST_00312,Amina Ibrahim,Abu Dhabi,2025-08-16,App,Regular
+CUST_00313,Mohammed Salem,Dubai,2025-01-24,Referral,Regular
+CUST_00314,Huda Hassan,Abu Dhabi,2025-11-09,App,Regular
+CUST_00315,Khalid Al Maktoum,Sharjah,2025-02-19,Call Center,Regular
+CUST_00316,Layla Salem,Dubai,2025-10-31,App,VIP
+CUST_00317,Ahmed Ahmed,Ajman,2025-10-26,Web,Regular
+CUST_00318,Fatima Al Qasimi,Sharjah,2025-09-01,App,VIP
+CUST_00319,Rashid Ibrahim,Abu Dhabi,2025-05-26,App,Regular
+CUST_00320,Mariam Salem,Dubai,2025-08-15,App,Premium
+CUST_00321,Zainab Al Nahyan,Dubai,2025-09-01,Web,Regular
+CUST_00322,Noor Ali,Dubai,2025-06-23,App,Regular
+CUST_00323,Hassan Al Nahyan,Sharjah,2025-03-27,App,Regular
+CUST_00324,Hassan Ali,Abu Dhabi,2025-12-25,Web,VIP
+CUST_00325,Zainab Ahmed,Sharjah,2025-12-09,App,Regular
+CUST_00326,Youssef Mahmoud,Dubai,2025-01-22,Web,Regular
+CUST_00327,Abdullah Al Nahyan,Abu Dhabi,2025-06-14,Web,Regular
+CUST_00328,Khalid Hassan,Sharjah,2025-03-04,App,Regular
+CUST_00329,Youssef Mahmoud,Sharjah,2025-01-04,Web,Regular
+CUST_00330,Amina Ibrahim,Abu Dhabi,2025-08-03,App,Premium
+CUST_00331,Fatima Khan,Sharjah,2025-09-26,Web,Regular
+CUST_00332,Noor Salem,Abu Dhabi,2025-09-16,App,Regular
+CUST_00333,Abdullah Al Maktoum,Ajman,2025-04-18,App,VIP
+CUST_00334,Khalid Mahmoud,Abu Dhabi,2025-03-12,App,Regular
+CUST_00335,Sara Ibrahim,Ajman,2025-12-27,Web,Premium
+CUST_00336,Zainab Al Nahyan,Sharjah,2025-01-18,Web,Premium
+CUST_00337,Leila Khan,Dubai,2026-01-02,Web,Regular
+CUST_00338,Mariam Ahmed,Ras Al Khaimah,2025-10-13,Referral,Regular
+CUST_00339,Ahmed Mahmoud,Sharjah,2025-07-31,Referral,Regular
+CUST_00340,Mohammed Khan,Abu Dhabi,2025-03-03,Referral,Regular
+CUST_00341,Abdullah Al Nahyan,Sharjah,2025-12-01,App,VIP
+CUST_00342,Ali Ibrahim,Ras Al Khaimah,2025-06-02,Referral,Regular
+CUST_00343,Rashid Ahmed,Ajman,2025-08-04,Call Center,Regular
+CUST_00344,Zainab Ibrahim,Sharjah,2025-05-08,App,Regular
+CUST_00345,Abdullah Mahmoud,Dubai,2025-03-19,App,Regular
+CUST_00346,Youssef Khan,Sharjah,2025-11-06,App,Premium
+CUST_00347,Rashid Al Qasimi,Dubai,2025-02-08,App,Regular
+CUST_00348,Khalid Ali,Sharjah,2025-06-27,App,Regular
+CUST_00349,Rashid Ahmed,Ajman,2025-01-05,Web,Regular
+CUST_00350,Sara Ahmed,Dubai,2025-10-31,Call Center,Regular
+CUST_00351,Tariq Ibrahim,Ajman,2025-03-21,Web,VIP
+CUST_00352,Abdullah Mahmoud,Sharjah,2025-09-08,Referral,Regular
+CUST_00353,Noor Hassan,Sharjah,2025-10-13,App,Regular
+CUST_00354,Amina Ali,Abu Dhabi,2025-08-25,Call Center,VIP
+CUST_00355,Hassan Khan,Sharjah,2025-12-27,App,Regular
+CUST_00356,Layla Salem,Sharjah,2025-07-19,App,Regular
+CUST_00357,Layla Ali,Dubai,2025-01-26,App,Regular
+CUST_00358,Hassan Ibrahim,Dubai,2025-12-31,App,Regular
+CUST_00359,Youssef Ali,Ras Al Khaimah,2025-12-09,App,Regular
+CUST_00360,Ali Ibrahim,Sharjah,2025-01-22,App,VIP
+CUST_00361,Ali Mahmoud,Sharjah,2025-11-02,App,Regular
+CUST_00362,Hassan Al Nahyan,Ajman,2025-08-17,Referral,Regular
+CUST_00363,Aisha Mahmoud,Abu Dhabi,2025-08-25,App,VIP
+CUST_00364,Ahmed Al Qasimi,Dubai,2025-08-01,Referral,Regular
+CUST_00365,Ali Al Nahyan,Abu Dhabi,2025-09-01,Web,Regular
+CUST_00366,Khalid Hassan,Dubai,2025-11-19,App,Regular
+CUST_00367,Youssef Al Nahyan,Sharjah,2025-06-21,App,Regular
+CUST_00368,Amina Ali,Ras Al Khaimah,2025-06-15,Call Center,VIP
+CUST_00369,Zainab Mahmoud,Ras Al Khaimah,2025-01-22,App,Regular
+CUST_00370,Leila Al Nahyan,Sharjah,2025-05-04,Web,Regular
+CUST_00371,Sara Khan,Sharjah,2025-02-19,App,Regular
+CUST_00372,Huda Al Nahyan,Abu Dhabi,2025-11-24,Web,Regular
+CUST_00373,Aisha Ibrahim,Dubai,2025-03-30,Call Center,Regular
+CUST_00374,Sara Al Maktoum,Dubai,2025-01-27,Call Center,VIP
+CUST_00375,Hassan Al Maktoum,Ajman,2025-06-03,Call Center,Regular
+CUST_00376,Noor Hassan,Abu Dhabi,2025-08-12,App,Regular
+CUST_00377,Ali Khan,Dubai,2025-10-02,App,Premium
+CUST_00378,Huda Salem,Abu Dhabi,2025-12-19,App,Regular
+CUST_00379,Mariam Al Qasimi,Sharjah,2025-04-03,App,Premium
+CUST_00380,Mohammed Salem,Abu Dhabi,2025-07-18,Web,Regular
+CUST_00381,Leila Khan,Sharjah,2025-09-15,App,Regular
+CUST_00382,Tariq Al Qasimi,Abu Dhabi,2025-05-02,App,Premium
+CUST_00383,Abdullah Ahmed,Sharjah,2025-08-27,Web,Premium
+CUST_00384,Khalid Al Maktoum,Ajman,2025-08-30,Web,Premium
+CUST_00385,Sara Mahmoud,Sharjah,2025-03-25,Web,Regular
+CUST_00386,Mohammed Ibrahim,Sharjah,2025-06-29,App,Premium
+CUST_00387,Tariq Ahmed,Ajman,2025-11-27,App,Premium
+CUST_00388,Huda Ahmed,Dubai,2025-08-25,App,Premium
+CUST_00389,Sara Khan,Dubai,2025-07-19,Call Center,Premium
+CUST_00390,Zainab Al Nahyan,Abu Dhabi,2025-05-05,App,Regular
+CUST_00391,Youssef Salem,Abu Dhabi,2025-07-06,Referral,Regular
+CUST_00392,Tariq Ahmed,Dubai,2025-12-28,Web,Regular
+CUST_00393,Sara Al Maktoum,Sharjah,2025-12-07,App,Premium
+CUST_00394,Youssef Ahmed,Abu Dhabi,2025-01-08,Referral,Regular
+CUST_00395,Tariq Al Maktoum,Abu Dhabi,2025-11-10,Referral,Regular
+CUST_00396,Zainab Ahmed,Ajman,2025-05-01,Web,Regular
+CUST_00397,Leila Hassan,Dubai,2025-04-26,Web,Regular
+CUST_00398,Omar Salem,Abu Dhabi,2025-05-12,App,Regular
+CUST_00399,Ali Al Nahyan,Dubai,2025-11-21,Call Center,VIP
+CUST_00400,Fatima Ahmed,Ras Al Khaimah,2025-08-17,Web,Regular
+CUST_00401,Fatima Salem,Sharjah,2025-07-09,App,Regular
+CUST_00402,Ali Al Nahyan,Dubai,2025-06-04,Web,Premium
+CUST_00403,Hassan Ali,Sharjah,2025-04-03,App,Regular
+CUST_00404,Omar Al Qasimi,Ras Al Khaimah,2025-10-07,App,Regular
+CUST_00405,Noor Mahmoud,Dubai,2025-09-17,Call Center,Regular
+CUST_00406,Khalid Al Qasimi,Dubai,2025-05-15,App,Regular
+CUST_00407,Zainab Ahmed,Sharjah,2025-06-26,App,VIP
+CUST_00408,Aisha Ibrahim,Dubai,2025-02-11,App,VIP
+CUST_00409,Ali Khan,Abu Dhabi,2025-12-16,Web,Regular
+CUST_00410,Youssef Mahmoud,Dubai,2025-07-10,Referral,Regular
+CUST_00411,Mohammed Ali,Ajman,2025-01-11,App,Regular
+CUST_00412,Khalid Mahmoud,Dubai,2025-03-08,Web,Regular
+CUST_00413,Abdullah Hassan,Ajman,2025-12-14,Web,VIP
+CUST_00414,Khalid Salem,Dubai,2025-07-18,Call Center,Premium
+CUST_00415,Noor Al Nahyan,Sharjah,2025-12-15,Call Center,Premium
+CUST_00416,Layla Ibrahim,Abu Dhabi,2025-01-16,App,Regular
+CUST_00417,Leila Mahmoud,Ajman,2025-06-20,Web,Premium
+CUST_00418,Leila Khan,Abu Dhabi,2025-12-01,App,Regular
+CUST_00419,Mohammed Ibrahim,Sharjah,2025-12-28,App,Regular
+CUST_00420,Sara Ali,Abu Dhabi,2025-03-04,App,Regular
+CUST_00421,Ali Al Maktoum,Dubai,2025-01-23,Call Center,Regular
+CUST_00422,Sara Ibrahim,Abu Dhabi,2025-03-04,App,Regular
+CUST_00423,Aisha Khan,Dubai,2025-10-06,Web,Regular
+CUST_00424,Ali Ali,Dubai,2025-08-24,Web,Premium
+CUST_00425,Noor Mahmoud,Sharjah,2025-08-06,App,Regular
+CUST_00426,Tariq Al Qasimi,Dubai,2025-08-04,App,VIP
+CUST_00427,Aisha Ibrahim,Dubai,2025-11-15,Web,Regular
+CUST_00428,Huda Ahmed,Sharjah,2025-01-20,Web,Regular
+CUST_00429,Noor Khan,Dubai,2025-08-19,Web,Regular
+CUST_00430,Abdullah Khan,Dubai,2025-07-08,App,Regular
+CUST_00431,Aisha Hassan,Dubai,2025-10-09,App,Regular
+CUST_00432,Noor Al Maktoum,Sharjah,2025-07-26,Call Center,Regular
+CUST_00433,Khalid Khan,Dubai,2025-03-07,App,Regular
+CUST_00434,Abdullah Al Nahyan,Sharjah,2025-12-09,App,VIP
+CUST_00435,Omar Salem,Dubai,2025-01-14,Web,Premium
+CUST_00436,Fatima Hassan,Ajman,2025-05-08,Web,Premium
+CUST_00437,Ali Salem,Dubai,2025-04-19,Call Center,Regular
+CUST_00438,Mohammed Mahmoud,Ajman,2025-04-20,Web,Premium
+CUST_00439,Tariq Khan,Abu Dhabi,2025-05-03,Web,Regular
+CUST_00440,Hassan Al Qasimi,Sharjah,2025-11-05,App,Regular
+CUST_00441,Ahmed Ahmed,Dubai,2025-03-19,App,Premium
+CUST_00442,Ali Mahmoud,Dubai,2025-05-12,Referral,Regular
+CUST_00443,Mariam Al Nahyan,Dubai,2025-12-08,Call Center,Regular
+CUST_00444,Ahmed Al Qasimi,Abu Dhabi,2025-01-11,Web,Premium
+CUST_00445,Noor Khan,Dubai,2025-11-01,Referral,VIP
+CUST_00446,Hassan Al Maktoum,Sharjah,2025-04-03,App,Regular
+CUST_00447,Khalid Al Maktoum,Dubai,2025-03-09,App,Regular
+CUST_00448,Huda Mahmoud,Abu Dhabi,2025-03-03,Call Center,Premium
+CUST_00449,Mohammed Ibrahim,Sharjah,2025-08-21,App,Regular
+CUST_00450,Noor Mahmoud,Dubai,2025-11-03,Referral,Regular
+CUST_00451,Aisha Ibrahim,Ajman,2025-09-18,Web,Regular
+CUST_00452,Layla Salem,Sharjah,2025-01-26,Web,Premium
+CUST_00453,Rashid Ahmed,Ajman,2025-08-26,App,Regular
+CUST_00454,Ahmed Al Maktoum,Abu Dhabi,2025-09-06,Referral,Regular
+CUST_00455,Youssef Ali,Abu Dhabi,2025-12-21,Web,Premium
+CUST_00456,Aisha Ibrahim,Dubai,2026-01-03,Web,VIP
+CUST_00457,Abdullah Al Nahyan,Dubai,2025-02-14,App,VIP
+CUST_00458,Hassan Salem,Dubai,2025-03-20,Call Center,Regular
+CUST_00459,Mohammed Al Qasimi,Dubai,2025-05-24,Call Center,Regular
+CUST_00460,Leila Salem,Abu Dhabi,2025-10-11,App,Regular
+CUST_00461,Hassan Ali,Dubai,2025-11-05,App,VIP
+CUST_00462,Rashid Ahmed,Dubai,2025-08-24,Web,Regular
+CUST_00463,Rashid Salem,Sharjah,2025-08-12,App,VIP
+CUST_00464,Aisha Al Nahyan,Abu Dhabi,2025-12-05,App,Regular
+CUST_00465,Amina Khan,Dubai,2025-08-12,Web,Regular
+CUST_00466,Abdullah Khan,Sharjah,2025-08-03,App,Regular
+CUST_00467,Hassan Ibrahim,Abu Dhabi,2025-07-27,Web,Regular
+CUST_00468,Huda Al Nahyan,Dubai,2025-06-13,App,Premium
+CUST_00469,Huda Hassan,Sharjah,2025-12-10,Web,Premium
+CUST_00470,Khalid Hassan,Sharjah,2025-03-23,Web,Premium
+CUST_00471,Zainab Al Nahyan,Dubai,2025-02-19,App,Regular
+CUST_00472,Mohammed Al Nahyan,Dubai,2025-08-13,Web,VIP
+CUST_00473,Aisha Hassan,Dubai,2025-03-11,App,Regular
+CUST_00474,Amina Al Maktoum,Ajman,2025-10-31,App,Regular
+CUST_00475,Amina Mahmoud,Dubai,2025-06-21,App,VIP
+CUST_00476,Aisha Ali,Ras Al Khaimah,2025-07-04,App,VIP
+CUST_00477,Huda Al Maktoum,Abu Dhabi,2025-05-31,Call Center,Regular
+CUST_00478,Leila Ahmed,Abu Dhabi,2025-07-03,Web,Regular
+CUST_00479,Aisha Salem,Dubai,2025-09-20,App,Regular
+CUST_00480,Omar Al Qasimi,Sharjah,2025-12-06,App,Regular
+CUST_00481,Zainab Khan,Ras Al Khaimah,2025-02-28,App,Regular
+CUST_00482,Noor Mahmoud,Abu Dhabi,2025-07-11,Call Center,Regular
+CUST_00483,Aisha Ahmed,Sharjah,2025-10-24,Call Center,VIP
+CUST_00484,Layla Ali,Sharjah,2025-10-18,Web,Regular
+CUST_00485,Leila Salem,Ajman,2025-12-15,Web,Regular
+CUST_00486,Amina Al Maktoum,Ajman,2025-11-11,Web,Regular
+CUST_00487,Khalid Al Maktoum,Dubai,2025-04-06,Web,Regular
+CUST_00488,Khalid Ahmed,Sharjah,2025-06-26,App,Regular
+CUST_00489,Noor Al Maktoum,Ras Al Khaimah,2025-04-06,App,VIP
+CUST_00490,Ali Salem,Abu Dhabi,2025-12-06,Call Center,Premium
+CUST_00491,Youssef Al Nahyan,Abu Dhabi,2025-03-17,Web,Premium
+CUST_00492,Ahmed Al Nahyan,Abu Dhabi,2025-10-02,App,Regular
+CUST_00493,Omar Ali,Sharjah,2025-08-06,Call Center,Premium
+CUST_00494,Abdullah Hassan,Abu Dhabi,2025-03-25,Call Center,Regular
+CUST_00495,Noor Ahmed,Abu Dhabi,2025-06-19,App,Regular
+CUST_00496,Tariq Salem,Dubai,2025-02-16,App,Regular
+CUST_00497,Fatima Al Qasimi,Dubai,2025-03-25,App,Regular
+CUST_00498,Leila Al Maktoum,Dubai,2025-12-15,App,Regular
+CUST_00499,Mohammed Ahmed,Abu Dhabi,2025-08-18,Web,Regular
+CUST_00500,Huda Ibrahim,Abu Dhabi,2025-11-10,App,Premium
+CUST_00501,Abdullah Ali,Abu Dhabi,2025-05-23,Web,Regular
+CUST_00502,Omar Mahmoud,Dubai,2025-03-03,App,Regular
+CUST_00503,Noor Ali,Abu Dhabi,2025-03-01,Web,Regular
+CUST_00504,Sara Salem,Sharjah,2025-09-10,Call Center,Premium
+CUST_00505,Rashid Ahmed,Ras Al Khaimah,2025-01-27,App,Regular
+CUST_00506,Layla Ali,Dubai,2025-11-06,Web,Premium
+CUST_00507,Fatima Al Maktoum,Dubai,2025-04-18,Referral,Regular
+CUST_00508,Sara Khan,Ajman,2025-03-15,App,Regular
+CUST_00509,Khalid Ahmed,Abu Dhabi,2025-06-20,App,Regular
+CUST_00510,Aisha Al Maktoum,Dubai,2025-09-15,Call Center,Regular
+CUST_00511,Huda Al Qasimi,Dubai,2025-03-11,Web,Premium
+CUST_00512,Youssef Mahmoud,Dubai,2025-12-30,App,Regular
+CUST_00513,Layla Mahmoud,Dubai,2025-10-17,Web,Regular
+CUST_00514,Noor Al Nahyan,Abu Dhabi,2025-07-26,Web,Regular
+CUST_00515,Fatima Ali,Abu Dhabi,2025-01-13,App,VIP
+CUST_00516,Abdullah Al Nahyan,Abu Dhabi,2025-06-13,Call Center,Regular
+CUST_00517,Tariq Ali,Dubai,2025-10-24,Web,VIP
+CUST_00518,Youssef Ali,Abu Dhabi,2025-06-01,Call Center,Premium
+CUST_00519,Aisha Ali,Dubai,2025-01-14,App,Regular
+CUST_00520,Hassan Al Qasimi,Abu Dhabi,2025-11-16,Call Center,VIP
+CUST_00521,Abdullah Hassan,Dubai,2025-02-18,App,Premium
+CUST_00522,Huda Al Nahyan,Dubai,2025-05-08,Call Center,Regular
+CUST_00523,Huda Salem,Sharjah,2025-07-28,App,Regular
+CUST_00524,Rashid Al Nahyan,Abu Dhabi,2025-07-25,Web,Regular
+CUST_00525,Sara Hassan,Sharjah,2025-04-27,Call Center,Regular
+CUST_00526,Hassan Al Qasimi,Dubai,2025-02-12,App,Regular
+CUST_00527,Rashid Al Nahyan,Abu Dhabi,2025-10-02,Web,Regular
+CUST_00528,Rashid Khan,Dubai,2025-07-01,Web,Regular
+CUST_00529,Noor Al Qasimi,Ras Al Khaimah,2025-05-04,App,Regular
+CUST_00530,Aisha Al Qasimi,Abu Dhabi,2025-05-15,App,Premium
+CUST_00531,Omar Al Qasimi,Sharjah,2025-11-08,Referral,Regular
+CUST_00532,Ali Al Nahyan,Dubai,2025-04-04,Web,Regular
+CUST_00533,Zainab Ibrahim,Dubai,2025-10-19,App,Regular
+CUST_00534,Tariq Ibrahim,Ajman,2025-12-18,App,Regular
+CUST_00535,Tariq Salem,Dubai,2025-06-18,App,Regular
+CUST_00536,Hassan Al Qasimi,Abu Dhabi,2025-08-17,App,Premium
+CUST_00537,Mohammed Ibrahim,Dubai,2025-08-18,Web,Premium
+CUST_00538,Sara Ahmed,Sharjah,2025-11-02,Web,Regular
+CUST_00539,Fatima Hassan,Dubai,2025-09-20,Web,VIP
+CUST_00540,Mohammed Ahmed,Sharjah,2025-08-28,Web,Premium
+CUST_00541,Abdullah Al Maktoum,Abu Dhabi,2025-02-02,App,Regular
+CUST_00542,Noor Ahmed,Ras Al Khaimah,2025-02-12,App,Regular
+CUST_00543,Mohammed Salem,Dubai,2025-11-04,Web,Regular
+CUST_00544,Rashid Ali,Abu Dhabi,2025-08-28,Call Center,Regular
+CUST_00545,Tariq Mahmoud,Sharjah,2025-01-25,Call Center,VIP
+CUST_00546,Abdullah Salem,Dubai,2025-12-03,App,Regular
+CUST_00547,Omar Hassan,Ras Al Khaimah,2025-11-09,Referral,Regular
+CUST_00548,Zainab Mahmoud,Sharjah,2025-03-22,Web,Regular
+CUST_00549,Fatima Ibrahim,Dubai,2025-02-25,Call Center,Regular
+CUST_00550,Hassan Al Nahyan,Sharjah,2025-09-19,Call Center,Premium
+CUST_00551,Mariam Al Maktoum,Dubai,2025-05-10,App,Regular
+CUST_00552,Abdullah Ibrahim,Dubai,2025-09-29,App,VIP
+CUST_00553,Rashid Salem,Abu Dhabi,2025-03-26,App,Regular
+CUST_00554,Noor Hassan,Abu Dhabi,2025-05-28,Web,Regular
+CUST_00555,Youssef Ali,Ajman,2025-06-26,Web,VIP
+CUST_00556,Leila Al Maktoum,Ajman,2025-11-23,App,VIP
+CUST_00557,Hassan Al Nahyan,Dubai,2025-06-21,Call Center,Regular
+CUST_00558,Aisha Mahmoud,Ajman,2025-12-17,Call Center,Premium
+CUST_00559,Youssef Ahmed,Sharjah,2025-05-13,App,Regular
+CUST_00560,Leila Al Qasimi,Abu Dhabi,2025-06-23,App,Regular
+CUST_00561,Mohammed Salem,Dubai,2025-12-09,Referral,Regular
+CUST_00562,Ali Hassan,Sharjah,2025-06-11,App,Premium
+CUST_00563,Youssef Al Qasimi,Ajman,2025-11-04,Web,Regular
+CUST_00564,Mohammed Ahmed,Sharjah,2025-10-17,App,Regular
+CUST_00565,Youssef Hassan,Dubai,2025-03-10,App,Regular
+CUST_00566,Rashid Al Nahyan,Dubai,2025-11-30,App,Regular
+CUST_00567,Huda Mahmoud,Ras Al Khaimah,2025-07-08,Web,VIP
+CUST_00568,Ahmed Hassan,Abu Dhabi,2025-06-11,App,Regular
+CUST_00569,Mariam Khan,Abu Dhabi,2025-06-27,App,Regular
+CUST_00570,Zainab Khan,Dubai,2025-04-29,Web,Regular
+CUST_00571,Ali Al Qasimi,Dubai,2025-02-12,App,Premium
+CUST_00572,Sara Al Nahyan,Abu Dhabi,2025-09-20,App,VIP
+CUST_00573,Amina Mahmoud,Dubai,2025-01-23,Web,VIP
+CUST_00574,Hassan Salem,Dubai,2025-03-12,App,Regular
+CUST_00575,Leila Ali,Dubai,2025-03-23,App,Regular
+CUST_00576,Mariam Al Qasimi,Dubai,2025-12-24,Web,VIP
+CUST_00577,Leila Al Qasimi,Sharjah,2025-08-16,Web,Regular
+CUST_00578,Fatima Ali,Abu Dhabi,2025-07-09,Web,Regular
+CUST_00579,Layla Ibrahim,Dubai,2025-11-12,Call Center,Regular
+CUST_00580,Sara Ibrahim,Dubai,2025-05-03,App,Regular
+CUST_00581,Amina Khan,Sharjah,2025-06-11,Web,Premium
+CUST_00582,Zainab Khan,Dubai,2025-07-11,App,Regular
+CUST_00583,Tariq Ibrahim,Dubai,2025-08-28,App,Premium
+CUST_00584,Sara Ali,Dubai,2025-09-18,Web,Regular
+CUST_00585,Rashid Ali,Dubai,2025-03-27,App,VIP
+CUST_00586,Omar Salem,Sharjah,2025-03-15,Referral,Regular
+CUST_00587,Khalid Al Maktoum,Dubai,2025-11-28,Web,Regular
+CUST_00588,Zainab Hassan,Sharjah,2025-10-14,App,Regular
+CUST_00589,Aisha Mahmoud,Dubai,2025-03-08,App,Premium
+CUST_00590,Sara Al Nahyan,Abu Dhabi,2025-03-27,App,Regular
+CUST_00591,Khalid Ibrahim,Abu Dhabi,2025-09-23,Call Center,Premium
+CUST_00592,Ali Ali,Ras Al Khaimah,2025-02-19,Call Center,Regular
+CUST_00593,Layla Ibrahim,Sharjah,2025-07-01,App,Regular
+CUST_00594,Ahmed Ali,Sharjah,2025-01-31,App,VIP
+CUST_00595,Youssef Mahmoud,Abu Dhabi,2025-07-14,Web,Regular
+CUST_00596,Layla Ali,Ajman,2025-02-14,Web,Regular
+CUST_00597,Noor Khan,Dubai,2025-01-18,Web,Regular
+CUST_00598,Hassan Al Nahyan,Sharjah,2026-01-04,Web,Regular
+CUST_00599,Hassan Al Qasimi,Dubai,2025-03-15,App,Premium
+CUST_00600,Fatima Ahmed,Dubai,2025-09-02,App,Regular
+CUST_00601,Ali Ibrahim,Ras Al Khaimah,2025-08-21,Web,Regular
+CUST_00602,Leila Al Maktoum,Dubai,2025-02-13,App,Premium
+CUST_00603,Ahmed Ahmed,Sharjah,2025-04-24,App,Regular
+CUST_00604,Ali Mahmoud,Dubai,2025-11-11,Web,Premium
+CUST_00605,Rashid Ali,Dubai,2025-03-01,App,Regular
+CUST_00606,Sara Khan,Ras Al Khaimah,2025-06-07,App,Premium
+CUST_00607,Aisha Al Maktoum,Abu Dhabi,2025-05-06,App,Regular
+CUST_00608,Huda Salem,Dubai,2025-08-26,Web,Premium
+CUST_00609,Mohammed Al Nahyan,Abu Dhabi,2025-09-16,Web,Regular
+CUST_00610,Leila Mahmoud,Ras Al Khaimah,2025-01-12,Call Center,Regular
+CUST_00611,Rashid Salem,Ras Al Khaimah,2025-05-07,Web,Regular
+CUST_00612,Ali Ahmed,Sharjah,2025-08-11,Call Center,Regular
+CUST_00613,Ahmed Salem,Dubai,2025-07-03,App,VIP
+CUST_00614,Layla Salem,Dubai,2025-08-05,App,Regular
+CUST_00615,Mariam Al Nahyan,Abu Dhabi,2025-09-29,Web,VIP
+CUST_00616,Noor Al Nahyan,Dubai,2025-09-30,App,Regular
+CUST_00617,Amina Mahmoud,Ajman,2025-09-20,Web,Regular
+CUST_00618,Amina Al Maktoum,Sharjah,2025-07-22,Call Center,Premium
+CUST_00619,Zainab Al Maktoum,Ajman,2025-11-25,App,Premium
+CUST_00620,Youssef Hassan,Abu Dhabi,2025-05-13,Call Center,Premium
+CUST_00621,Ahmed Hassan,Sharjah,2025-02-07,Web,Regular
+CUST_00622,Noor Khan,Abu Dhabi,2025-12-06,Referral,VIP
+CUST_00623,Aisha Salem,Dubai,2025-06-23,App,Regular
+CUST_00624,Ali Al Maktoum,Sharjah,2025-07-03,Call Center,Regular
+CUST_00625,Amina Hassan,Abu Dhabi,2025-11-29,Call Center,Premium
+CUST_00626,Mariam Ibrahim,Abu Dhabi,2025-12-26,Web,Regular
+CUST_00627,Zainab Al Qasimi,Dubai,2025-03-14,Web,Regular
+CUST_00628,Mohammed Ibrahim,Ajman,2025-01-22,Web,Premium
+CUST_00629,Sara Khan,Dubai,2025-01-26,Web,Regular
+CUST_00630,Omar Al Maktoum,Dubai,2025-06-14,Web,VIP
+CUST_00631,Sara Mahmoud,Dubai,2025-07-26,App,Premium
+CUST_00632,Amina Ibrahim,Dubai,2025-05-13,Web,Premium
+CUST_00633,Fatima Khan,Abu Dhabi,2025-05-30,App,Regular
+CUST_00634,Noor Al Maktoum,Sharjah,2025-12-05,Web,Regular
+CUST_00635,Hassan Ahmed,Sharjah,2025-03-08,App,Premium
+CUST_00636,Noor Ali,Dubai,2025-07-27,Referral,Regular
+CUST_00637,Abdullah Ali,Dubai,2025-06-26,App,Regular
+CUST_00638,Mariam Ibrahim,Ajman,2025-12-24,Referral,Regular
+CUST_00639,Zainab Hassan,Abu Dhabi,2025-09-26,Web,Premium
+CUST_00640,Khalid Al Nahyan,Abu Dhabi,2025-08-09,App,Regular
+CUST_00641,Mohammed Ali,Sharjah,2025-11-08,App,Regular
+CUST_00642,Mariam Mahmoud,Dubai,2025-06-03,Call Center,Regular
+CUST_00643,Hassan Al Nahyan,Abu Dhabi,2025-02-13,Web,Regular
+CUST_00644,Hassan Ahmed,Dubai,2025-06-09,Web,Regular
+CUST_00645,Abdullah Salem,Abu Dhabi,2025-08-10,Web,Regular
+CUST_00646,Mariam Ibrahim,Sharjah,2025-07-02,App,Premium
+CUST_00647,Abdullah Al Maktoum,Abu Dhabi,2025-07-03,App,Regular
+CUST_00648,Leila Ali,Dubai,2025-05-24,Call Center,Premium
+CUST_00649,Fatima Al Nahyan,Sharjah,2025-12-13,Web,Regular
+CUST_00650,Youssef Hassan,Dubai,2025-09-23,App,Regular
+CUST_00651,Mariam Al Maktoum,Dubai,2025-03-18,App,Regular
+CUST_00652,Leila Ibrahim,Sharjah,2025-01-21,Referral,VIP
+CUST_00653,Ali Al Nahyan,Abu Dhabi,2025-05-04,App,Regular
+CUST_00654,Noor Hassan,Sharjah,2025-07-19,App,Regular
+CUST_00655,Tariq Al Maktoum,Sharjah,2025-11-09,App,Regular
+CUST_00656,Ali Ibrahim,Abu Dhabi,2025-07-12,App,Regular
+CUST_00657,Noor Ibrahim,Dubai,2025-02-12,App,Regular
+CUST_00658,Tariq Al Qasimi,Sharjah,2025-10-02,App,Regular
+CUST_00659,Noor Ali,Dubai,2025-06-13,Referral,Regular
+CUST_00660,Khalid Khan,Abu Dhabi,2025-03-03,Call Center,Premium
+CUST_00661,Ahmed Al Qasimi,Dubai,2025-09-16,Call Center,Regular
+CUST_00662,Rashid Ali,Abu Dhabi,2025-10-18,App,Regular
+CUST_00663,Aisha Ahmed,Sharjah,2025-05-17,Web,Regular
+CUST_00664,Abdullah Khan,Sharjah,2025-11-13,Call Center,Regular
+CUST_00665,Sara Ibrahim,Abu Dhabi,2025-04-16,App,Premium
+CUST_00666,Aisha Al Qasimi,Sharjah,2025-02-10,Referral,Regular
+CUST_00667,Abdullah Al Qasimi,Dubai,2026-01-04,App,Regular
+CUST_00668,Abdullah Al Nahyan,Dubai,2025-12-19,Referral,Regular
+CUST_00669,Hassan Hassan,Dubai,2026-01-02,Call Center,Regular
+CUST_00670,Mohammed Mahmoud,Sharjah,2025-10-08,App,Regular
+CUST_00671,Sara Ahmed,Dubai,2025-03-25,App,VIP
+CUST_00672,Mariam Hassan,Dubai,2025-09-21,Web,Regular
+CUST_00673,Layla Al Nahyan,Dubai,2025-04-16,Call Center,Regular
+CUST_00674,Ali Khan,Sharjah,2025-09-13,Referral,Regular
+CUST_00675,Ahmed Hassan,Ajman,2025-10-14,App,Regular
+CUST_00676,Tariq Hassan,Dubai,2025-08-31,Web,VIP
+CUST_00677,Amina Al Qasimi,Dubai,2025-11-13,Web,Regular
+CUST_00678,Mohammed Al Nahyan,Abu Dhabi,2025-06-11,Web,VIP
+CUST_00679,Youssef Ibrahim,Abu Dhabi,2025-09-30,App,Regular
+CUST_00680,Huda Ali,Dubai,2025-10-25,App,Regular
+CUST_00681,Mohammed Al Qasimi,Ajman,2025-06-15,Web,Regular
+CUST_00682,Mohammed Ibrahim,Dubai,2025-08-30,Call Center,Premium
+CUST_00683,Rashid Hassan,Dubai,2025-03-10,Web,Regular
+CUST_00684,Amina Salem,Dubai,2025-04-07,Web,Regular
+CUST_00685,Ali Ali,Dubai,2025-09-18,Referral,Premium
+CUST_00686,Fatima Al Nahyan,Sharjah,2025-09-26,Web,Regular
+CUST_00687,Ali Ahmed,Sharjah,2025-03-29,Web,Regular
+CUST_00688,Mariam Hassan,Abu Dhabi,2026-01-02,Call Center,Regular
+CUST_00689,Layla Hassan,Dubai,2025-09-26,Call Center,Regular
+CUST_00690,Sara Al Nahyan,Dubai,2025-05-12,App,Regular
+CUST_00691,Omar Mahmoud,Sharjah,2025-05-24,Web,Regular
+CUST_00692,Ali Ahmed,Ajman,2025-11-14,Call Center,Premium
+CUST_00693,Amina Al Nahyan,Dubai,2025-09-18,Web,VIP
+CUST_00694,Mariam Salem,Sharjah,2025-10-28,App,Regular
+CUST_00695,Ali Al Qasimi,Abu Dhabi,2025-12-07,Referral,Regular
+CUST_00696,Leila Salem,Abu Dhabi,2025-06-25,App,Regular
+CUST_00697,Tariq Al Maktoum,Sharjah,2025-01-18,App,Premium
+CUST_00698,Mohammed Al Maktoum,Ras Al Khaimah,2025-11-28,App,Regular
+CUST_00699,Tariq Ahmed,Dubai,2025-12-03,Call Center,Regular
+CUST_00700,Omar Salem,Abu Dhabi,2025-08-05,Call Center,Regular
+CUST_00701,Leila Al Maktoum,Ajman,2025-09-15,Web,Regular
+CUST_00702,Amina Ahmed,Sharjah,2025-11-28,Call Center,Regular
+CUST_00703,Sara Ibrahim,Ajman,2025-05-09,Referral,Regular
+CUST_00704,Youssef Ahmed,Ras Al Khaimah,2025-08-24,App,Regular
+CUST_00705,Mohammed Al Maktoum,Dubai,2025-03-25,Call Center,Regular
+CUST_00706,Abdullah Ali,Dubai,2025-09-08,App,Regular
+CUST_00707,Abdullah Khan,Dubai,2025-06-27,Call Center,Premium
+CUST_00708,Leila Al Qasimi,Abu Dhabi,2025-06-13,Referral,Regular
+CUST_00709,Hassan Hassan,Ras Al Khaimah,2025-07-27,Web,Regular
+CUST_00710,Ali Hassan,Dubai,2025-09-24,Call Center,Regular
+CUST_00711,Amina Al Nahyan,Dubai,2025-06-16,App,Regular
+CUST_00712,Layla Ibrahim,Abu Dhabi,2025-03-07,Web,Premium
+CUST_00713,Khalid Ibrahim,Dubai,2025-05-10,Web,Regular
+CUST_00714,Ali Al Nahyan,Ajman,2025-01-29,Call Center,Regular
+CUST_00715,Sara Ali,Sharjah,2025-11-15,App,Regular
+CUST_00716,Huda Khan,Sharjah,2025-03-26,Web,Regular
+CUST_00717,Hassan Salem,Abu Dhabi,2025-06-13,Call Center,Regular
+CUST_00718,Omar Al Qasimi,Dubai,2025-09-16,Web,Premium
+CUST_00719,Rashid Ibrahim,Dubai,2025-09-16,App,Regular
+CUST_00720,Sara Ibrahim,Dubai,2025-01-15,Web,Premium
+CUST_00721,Mohammed Ali,Sharjah,2025-09-19,Web,Regular
+CUST_00722,Abdullah Khan,Sharjah,2025-04-24,Web,VIP
+CUST_00723,Tariq Hassan,Abu Dhabi,2025-01-28,App,Regular
+CUST_00724,Fatima Ahmed,Dubai,2025-09-14,Web,Regular
+CUST_00725,Leila Ibrahim,Dubai,2025-05-30,Call Center,Regular
+CUST_00726,Amina Al Maktoum,Sharjah,2025-02-28,App,Regular
+CUST_00727,Huda Al Qasimi,Sharjah,2025-05-19,Web,Regular
+CUST_00728,Noor Ali,Dubai,2025-07-10,App,Regular
+CUST_00729,Fatima Ali,Sharjah,2025-01-30,Referral,Premium
+CUST_00730,Tariq Mahmoud,Sharjah,2025-04-13,Call Center,Regular
+CUST_00731,Noor Mahmoud,Dubai,2025-05-31,Referral,Regular
+CUST_00732,Mohammed Ali,Abu Dhabi,2025-09-19,App,Regular
+CUST_00733,Abdullah Mahmoud,Abu Dhabi,2025-05-27,Call Center,Regular
+CUST_00734,Leila Salem,Dubai,2025-03-05,Referral,Regular
+CUST_00735,Ali Al Nahyan,Abu Dhabi,2025-07-24,App,Premium
+CUST_00736,Noor Hassan,Ajman,2025-10-16,App,Premium
+CUST_00737,Noor Al Qasimi,Dubai,2025-04-15,Referral,Premium
+CUST_00738,Leila Mahmoud,Sharjah,2025-07-28,App,VIP
+CUST_00739,Rashid Al Maktoum,Sharjah,2025-01-27,App,Premium
+CUST_00740,Fatima Al Qasimi,Dubai,2026-01-04,Call Center,Regular
+CUST_00741,Hassan Ibrahim,Sharjah,2025-09-26,Web,Regular
+CUST_00742,Abdullah Al Qasimi,Dubai,2025-11-10,App,Regular
+CUST_00743,Rashid Al Qasimi,Dubai,2025-06-20,Web,Regular
+CUST_00744,Leila Hassan,Dubai,2025-03-28,Web,Regular
+CUST_00745,Youssef Salem,Ajman,2025-06-06,Call Center,Regular
+CUST_00746,Tariq Hassan,Abu Dhabi,2025-09-20,Call Center,Regular
+CUST_00747,Rashid Mahmoud,Dubai,2025-09-11,App,Premium
+CUST_00748,Tariq Ahmed,Dubai,2025-09-04,Web,VIP
+CUST_00749,Ahmed Hassan,Ajman,2025-06-22,Web,Regular
+CUST_00750,Aisha Ali,Sharjah,2025-10-29,Web,Regular
+CUST_00751,Sara Al Maktoum,Dubai,2025-11-05,Referral,Regular
+CUST_00752,Zainab Ahmed,Sharjah,2025-12-05,Call Center,Regular
+CUST_00753,Tariq Salem,Abu Dhabi,2025-04-30,App,Regular
+CUST_00754,Fatima Salem,Abu Dhabi,2025-09-06,Call Center,Regular
+CUST_00755,Mariam Mahmoud,Ajman,2025-11-22,App,Regular
+CUST_00756,Leila Ali,Abu Dhabi,2025-03-20,Web,Premium
+CUST_00757,Layla Al Maktoum,Dubai,2025-10-24,Web,Regular
+CUST_00758,Aisha Khan,Dubai,2025-01-13,Web,Regular
+CUST_00759,Abdullah Hassan,Ras Al Khaimah,2025-08-06,Web,Premium
+CUST_00760,Ali Ali,Abu Dhabi,2025-12-23,Web,Regular
+CUST_00761,Omar Ali,Dubai,2025-09-17,App,Regular
+CUST_00762,Leila Ibrahim,Dubai,2025-02-04,App,Regular
+CUST_00763,Ali Mahmoud,Ras Al Khaimah,2025-04-20,App,Regular
+CUST_00764,Amina Hassan,Dubai,2025-12-09,Web,Regular
+CUST_00765,Zainab Mahmoud,Dubai,2025-07-15,Web,Regular
+CUST_00766,Hassan Al Qasimi,Dubai,2025-08-27,App,Regular
+CUST_00767,Amina Hassan,Dubai,2025-10-10,App,Premium
+CUST_00768,Noor Ahmed,Abu Dhabi,2025-11-12,Web,Regular
+CUST_00769,Zainab Khan,Ajman,2025-05-10,App,Regular
+CUST_00770,Khalid Mahmoud,Abu Dhabi,2025-06-05,App,Regular
+CUST_00771,Layla Ahmed,Abu Dhabi,2025-05-31,Call Center,Regular
+CUST_00772,Omar Ibrahim,Sharjah,2025-06-15,Referral,Regular
+CUST_00773,Zainab Hassan,Dubai,2025-10-17,App,Regular
+CUST_00774,Khalid Ahmed,Abu Dhabi,2025-03-07,Referral,Premium
+CUST_00775,Tariq Mahmoud,Abu Dhabi,2025-07-17,App,Premium
+CUST_00776,Youssef Hassan,Ras Al Khaimah,2025-03-19,Call Center,Regular
+CUST_00777,Sara Al Maktoum,Abu Dhabi,2025-05-31,App,Regular
+CUST_00778,Mohammed Hassan,Dubai,2025-08-18,Web,Regular
+CUST_00779,Khalid Ibrahim,Dubai,2025-04-23,App,Regular
+CUST_00780,Omar Mahmoud,Dubai,2025-05-22,App,Regular
+CUST_00781,Amina Ahmed,Sharjah,2025-03-15,App,Regular
+CUST_00782,Aisha Salem,Dubai,2025-10-31,Referral,Regular
+CUST_00783,Layla Khan,Sharjah,2025-01-29,App,Regular
+CUST_00784,Rashid Khan,Dubai,2025-11-26,Web,VIP
+CUST_00785,Layla Al Maktoum,Abu Dhabi,2025-02-24,Call Center,Premium
+CUST_00786,Huda Hassan,Dubai,2025-09-02,Referral,Regular
+CUST_00787,Aisha Al Qasimi,Abu Dhabi,2025-01-06,App,Regular
+CUST_00788,Amina Al Qasimi,Abu Dhabi,2025-07-31,App,Regular
+CUST_00789,Zainab Ibrahim,Abu Dhabi,2025-12-03,App,Regular
+CUST_00790,Omar Ahmed,Abu Dhabi,2025-06-17,App,Premium
+CUST_00791,Sara Al Maktoum,Sharjah,2025-02-18,Call Center,Regular
+CUST_00792,Tariq Khan,Abu Dhabi,2025-10-04,Web,Regular
+CUST_00793,Fatima Al Qasimi,Dubai,2025-08-05,Call Center,Regular
+CUST_00794,Mariam Al Maktoum,Sharjah,2025-07-26,Call Center,Premium
+CUST_00795,Zainab Al Qasimi,Ajman,2025-06-01,App,Regular
+CUST_00796,Fatima Al Maktoum,Abu Dhabi,2025-06-05,App,Regular
+CUST_00797,Tariq Salem,Sharjah,2025-02-27,Web,Regular
+CUST_00798,Hassan Ahmed,Dubai,2025-08-24,App,Regular
+CUST_00799,Amina Mahmoud,Ajman,2025-09-13,App,Regular
+CUST_00800,Ali Mahmoud,Dubai,2025-08-31,Web,Regular
+CUST_00801,Khalid Khan,Dubai,2025-03-02,App,Regular
+CUST_00802,Hassan Al Qasimi,Dubai,2025-08-26,Web,Regular
+CUST_00803,Khalid Al Qasimi,Dubai,2025-01-11,App,VIP
+CUST_00804,Hassan Ahmed,Abu Dhabi,2025-10-21,Web,Regular
+CUST_00805,Omar Al Qasimi,Abu Dhabi,2025-11-12,App,Regular
+CUST_00806,Youssef Ali,Ras Al Khaimah,2025-09-24,App,Regular
+CUST_00807,Hassan Al Nahyan,Dubai,2025-07-28,App,Regular
+CUST_00808,Aisha Al Qasimi,Dubai,2025-03-16,Call Center,Regular
+CUST_00809,Zainab Hassan,Dubai,2025-05-11,Referral,Regular
+CUST_00810,Ahmed Ahmed,Ras Al Khaimah,2025-07-19,App,Premium
+CUST_00811,Layla Ibrahim,Abu Dhabi,2025-05-20,Call Center,VIP
+CUST_00812,Hassan Ahmed,Dubai,2025-10-29,Referral,Regular
+CUST_00813,Tariq Al Maktoum,Dubai,2025-05-17,App,Regular
+CUST_00814,Noor Khan,Dubai,2025-02-04,Web,Regular
+CUST_00815,Aisha Ibrahim,Sharjah,2025-06-10,Call Center,Regular
+CUST_00816,Mariam Ali,Dubai,2025-12-21,App,Regular
+CUST_00817,Rashid Ahmed,Dubai,2025-12-23,App,Regular
+CUST_00818,Aisha Ahmed,Ras Al Khaimah,2025-07-11,Web,Regular
+CUST_00819,Leila Khan,Abu Dhabi,2025-04-26,App,Regular
+CUST_00820,Ali Ibrahim,Abu Dhabi,2025-03-23,Web,Regular
+CUST_00821,Abdullah Salem,Ras Al Khaimah,2025-07-14,Call Center,Regular
+CUST_00822,Huda Mahmoud,Abu Dhabi,2025-09-02,Web,Regular
+CUST_00823,Amina Khan,Dubai,2025-05-10,App,Regular
+CUST_00824,Leila Al Nahyan,Abu Dhabi,2025-09-30,App,VIP
+CUST_00825,Abdullah Mahmoud,Ajman,2025-12-30,Web,Regular
+CUST_00826,Noor Al Nahyan,Ajman,2025-10-19,App,Premium
+CUST_00827,Aisha Al Maktoum,Dubai,2025-10-11,Call Center,Regular
+CUST_00828,Rashid Khan,Ajman,2025-10-24,Referral,Regular
+CUST_00829,Amina Al Qasimi,Abu Dhabi,2025-03-29,Referral,Regular
+CUST_00830,Hassan Mahmoud,Ajman,2025-08-18,Web,Regular
+CUST_00831,Aisha Khan,Dubai,2025-10-29,App,Premium
+CUST_00832,Zainab Al Nahyan,Dubai,2025-09-22,Web,Regular
+CUST_00833,Abdullah Al Maktoum,Abu Dhabi,2025-08-24,Call Center,VIP
+CUST_00834,Ali Mahmoud,Abu Dhabi,2025-08-04,Call Center,Premium
+CUST_00835,Abdullah Salem,Abu Dhabi,2025-02-02,Referral,Regular
+CUST_00836,Amina Ibrahim,Dubai,2025-12-14,Call Center,Regular
+CUST_00837,Sara Al Maktoum,Sharjah,2025-07-25,Call Center,Regular
+CUST_00838,Khalid Al Maktoum,Ajman,2025-04-25,App,Regular
+CUST_00839,Tariq Al Nahyan,Abu Dhabi,2025-01-27,Referral,Regular
+CUST_00840,Huda Hassan,Abu Dhabi,2025-12-28,Web,Premium
+CUST_00841,Mohammed Mahmoud,Sharjah,2025-02-03,App,Regular
+CUST_00842,Mohammed Ibrahim,Dubai,2025-01-20,Call Center,Regular
+CUST_00843,Sara Ali,Dubai,2025-04-06,Referral,Regular
+CUST_00844,Ali Ali,Ras Al Khaimah,2025-07-14,Web,Premium
+CUST_00845,Youssef Ibrahim,Dubai,2025-07-16,App,Premium
+CUST_00846,Youssef Al Nahyan,Sharjah,2025-12-19,Web,Regular
+CUST_00847,Amina Al Qasimi,Sharjah,2025-12-04,Call Center,Regular
+CUST_00848,Noor Al Nahyan,Sharjah,2025-04-05,Call Center,Regular
+CUST_00849,Amina Ali,Dubai,2025-10-01,Web,Regular
+CUST_00850,Ali Khan,Abu Dhabi,2025-01-05,App,Regular
+CUST_00851,Ahmed Ahmed,Dubai,2025-08-29,App,Premium
+CUST_00852,Amina Ali,Ajman,2025-10-03,App,VIP
+CUST_00853,Youssef Khan,Abu Dhabi,2025-05-10,App,Regular
+CUST_00854,Abdullah Hassan,Abu Dhabi,2025-03-24,Call Center,Premium
+CUST_00855,Khalid Khan,Dubai,2025-03-02,App,Regular
+CUST_00856,Fatima Ali,Dubai,2025-11-14,App,Regular
+CUST_00857,Ahmed Khan,Sharjah,2025-04-19,Referral,Regular
+CUST_00858,Mohammed Al Nahyan,Ajman,2025-11-04,App,Regular
+CUST_00859,Fatima Ibrahim,Dubai,2025-11-06,Web,VIP
+CUST_00860,Fatima Khan,Abu Dhabi,2025-01-26,App,Regular
+CUST_00861,Youssef Ibrahim,Dubai,2025-05-03,Call Center,Regular
+CUST_00862,Amina Khan,Abu Dhabi,2025-02-01,Web,Regular
+CUST_00863,Ali Mahmoud,Dubai,2025-06-01,Web,Regular
+CUST_00864,Layla Salem,Sharjah,2025-06-16,Call Center,Premium
+CUST_00865,Tariq Salem,Abu Dhabi,2025-12-14,Web,Regular
+CUST_00866,Hassan Khan,Sharjah,2025-06-07,App,Regular
+CUST_00867,Ali Mahmoud,Dubai,2025-04-27,App,Regular
+CUST_00868,Huda Ahmed,Dubai,2025-05-24,Web,Regular
+CUST_00869,Fatima Mahmoud,Dubai,2025-11-02,Web,Regular
+CUST_00870,Mariam Ali,Dubai,2025-10-15,Web,Regular
+CUST_00871,Zainab Al Maktoum,Sharjah,2025-06-29,App,Regular
+CUST_00872,Youssef Mahmoud,Sharjah,2025-06-16,App,Regular
+CUST_00873,Huda Ali,Dubai,2025-03-21,App,Premium
+CUST_00874,Sara Ali,Dubai,2025-04-08,Call Center,Premium
+CUST_00875,Amina Ibrahim,Abu Dhabi,2025-05-07,Referral,Regular
+CUST_00876,Layla Ahmed,Ras Al Khaimah,2026-01-01,App,Regular
+CUST_00877,Ali Ibrahim,Abu Dhabi,2025-02-02,App,Regular
+CUST_00878,Amina Ali,Sharjah,2025-08-05,App,Regular
+CUST_00879,Amina Mahmoud,Sharjah,2025-03-13,Web,VIP
+CUST_00880,Youssef Khan,Sharjah,2025-05-14,Referral,Premium
+CUST_00881,Omar Hassan,Dubai,2025-12-01,App,Premium
+CUST_00882,Mohammed Ibrahim,Abu Dhabi,2025-07-12,App,Regular
+CUST_00883,Mohammed Mahmoud,Ras Al Khaimah,2025-04-11,Web,Regular
+CUST_00884,Fatima Ahmed,Abu Dhabi,2025-07-16,App,Regular
+CUST_00885,Leila Salem,Dubai,2025-01-24,App,Premium
+CUST_00886,Mohammed Khan,Abu Dhabi,2025-10-31,Call Center,Premium
+CUST_00887,Amina Khan,Dubai,2025-09-06,Web,Regular
+CUST_00888,Omar Hassan,Ajman,2025-06-08,App,Regular
+CUST_00889,Ahmed Khan,Abu Dhabi,2025-04-11,App,Regular
+CUST_00890,Aisha Ibrahim,Sharjah,2025-05-08,Web,Regular
+CUST_00891,Leila Khan,Abu Dhabi,2025-07-26,App,Premium
+CUST_00892,Layla Mahmoud,Dubai,2025-06-17,Call Center,Regular
+CUST_00893,Sara Ali,Dubai,2025-08-30,App,Regular
+CUST_00894,Amina Hassan,Abu Dhabi,2025-06-10,App,Premium
+CUST_00895,Khalid Hassan,Dubai,2025-09-23,App,Regular
+CUST_00896,Zainab Ibrahim,Dubai,2025-02-23,App,Regular
+CUST_00897,Zainab Hassan,Abu Dhabi,2025-04-18,App,Regular
+CUST_00898,Noor Hassan,Abu Dhabi,2025-08-03,App,Regular
+CUST_00899,Fatima Salem,Ras Al Khaimah,2025-04-27,Web,Regular
+CUST_00900,Ali Al Maktoum,Dubai,2025-05-17,Call Center,Premium
+CUST_00901,Amina Salem,Abu Dhabi,2025-10-27,Referral,Regular
+CUST_00902,Huda Ahmed,Dubai,2025-03-23,Call Center,Premium
+CUST_00903,Omar Hassan,Dubai,2025-05-01,App,Regular
+CUST_00904,Youssef Salem,Dubai,2025-05-09,Call Center,Regular
+CUST_00905,Zainab Mahmoud,Dubai,2025-12-05,App,Regular
+CUST_00906,Hassan Ahmed,Dubai,2025-09-11,Web,VIP
+CUST_00907,Zainab Ibrahim,Sharjah,2025-03-31,App,Premium
+CUST_00908,Noor Al Qasimi,Sharjah,2025-03-16,Call Center,Regular
+CUST_00909,Amina Ibrahim,Dubai,2025-04-08,App,Regular
+CUST_00910,Amina Al Maktoum,Dubai,2025-09-29,App,Regular
+CUST_00911,Fatima Al Nahyan,Sharjah,2025-12-12,Web,Regular
+CUST_00912,Fatima Al Maktoum,Ras Al Khaimah,2025-08-03,Referral,Premium
+CUST_00913,Ali Khan,Ras Al Khaimah,2025-02-07,Web,VIP
+CUST_00914,Ali Al Maktoum,Dubai,2025-04-25,App,Regular
+CUST_00915,Rashid Ibrahim,Dubai,2025-07-14,App,Regular
+CUST_00916,Fatima Salem,Sharjah,2025-11-26,Web,Regular
+CUST_00917,Leila Ibrahim,Sharjah,2025-12-07,Web,Regular
+CUST_00918,Zainab Al Maktoum,Sharjah,2025-01-07,App,Regular
+CUST_00919,Amina Mahmoud,Ajman,2025-08-02,App,Regular
+CUST_00920,Ahmed Al Maktoum,Ajman,2025-10-02,Web,Regular
+CUST_00921,Khalid Mahmoud,Dubai,2025-05-30,App,Regular
+CUST_00922,Ahmed Mahmoud,Abu Dhabi,2025-12-27,App,VIP
+CUST_00923,Huda Al Qasimi,Abu Dhabi,2025-02-27,App,Regular
+CUST_00924,Aisha Mahmoud,Sharjah,2025-03-21,App,Regular
+CUST_00925,Layla Khan,Sharjah,2025-11-17,Web,Regular
+CUST_00926,Rashid Ahmed,Abu Dhabi,2025-07-04,App,Regular
+CUST_00927,Khalid Ali,Abu Dhabi,2025-02-13,App,Regular
+CUST_00928,Noor Ali,Sharjah,2025-08-27,Referral,Premium
+CUST_00929,Tariq Khan,Ajman,2025-12-26,App,VIP
+CUST_00930,Layla Ahmed,Dubai,2025-12-20,Referral,VIP
+CUST_00931,Mohammed Al Maktoum,Sharjah,2025-02-20,Referral,Regular
+CUST_00932,Youssef Ali,Dubai,2025-07-16,App,Regular
+CUST_00933,Amina Ibrahim,Dubai,2025-02-01,Web,VIP
+CUST_00934,Ahmed Al Qasimi,Dubai,2025-02-15,Call Center,VIP
+CUST_00935,Zainab Ali,Ajman,2025-11-30,Referral,Regular
+CUST_00936,Hassan Salem,Ras Al Khaimah,2025-02-21,Call Center,Regular
+CUST_00937,Rashid Al Maktoum,Abu Dhabi,2025-05-01,Web,Regular
+CUST_00938,Omar Salem,Abu Dhabi,2025-09-04,Web,Regular
+CUST_00939,Khalid Al Maktoum,Abu Dhabi,2025-02-11,Call Center,Regular
+CUST_00940,Khalid Mahmoud,Dubai,2025-10-19,App,Regular
+CUST_00941,Fatima Al Qasimi,Ajman,2025-06-14,App,Regular
+CUST_00942,Ahmed Khan,Dubai,2025-10-31,App,Premium
+CUST_00943,Ali Ali,Sharjah,2025-02-12,App,Regular
+CUST_00944,Sara Al Qasimi,Dubai,2025-10-19,Web,Regular
+CUST_00945,Layla Salem,Dubai,2025-07-22,App,Regular
+CUST_00946,Amina Hassan,Ajman,2025-07-19,Referral,Regular
+CUST_00947,Ali Al Nahyan,Sharjah,2025-09-17,App,Regular
+CUST_00948,Noor Al Maktoum,Sharjah,2025-02-23,Referral,VIP
+CUST_00949,Huda Khan,Abu Dhabi,2025-02-11,App,Premium
+CUST_00950,Hassan Salem,Dubai,2025-11-14,Web,Regular
+CUST_00951,Leila Ali,Sharjah,2025-06-20,App,Regular
+CUST_00952,Ahmed Ahmed,Ajman,2025-08-22,App,Regular
+CUST_00953,Zainab Khan,Dubai,2025-07-05,App,Regular
+CUST_00954,Amina Ali,Dubai,2025-08-13,Call Center,Regular
+CUST_00955,Mariam Salem,Ras Al Khaimah,2025-12-08,Web,Regular
+CUST_00956,Youssef Al Nahyan,Abu Dhabi,2025-11-16,Web,Premium
+CUST_00957,Sara Khan,Dubai,2026-01-04,App,Premium
+CUST_00958,Mohammed Al Nahyan,Ajman,2025-05-21,Call Center,Regular
+CUST_00959,Ali Ali,Sharjah,2026-01-03,Web,Regular
+CUST_00960,Ali Ali,Dubai,2025-06-15,Web,Regular
+CUST_00961,Noor Al Nahyan,Dubai,2025-02-19,Call Center,Regular
+CUST_00962,Ahmed Ahmed,Dubai,2025-08-19,App,VIP
+CUST_00963,Noor Ahmed,Abu Dhabi,2025-02-25,App,Premium
+CUST_00964,Ali Al Nahyan,Sharjah,2025-04-09,App,Regular
+CUST_00965,Huda Ibrahim,Sharjah,2025-10-16,Web,Regular
+CUST_00966,Amina Mahmoud,Ajman,2025-07-31,Web,Regular
+CUST_00967,Aisha Al Maktoum,Abu Dhabi,2025-02-18,App,Regular
+CUST_00968,Noor Mahmoud,Sharjah,2025-02-20,App,Regular
+CUST_00969,Leila Salem,Abu Dhabi,2025-06-19,App,VIP
+CUST_00970,Youssef Al Maktoum,Dubai,2025-06-02,App,Regular
+CUST_00971,Huda Ali,Dubai,2025-02-16,App,Premium
+CUST_00972,Amina Khan,Ras Al Khaimah,2025-10-23,App,Regular
+CUST_00973,Rashid Al Qasimi,Sharjah,2025-12-20,Call Center,Regular
+CUST_00974,Youssef Al Qasimi,Dubai,2025-03-16,App,Premium
+CUST_00975,Khalid Ahmed,Sharjah,2025-05-21,App,Regular
+CUST_00976,Zainab Al Qasimi,Ajman,2025-02-05,Call Center,VIP
+CUST_00977,Mariam Ali,Sharjah,2025-05-25,App,Regular
+CUST_00978,Huda Ahmed,Sharjah,2025-09-08,App,Regular
+CUST_00979,Mohammed Hassan,Sharjah,2025-05-12,App,Premium
+CUST_00980,Layla Ibrahim,Abu Dhabi,2025-11-04,Referral,Regular
+CUST_00981,Leila Khan,Dubai,2025-08-26,Web,Regular
+CUST_00982,Aisha Al Qasimi,Sharjah,2025-06-08,Call Center,Regular
+CUST_00983,Ahmed Ali,Abu Dhabi,2025-06-23,Web,Regular
+CUST_00984,Leila Ali,Ajman,2025-06-21,Call Center,Regular
+CUST_00985,Abdullah Hassan,Sharjah,2025-08-12,Web,VIP
+CUST_00986,Leila Al Qasimi,Sharjah,2025-06-06,Web,Premium
+CUST_00987,Hassan Salem,Dubai,2025-12-25,Call Center,Regular
+CUST_00988,Omar Ibrahim,Dubai,2025-06-13,App,VIP
+CUST_00989,Mariam Ali,Ajman,2025-06-16,Web,Premium
+CUST_00990,Sara Ibrahim,Abu Dhabi,2025-10-25,Referral,Regular
+CUST_00991,Layla Hassan,Dubai,2025-07-15,App,Premium
+CUST_00992,Khalid Ali,Sharjah,2025-07-09,App,Regular
+CUST_00993,Aisha Salem,Sharjah,2025-04-16,App,Premium
+CUST_00994,Tariq Mahmoud,Ras Al Khaimah,2025-04-06,App,Regular
+CUST_00995,Amina Al Maktoum,Sharjah,2025-08-28,Call Center,Regular
+CUST_00996,Omar Ibrahim,Ras Al Khaimah,2025-06-02,App,Regular
+CUST_00997,Mohammed Ali,Sharjah,2025-12-14,Call Center,Regular
+CUST_00998,Zainab Al Qasimi,Sharjah,2025-11-24,Web,Regular
+CUST_00999,Sara Khan,Dubai,2025-05-13,Call Center,Regular
+CUST_01000,Ali Ali,Dubai,2025-07-16,App,Premium
+CUST_01001,Mohammed Ibrahim,Sharjah,2025-11-06,Call Center,Regular
+CUST_01002,Zainab Salem,Abu Dhabi,2025-07-28,Web,Premium
+CUST_01003,Amina Mahmoud,Ajman,2025-12-24,App,Regular
+CUST_01004,Huda Mahmoud,Dubai,2025-01-22,Web,Regular
+CUST_01005,Noor Mahmoud,Dubai,2025-11-04,App,Regular
+CUST_01006,Mohammed Al Nahyan,Dubai,2025-05-11,Web,Regular
+CUST_01007,Noor Al Qasimi,Dubai,2025-12-01,Call Center,Regular
+CUST_01008,Leila Al Maktoum,Abu Dhabi,2025-10-19,Web,Regular
+CUST_01009,Youssef Hassan,Dubai,2025-08-12,App,VIP
+CUST_01010,Aisha Al Maktoum,Abu Dhabi,2025-02-23,Web,Regular
+CUST_01011,Khalid Khan,Dubai,2025-09-22,App,Premium
+CUST_01012,Rashid Mahmoud,Dubai,2025-10-28,App,Regular
+CUST_01013,Tariq Khan,Abu Dhabi,2025-08-20,Referral,Regular
+CUST_01014,Noor Ali,Abu Dhabi,2025-08-29,App,VIP
+CUST_01015,Tariq Mahmoud,Dubai,2025-03-22,App,Premium
+CUST_01016,Noor Al Maktoum,Sharjah,2025-09-08,App,Regular
+CUST_01017,Aisha Ahmed,Dubai,2025-08-04,App,Regular
+CUST_01018,Mohammed Al Nahyan,Abu Dhabi,2025-03-17,App,Regular
+CUST_01019,Noor Ahmed,Sharjah,2025-06-28,Referral,Regular
+CUST_01020,Abdullah Khan,Dubai,2025-09-27,App,VIP
+CUST_01021,Zainab Hassan,Dubai,2025-09-04,App,Regular
+CUST_01022,Aisha Ibrahim,Abu Dhabi,2025-12-26,Web,Regular
+CUST_01023,Abdullah Hassan,Dubai,2025-02-07,Referral,Regular
+CUST_01024,Sara Al Maktoum,Sharjah,2026-01-02,Web,Regular
+CUST_01025,Aisha Al Maktoum,Dubai,2025-06-28,App,Regular
+CUST_01026,Aisha Al Qasimi,Ajman,2025-05-08,Referral,Regular
+CUST_01027,Rashid Al Qasimi,Dubai,2025-10-13,Referral,Premium
+CUST_01028,Mariam Hassan,Ajman,2025-10-17,App,Regular
+CUST_01029,Huda Ibrahim,Sharjah,2025-05-02,Web,Regular
+CUST_01030,Youssef Al Qasimi,Dubai,2025-04-09,Web,Regular
+CUST_01031,Huda Ali,Abu Dhabi,2025-01-18,Referral,Regular
+CUST_01032,Leila Khan,Sharjah,2025-08-22,App,Regular
+CUST_01033,Tariq Ali,Ras Al Khaimah,2025-07-22,App,Regular
+CUST_01034,Ahmed Khan,Abu Dhabi,2025-04-19,App,Premium
+CUST_01035,Khalid Al Nahyan,Ajman,2025-10-26,App,Regular
+CUST_01036,Aisha Mahmoud,Abu Dhabi,2025-04-09,Web,Regular
+CUST_01037,Noor Hassan,Abu Dhabi,2025-04-14,Web,Regular
+CUST_01038,Abdullah Al Nahyan,Dubai,2025-05-18,Web,Regular
+CUST_01039,Zainab Mahmoud,Dubai,2025-11-27,Call Center,Premium
+CUST_01040,Hassan Salem,Dubai,2025-07-21,App,Regular
+CUST_01041,Leila Ali,Dubai,2025-10-31,App,Regular
+CUST_01042,Aisha Hassan,Abu Dhabi,2025-07-03,Web,Regular
+CUST_01043,Abdullah Salem,Sharjah,2025-04-02,App,VIP
+CUST_01044,Sara Salem,Sharjah,2025-11-02,Call Center,Premium
+CUST_01045,Mohammed Al Qasimi,Ajman,2025-06-13,Web,Regular
+CUST_01046,Aisha Khan,Abu Dhabi,2025-06-09,Web,Premium
+CUST_01047,Aisha Al Qasimi,Abu Dhabi,2025-07-14,App,Regular
+CUST_01048,Ali Mahmoud,Ajman,2025-07-21,Web,Regular
+CUST_01049,Huda Salem,Dubai,2025-03-15,App,Premium
+CUST_01050,Tariq Ali,Sharjah,2025-08-08,Call Center,Regular
+CUST_01051,Mariam Ibrahim,Abu Dhabi,2025-11-25,App,Premium
+CUST_01052,Amina Al Qasimi,Abu Dhabi,2025-10-15,App,Regular
+CUST_01053,Mariam Ibrahim,Ajman,2025-05-31,App,Premium
+CUST_01054,Ali Al Qasimi,Dubai,2025-06-14,App,Regular
+CUST_01055,Abdullah Salem,Dubai,2025-01-31,Web,Regular
+CUST_01056,Noor Al Maktoum,Abu Dhabi,2025-09-09,Referral,Regular
+CUST_01057,Ali Khan,Sharjah,2025-07-19,App,Regular
+CUST_01058,Amina Mahmoud,Dubai,2025-12-04,App,Regular
+CUST_01059,Zainab Ali,Dubai,2025-12-20,App,Regular
+CUST_01060,Zainab Ali,Ajman,2026-01-02,Call Center,Regular
+CUST_01061,Abdullah Ibrahim,Dubai,2025-03-30,App,Regular
+CUST_01062,Mohammed Salem,Dubai,2025-01-19,Web,Regular
+CUST_01063,Layla Ahmed,Dubai,2025-01-20,App,Premium
+CUST_01064,Khalid Khan,Sharjah,2025-10-06,App,VIP
+CUST_01065,Sara Al Qasimi,Ras Al Khaimah,2025-08-26,App,Regular
+CUST_01066,Tariq Ibrahim,Abu Dhabi,2025-10-12,Referral,Premium
+CUST_01067,Rashid Al Nahyan,Dubai,2025-10-24,App,Regular
+CUST_01068,Aisha Ahmed,Abu Dhabi,2025-10-09,App,Premium
+CUST_01069,Noor Mahmoud,Sharjah,2025-01-25,Call Center,Premium
+CUST_01070,Abdullah Mahmoud,Sharjah,2025-04-25,App,Regular
+CUST_01071,Huda Al Nahyan,Dubai,2025-12-04,Web,Regular
+CUST_01072,Layla Ahmed,Sharjah,2025-01-20,App,Regular
+CUST_01073,Abdullah Ahmed,Dubai,2025-07-01,App,Premium
+CUST_01074,Mohammed Ibrahim,Sharjah,2025-03-05,Web,Regular
+CUST_01075,Layla Khan,Dubai,2025-11-01,App,Regular
+CUST_01076,Noor Salem,Ajman,2025-11-23,App,Regular
+CUST_01077,Huda Al Qasimi,Dubai,2025-11-15,App,Regular
+CUST_01078,Ali Khan,Abu Dhabi,2025-04-19,App,Regular
+CUST_01079,Fatima Salem,Dubai,2025-07-02,App,Regular
+CUST_01080,Amina Ahmed,Ras Al Khaimah,2025-11-05,Web,Regular
+CUST_01081,Amina Al Qasimi,Abu Dhabi,2025-06-18,App,Regular
+CUST_01082,Sara Ahmed,Sharjah,2025-10-24,Web,Regular
+CUST_01083,Khalid Mahmoud,Abu Dhabi,2025-12-17,App,Premium
+CUST_01084,Aisha Al Qasimi,Abu Dhabi,2025-08-02,Web,Regular
+CUST_01085,Fatima Ahmed,Abu Dhabi,2025-12-05,App,Regular
+CUST_01086,Ali Al Qasimi,Dubai,2025-05-11,Web,Regular
+CUST_01087,Ali Hassan,Dubai,2025-05-10,Call Center,Regular
+CUST_01088,Youssef Ibrahim,Abu Dhabi,2025-03-17,App,Regular
+CUST_01089,Tariq Ahmed,Sharjah,2025-11-21,App,Regular
+CUST_01090,Huda Ali,Abu Dhabi,2025-08-23,Web,Regular
+CUST_01091,Mohammed Al Nahyan,Dubai,2025-07-29,App,Premium
+CUST_01092,Rashid Ahmed,Abu Dhabi,2025-12-25,Call Center,Premium
+CUST_01093,Noor Ibrahim,Sharjah,2025-09-10,Web,Regular
+CUST_01094,Hassan Salem,Sharjah,2025-01-05,Web,Regular
+CUST_01095,Mohammed Ibrahim,Ajman,2025-11-25,Call Center,Regular
+CUST_01096,Noor Al Nahyan,Dubai,2025-10-04,App,Premium
+CUST_01097,Youssef Khan,Ajman,2025-08-11,App,Regular
+CUST_01098,Omar Ibrahim,Ajman,2025-05-21,App,Regular
+CUST_01099,Hassan Ahmed,Ras Al Khaimah,2025-06-25,App,Regular
+CUST_01100,Amina Salem,Dubai,2025-03-11,App,Premium
+CUST_01101,Tariq Ibrahim,Abu Dhabi,2025-06-28,Referral,Regular
+CUST_01102,Fatima Al Maktoum,Dubai,2025-02-23,App,Regular
+CUST_01103,Abdullah Al Maktoum,Dubai,2025-03-08,App,Regular
+CUST_01104,Mariam Ibrahim,Abu Dhabi,2025-08-25,Web,Regular
+CUST_01105,Ahmed Ali,Sharjah,2025-04-17,App,Regular
+CUST_01106,Ali Ahmed,Sharjah,2025-03-26,Web,Regular
+CUST_01107,Khalid Al Nahyan,Sharjah,2025-12-05,Call Center,Regular
+CUST_01108,Noor Ahmed,Dubai,2025-02-15,Call Center,Regular
+CUST_01109,Noor Al Qasimi,Sharjah,2025-01-30,Call Center,Premium
+CUST_01110,Youssef Ahmed,Abu Dhabi,2025-12-28,App,Regular
+CUST_01111,Layla Ali,Abu Dhabi,2025-12-05,Web,Regular
+CUST_01112,Mohammed Al Nahyan,Dubai,2025-01-04,Call Center,Premium
+CUST_01113,Omar Ibrahim,Ajman,2025-02-12,Call Center,Regular
+CUST_01114,Ali Salem,Sharjah,2025-04-29,Call Center,Regular
+CUST_01115,Rashid Ibrahim,Abu Dhabi,2025-01-08,App,Regular
+CUST_01116,Ahmed Hassan,Sharjah,2025-03-06,App,Regular
+CUST_01117,Huda Al Qasimi,Dubai,2025-09-05,App,Regular
+CUST_01118,Mohammed Khan,Abu Dhabi,2025-07-19,Referral,Regular
+CUST_01119,Mohammed Al Nahyan,Dubai,2025-02-25,App,Regular
+CUST_01120,Hassan Hassan,Dubai,2025-06-06,Call Center,Regular
+CUST_01121,Ali Ali,Sharjah,2025-03-13,App,Regular
+CUST_01122,Ali Al Nahyan,Dubai,2025-10-02,Referral,Regular
+CUST_01123,Tariq Al Maktoum,Dubai,2025-11-12,App,Regular
+CUST_01124,Mariam Ibrahim,Sharjah,2025-07-02,App,Regular
+CUST_01125,Omar Al Qasimi,Dubai,2025-08-02,Web,Premium
+CUST_01126,Leila Ibrahim,Sharjah,2025-04-25,Call Center,Regular
+CUST_01127,Mohammed Al Nahyan,Dubai,2025-03-16,Web,Regular
+CUST_01128,Aisha Salem,Abu Dhabi,2025-07-19,App,Regular
+CUST_01129,Noor Ali,Dubai,2025-06-14,Call Center,Regular
+CUST_01130,Ali Khan,Abu Dhabi,2025-05-25,App,Regular
+CUST_01131,Mohammed Khan,Dubai,2025-10-14,Call Center,Premium
+CUST_01132,Leila Salem,Dubai,2025-11-11,Referral,VIP
+CUST_01133,Sara Al Maktoum,Sharjah,2025-12-07,Call Center,Regular
+CUST_01134,Sara Khan,Abu Dhabi,2025-09-26,App,Regular
+CUST_01135,Leila Mahmoud,Ras Al Khaimah,2025-04-10,App,Premium
+CUST_01136,Youssef Ahmed,Sharjah,2025-11-30,Call Center,VIP
+CUST_01137,Fatima Khan,Dubai,2025-09-14,App,Regular
+CUST_01138,Youssef Al Nahyan,Dubai,2025-05-07,App,Regular
+CUST_01139,Zainab Salem,Sharjah,2025-02-09,Web,Regular
+CUST_01140,Rashid Al Maktoum,Sharjah,2025-07-07,App,Regular
+CUST_01141,Hassan Al Qasimi,Sharjah,2025-07-21,Web,Premium
+CUST_01142,Tariq Ali,Dubai,2025-07-10,Call Center,Regular
+CUST_01143,Amina Al Qasimi,Abu Dhabi,2025-09-02,Web,Premium
+CUST_01144,Mohammed Al Maktoum,Abu Dhabi,2025-10-31,Web,VIP
+CUST_01145,Mohammed Al Maktoum,Sharjah,2025-05-18,App,Premium
+CUST_01146,Omar Al Maktoum,Dubai,2025-02-03,App,Regular
+CUST_01147,Youssef Mahmoud,Ajman,2025-05-30,Referral,Regular
+CUST_01148,Rashid Ali,Abu Dhabi,2025-08-08,App,VIP
+CUST_01149,Youssef Al Nahyan,Ras Al Khaimah,2025-11-27,Web,Premium
+CUST_01150,Amina Mahmoud,Sharjah,2025-11-15,Web,Regular
+CUST_01151,Ali Ahmed,Abu Dhabi,2025-02-15,Web,Regular
+CUST_01152,Sara Al Nahyan,Dubai,2025-09-22,Referral,Regular
+CUST_01153,Omar Al Qasimi,Abu Dhabi,2025-10-05,Web,Regular
+CUST_01154,Hassan Ali,Abu Dhabi,2025-10-31,App,Regular
+CUST_01155,Mohammed Ahmed,Abu Dhabi,2025-12-27,Web,Regular
+CUST_01156,Huda Khan,Sharjah,2025-02-02,Web,Regular
+CUST_01157,Layla Al Nahyan,Sharjah,2025-08-14,App,Regular
+CUST_01158,Aisha Ibrahim,Sharjah,2025-11-13,Web,Regular
+CUST_01159,Leila Al Maktoum,Sharjah,2025-06-11,Call Center,VIP
+CUST_01160,Mariam Al Nahyan,Abu Dhabi,2025-01-10,Web,Regular
+CUST_01161,Ali Al Maktoum,Dubai,2025-03-28,Web,Regular
+CUST_01162,Zainab Hassan,Ajman,2025-09-28,Web,Regular
+CUST_01163,Rashid Ahmed,Dubai,2025-03-30,App,Regular
+CUST_01164,Noor Al Qasimi,Abu Dhabi,2025-05-21,App,Regular
+CUST_01165,Aisha Al Maktoum,Ajman,2025-06-24,Call Center,Regular
+CUST_01166,Huda Ahmed,Dubai,2025-09-29,Call Center,Premium
+CUST_01167,Mohammed Ahmed,Dubai,2026-01-03,Web,Regular
+CUST_01168,Tariq Al Nahyan,Sharjah,2025-09-15,Referral,Regular
+CUST_01169,Abdullah Mahmoud,Ajman,2025-07-07,Web,VIP
+CUST_01170,Fatima Ibrahim,Abu Dhabi,2025-10-21,Call Center,Regular
+CUST_01171,Mariam Hassan,Dubai,2025-03-25,App,VIP
+CUST_01172,Khalid Al Nahyan,Sharjah,2025-10-24,Call Center,VIP
+CUST_01173,Aisha Khan,Dubai,2025-09-21,App,Regular
+CUST_01174,Ahmed Al Maktoum,Dubai,2025-01-10,App,Regular
+CUST_01175,Layla Al Maktoum,Dubai,2025-09-02,App,Regular
+CUST_01176,Noor Ali,Dubai,2025-03-21,Referral,Premium
+CUST_01177,Mariam Al Maktoum,Ras Al Khaimah,2025-10-14,App,Regular
+CUST_01178,Huda Khan,Sharjah,2025-06-17,App,Regular
+CUST_01179,Layla Ali,Dubai,2025-06-16,App,Regular
+CUST_01180,Khalid Al Nahyan,Dubai,2025-10-23,Web,Regular
+CUST_01181,Noor Al Nahyan,Dubai,2025-09-18,Call Center,Regular
+CUST_01182,Fatima Al Qasimi,Dubai,2025-04-28,Call Center,Regular
+CUST_01183,Rashid Al Maktoum,Dubai,2025-07-28,Web,Regular
+CUST_01184,Mohammed Ibrahim,Abu Dhabi,2025-05-28,Call Center,Regular
+CUST_01185,Sara Hassan,Abu Dhabi,2025-02-17,Web,Regular
+CUST_01186,Amina Ibrahim,Abu Dhabi,2025-01-08,App,Regular
+CUST_01187,Noor Khan,Dubai,2025-06-02,Web,Regular
+CUST_01188,Tariq Ahmed,Sharjah,2025-11-18,App,Regular
+CUST_01189,Layla Ibrahim,Abu Dhabi,2025-07-11,Web,Regular
+CUST_01190,Tariq Ibrahim,Sharjah,2025-04-14,Call Center,Premium
+CUST_01191,Amina Khan,Dubai,2025-03-22,Web,Premium
+CUST_01192,Ahmed Ali,Ras Al Khaimah,2025-01-16,Call Center,Regular
+CUST_01193,Layla Mahmoud,Dubai,2025-06-30,Web,Premium
+CUST_01194,Ahmed Hassan,Abu Dhabi,2025-01-04,Web,Premium
+CUST_01195,Youssef Ahmed,Dubai,2025-02-26,Call Center,Regular
+CUST_01196,Omar Mahmoud,Dubai,2025-05-05,Web,Premium
+CUST_01197,Huda Ibrahim,Dubai,2025-02-03,App,VIP
+CUST_01198,Ali Ahmed,Dubai,2025-02-20,Web,Regular
+CUST_01199,Fatima Khan,Abu Dhabi,2025-09-27,Web,Regular
+CUST_01200,Huda Hassan,Abu Dhabi,2025-08-26,App,Regular
+CUST_01201,Mohammed Salem,Dubai,2025-02-21,Web,Regular
+CUST_01202,Rashid Al Qasimi,Dubai,2025-11-26,App,Regular
+CUST_01203,Youssef Al Nahyan,Sharjah,2025-11-03,App,VIP
+CUST_01204,Tariq Al Maktoum,Ras Al Khaimah,2025-08-14,Web,Regular
+CUST_01205,Ali Khan,Dubai,2025-06-02,Call Center,Regular
+CUST_01206,Khalid Hassan,Dubai,2025-07-24,Web,Premium
+CUST_01207,Hassan Hassan,Sharjah,2025-08-23,App,Regular
+CUST_01208,Khalid Khan,Dubai,2025-02-11,App,Premium
+CUST_01209,Omar Al Qasimi,Dubai,2025-10-30,App,Regular
+CUST_01210,Aisha Al Qasimi,Ajman,2025-02-27,Call Center,Regular
+CUST_01211,Mariam Ibrahim,Sharjah,2025-08-30,App,Regular
+CUST_01212,Hassan Ali,Dubai,2025-03-06,App,Regular
+CUST_01213,Amina Hassan,Ajman,2025-04-20,App,Regular
+CUST_01214,Abdullah Ahmed,Dubai,2025-08-29,App,VIP
+CUST_01215,Khalid Al Nahyan,Abu Dhabi,2025-02-19,Web,Premium
+CUST_01216,Mariam Ahmed,Dubai,2025-12-30,Web,Regular
+CUST_01217,Leila Al Maktoum,Abu Dhabi,2025-04-24,Referral,Premium
+CUST_01218,Hassan Al Qasimi,Dubai,2025-02-19,Call Center,Regular
+CUST_01219,Layla Hassan,Dubai,2025-07-25,App,Regular
+CUST_01220,Rashid Al Maktoum,Abu Dhabi,2025-12-16,Web,VIP
+CUST_01221,Sara Ahmed,Abu Dhabi,2025-04-03,Web,Regular
+CUST_01222,Ahmed Ali,Dubai,2025-08-23,Web,Regular
+CUST_01223,Amina Mahmoud,Sharjah,2025-05-11,App,Regular
+CUST_01224,Aisha Ibrahim,Abu Dhabi,2025-02-25,App,Regular
+CUST_01225,Ali Al Nahyan,Sharjah,2025-01-10,App,Regular
+CUST_01226,Fatima Khan,Dubai,2025-03-11,App,Regular
+CUST_01227,Omar Ali,Sharjah,2025-07-13,App,Premium
+CUST_01228,Mohammed Salem,Dubai,2025-10-31,Call Center,Regular
+CUST_01229,Khalid Al Nahyan,Sharjah,2025-01-15,Web,VIP
+CUST_01230,Mohammed Khan,Dubai,2025-11-30,App,Regular
+CUST_01231,Abdullah Al Qasimi,Sharjah,2025-02-20,Web,Premium
+CUST_01232,Hassan Al Nahyan,Dubai,2025-01-25,App,Regular
+CUST_01233,Abdullah Al Maktoum,Ras Al Khaimah,2025-03-31,Web,VIP
+CUST_01234,Tariq Ali,Dubai,2025-07-25,Web,Regular
+CUST_01235,Zainab Al Maktoum,Dubai,2025-07-18,Call Center,VIP
+CUST_01236,Huda Al Qasimi,Ajman,2025-07-04,Web,Regular
+CUST_01237,Omar Al Qasimi,Dubai,2025-05-24,Referral,Regular
+CUST_01238,Khalid Ibrahim,Sharjah,2025-03-21,Web,Regular
+CUST_01239,Fatima Salem,Ras Al Khaimah,2025-11-17,App,Regular
+CUST_01240,Leila Khan,Dubai,2025-12-01,App,Regular
+CUST_01241,Sara Ibrahim,Dubai,2025-08-02,Call Center,VIP
+CUST_01242,Amina Ibrahim,Dubai,2025-02-04,App,VIP
+CUST_01243,Mohammed Ahmed,Dubai,2025-07-19,App,Regular
+CUST_01244,Ali Ali,Abu Dhabi,2025-04-16,App,VIP
+CUST_01245,Rashid Khan,Abu Dhabi,2025-11-22,Web,Regular
+CUST_01246,Amina Al Maktoum,Abu Dhabi,2025-07-18,Web,Premium
+CUST_01247,Noor Ibrahim,Sharjah,2025-10-09,Web,VIP
+CUST_01248,Zainab Hassan,Sharjah,2025-10-20,Call Center,Regular
+CUST_01249,Rashid Hassan,Dubai,2025-07-21,App,Regular
+CUST_01250,Khalid Al Qasimi,Abu Dhabi,2025-01-17,App,Premium
+CUST_01251,Hassan Salem,Ajman,2025-04-26,Referral,Regular
+CUST_01252,Ahmed Ahmed,Sharjah,2025-02-02,App,Regular
+CUST_01253,Zainab Mahmoud,Dubai,2025-07-06,App,Regular
+CUST_01254,Tariq Khan,Sharjah,2025-03-26,App,Premium
+CUST_01255,Aisha Khan,Abu Dhabi,2025-12-06,App,Regular
+CUST_01256,Layla Ahmed,Dubai,2025-10-04,Web,Regular
+CUST_01257,Fatima Khan,Dubai,2025-10-25,App,Regular
+CUST_01258,Youssef Hassan,Ajman,2025-04-02,App,Premium
+CUST_01259,Mariam Khan,Sharjah,2025-11-03,Referral,Premium
+CUST_01260,Hassan Hassan,Abu Dhabi,2025-11-02,Web,Premium
+CUST_01261,Ahmed Hassan,Dubai,2025-10-21,App,Regular
+CUST_01262,Tariq Al Qasimi,Sharjah,2025-10-19,Call Center,Regular
+CUST_01263,Omar Ibrahim,Abu Dhabi,2025-10-08,Web,Regular
+CUST_01264,Sara Al Qasimi,Ras Al Khaimah,2025-09-12,App,Regular
+CUST_01265,Fatima Al Nahyan,Abu Dhabi,2025-02-01,Web,Regular
+CUST_01266,Layla Salem,Sharjah,2025-04-26,Web,Regular
+CUST_01267,Ahmed Mahmoud,Dubai,2025-09-05,Web,Regular
+CUST_01268,Ahmed Hassan,Ajman,2025-11-14,Call Center,VIP
+CUST_01269,Omar Al Qasimi,Dubai,2025-06-27,Referral,Regular
+CUST_01270,Mariam Hassan,Dubai,2025-02-03,App,Regular
+CUST_01271,Ahmed Al Qasimi,Sharjah,2025-10-31,Web,Regular
+CUST_01272,Ali Al Nahyan,Abu Dhabi,2025-09-30,App,Regular
+CUST_01273,Noor Al Nahyan,Dubai,2025-07-14,Call Center,Premium
+CUST_01274,Youssef Salem,Abu Dhabi,2025-02-24,App,Regular
+CUST_01275,Hassan Ahmed,Sharjah,2025-06-18,App,Regular
+CUST_01276,Ali Al Qasimi,Dubai,2025-08-15,Web,Regular
+CUST_01277,Zainab Hassan,Sharjah,2025-04-03,App,Regular
+CUST_01278,Amina Salem,Sharjah,2025-07-05,Call Center,Regular
+CUST_01279,Layla Salem,Abu Dhabi,2025-04-03,App,VIP
+CUST_01280,Youssef Ahmed,Dubai,2025-12-22,Referral,Regular
+CUST_01281,Sara Al Qasimi,Abu Dhabi,2025-04-04,App,Regular
+CUST_01282,Ahmed Salem,Abu Dhabi,2025-07-23,App,Regular
+CUST_01283,Tariq Al Maktoum,Ras Al Khaimah,2025-04-07,Web,Premium
+CUST_01284,Leila Hassan,Dubai,2025-11-13,App,Regular
+CUST_01285,Layla Salem,Abu Dhabi,2025-02-26,Referral,Regular
+CUST_01286,Zainab Al Qasimi,Dubai,2025-06-22,App,Regular
+CUST_01287,Mohammed Khan,Abu Dhabi,2025-06-30,Call Center,Premium
+CUST_01288,Hassan Al Qasimi,Abu Dhabi,2025-11-25,App,Regular
+CUST_01289,Mohammed Hassan,Dubai,2025-08-20,App,Regular
+CUST_01290,Ahmed Ahmed,Sharjah,2025-04-21,Web,Regular
+CUST_01291,Layla Al Nahyan,Dubai,2025-07-02,App,Regular
+CUST_01292,Khalid Al Nahyan,Sharjah,2025-01-04,App,Regular
+CUST_01293,Fatima Ali,Dubai,2025-08-16,Call Center,Regular
+CUST_01294,Huda Al Qasimi,Dubai,2025-08-03,Web,Premium
+CUST_01295,Zainab Ali,Ras Al Khaimah,2025-07-02,App,Premium
+CUST_01296,Amina Ali,Ajman,2025-02-24,Referral,Regular
+CUST_01297,Zainab Salem,Abu Dhabi,2025-12-03,App,Premium
+CUST_01298,Layla Al Qasimi,Abu Dhabi,2025-08-23,Web,Regular
+CUST_01299,Mohammed Al Maktoum,Sharjah,2025-06-03,Call Center,Regular
+CUST_01300,Ahmed Hassan,Sharjah,2025-05-17,Web,Premium
+CUST_01301,Aisha Al Nahyan,Abu Dhabi,2025-06-28,App,VIP
+CUST_01302,Mariam Ali,Dubai,2025-03-27,Call Center,Regular
+CUST_01303,Mohammed Mahmoud,Abu Dhabi,2025-02-20,App,Regular
+CUST_01304,Hassan Salem,Dubai,2025-11-14,App,Regular
+CUST_01305,Zainab Al Maktoum,Dubai,2025-08-12,Referral,VIP
+CUST_01306,Mariam Salem,Dubai,2025-08-14,Web,Regular
+CUST_01307,Mariam Al Maktoum,Sharjah,2025-02-24,Call Center,VIP
+CUST_01308,Hassan Khan,Abu Dhabi,2025-04-11,Call Center,Regular
+CUST_01309,Huda Mahmoud,Ras Al Khaimah,2025-10-07,App,Regular
+CUST_01310,Khalid Ahmed,Sharjah,2025-06-05,Web,Regular
+CUST_01311,Layla Al Nahyan,Ajman,2025-01-29,App,Regular
+CUST_01312,Youssef Salem,Dubai,2025-10-12,App,Regular
+CUST_01313,Zainab Al Qasimi,Abu Dhabi,2025-01-31,App,Regular
+CUST_01314,Noor Al Maktoum,Abu Dhabi,2025-08-10,Call Center,Premium
+CUST_01315,Mohammed Ahmed,Dubai,2025-12-08,App,Regular
+CUST_01316,Leila Ibrahim,Dubai,2025-04-16,Web,Regular
+CUST_01317,Aisha Al Maktoum,Dubai,2025-04-19,App,Regular
+CUST_01318,Mariam Ahmed,Sharjah,2025-02-14,Referral,Regular
+CUST_01319,Zainab Al Nahyan,Dubai,2025-06-10,Call Center,VIP
+CUST_01320,Youssef Ibrahim,Abu Dhabi,2025-09-11,App,Regular
+CUST_01321,Khalid Al Nahyan,Abu Dhabi,2025-11-28,App,Regular
+CUST_01322,Amina Ali,Abu Dhabi,2025-04-08,App,Premium
+CUST_01323,Noor Ali,Dubai,2025-07-12,App,Regular
+CUST_01324,Mariam Ibrahim,Dubai,2025-01-26,Referral,Regular
+CUST_01325,Khalid Ibrahim,Dubai,2025-08-30,Web,Regular
+CUST_01326,Khalid Khan,Ajman,2025-05-21,App,Regular
+CUST_01327,Tariq Al Maktoum,Dubai,2025-03-22,App,Premium
+CUST_01328,Aisha Al Nahyan,Sharjah,2025-12-12,App,Regular
+CUST_01329,Noor Mahmoud,Sharjah,2025-08-03,Referral,Regular
+CUST_01330,Tariq Khan,Abu Dhabi,2025-10-14,App,Premium
+CUST_01331,Fatima Ali,Dubai,2025-09-28,App,Premium
+CUST_01332,Huda Mahmoud,Dubai,2025-12-21,Web,Regular
+CUST_01333,Zainab Salem,Dubai,2025-05-04,App,Regular
+CUST_01334,Zainab Ahmed,Dubai,2025-02-13,Web,Premium
+CUST_01335,Youssef Al Maktoum,Sharjah,2025-09-18,App,Regular
+CUST_01336,Tariq Mahmoud,Dubai,2025-10-23,App,Regular
+CUST_01337,Leila Al Qasimi,Sharjah,2025-03-06,App,Regular
+CUST_01338,Abdullah Al Qasimi,Dubai,2025-03-30,Web,Regular
+CUST_01339,Omar Khan,Abu Dhabi,2025-03-09,App,Premium
+CUST_01340,Fatima Ali,Ajman,2025-02-13,App,Regular
+CUST_01341,Huda Khan,Abu Dhabi,2025-11-21,App,Regular
+CUST_01342,Ali Salem,Sharjah,2025-05-16,Web,Premium
+CUST_01343,Hassan Al Nahyan,Dubai,2025-02-17,App,Premium
+CUST_01344,Youssef Mahmoud,Dubai,2025-07-26,Web,Regular
+CUST_01345,Amina Hassan,Dubai,2025-05-25,Referral,Regular
+CUST_01346,Rashid Ibrahim,Ras Al Khaimah,2025-01-10,Referral,Premium
+CUST_01347,Leila Salem,Sharjah,2025-09-28,Web,Premium
+CUST_01348,Huda Al Nahyan,Dubai,2025-08-04,Web,Regular
+CUST_01349,Ali Al Qasimi,Abu Dhabi,2025-10-21,App,Regular
+CUST_01350,Tariq Salem,Abu Dhabi,2025-02-24,Call Center,Regular
+CUST_01351,Aisha Salem,Ajman,2025-02-24,Web,Premium
+CUST_01352,Sara Mahmoud,Abu Dhabi,2025-06-29,Call Center,Regular
+CUST_01353,Huda Ahmed,Sharjah,2025-07-19,App,Premium
+CUST_01354,Zainab Salem,Ras Al Khaimah,2025-11-11,App,Regular
+CUST_01355,Zainab Al Maktoum,Sharjah,2025-04-02,App,Premium
+CUST_01356,Khalid Ali,Dubai,2025-03-18,App,VIP
+CUST_01357,Leila Salem,Sharjah,2025-12-18,Call Center,Regular
+CUST_01358,Youssef Al Maktoum,Sharjah,2025-07-25,Web,Regular
+CUST_01359,Hassan Khan,Sharjah,2025-01-29,Web,Regular
+CUST_01360,Zainab Ahmed,Dubai,2025-07-13,Call Center,Regular
+CUST_01361,Ahmed Hassan,Sharjah,2025-06-08,App,Regular
+CUST_01362,Sara Ahmed,Sharjah,2025-09-12,App,Regular
+CUST_01363,Aisha Khan,Dubai,2025-03-13,Web,Premium
+CUST_01364,Sara Ibrahim,Dubai,2025-06-17,Web,Regular
+CUST_01365,Khalid Ali,Abu Dhabi,2025-11-09,Referral,Regular
+CUST_01366,Mohammed Khan,Abu Dhabi,2025-08-18,App,Regular
+CUST_01367,Omar Ali,Dubai,2025-09-09,App,Regular
+CUST_01368,Rashid Hassan,Abu Dhabi,2025-02-01,Web,Regular
+CUST_01369,Rashid Al Qasimi,Dubai,2025-02-06,Web,VIP
+CUST_01370,Sara Mahmoud,Dubai,2025-07-29,Call Center,Regular
+CUST_01371,Ali Mahmoud,Abu Dhabi,2025-10-22,Web,Regular
+CUST_01372,Ahmed Al Qasimi,Dubai,2025-04-12,Web,Regular
+CUST_01373,Omar Al Maktoum,Ajman,2025-05-11,App,Regular
+CUST_01374,Fatima Ibrahim,Sharjah,2025-01-29,App,Regular
+CUST_01375,Noor Khan,Sharjah,2025-05-24,Referral,Premium
+CUST_01376,Noor Ibrahim,Sharjah,2025-09-19,Web,VIP
+CUST_01377,Youssef Al Nahyan,Dubai,2025-12-18,App,Regular
+CUST_01378,Ahmed Khan,Dubai,2025-07-13,Web,Regular
+CUST_01379,Zainab Salem,Abu Dhabi,2025-08-20,App,Premium
+CUST_01380,Mariam Ibrahim,Dubai,2025-10-31,Web,Regular
+CUST_01381,Amina Hassan,Dubai,2025-06-29,App,Regular
+CUST_01382,Mariam Ahmed,Sharjah,2025-12-22,Referral,Regular
+CUST_01383,Mohammed Ahmed,Dubai,2025-01-18,App,Premium
+CUST_01384,Youssef Al Maktoum,Sharjah,2025-03-28,App,Regular
+CUST_01385,Tariq Khan,Sharjah,2025-04-27,App,Regular
+CUST_01386,Layla Khan,Dubai,2025-05-21,Web,Premium
+CUST_01387,Huda Mahmoud,Ras Al Khaimah,2025-01-14,Web,Regular
+CUST_01388,Ahmed Ibrahim,Dubai,2025-03-12,Web,Regular
+CUST_01389,Mariam Salem,Abu Dhabi,2025-01-08,App,Regular
+CUST_01390,Layla Ahmed,Dubai,2025-11-11,App,Regular
+CUST_01391,Sara Ahmed,Dubai,2025-08-08,Referral,Regular
+CUST_01392,Youssef Hassan,Abu Dhabi,2025-08-27,Call Center,VIP
+CUST_01393,Khalid Khan,Abu Dhabi,2025-08-30,Call Center,Regular
+CUST_01394,Sara Mahmoud,Dubai,2025-11-19,App,Regular
+CUST_01395,Youssef Salem,Sharjah,2025-02-25,App,Regular
+CUST_01396,Ahmed Mahmoud,Abu Dhabi,2025-12-09,App,Regular
+CUST_01397,Noor Mahmoud,Sharjah,2025-12-01,Web,Premium
+CUST_01398,Leila Salem,Ajman,2025-05-28,Web,Premium
+CUST_01399,Sara Al Nahyan,Abu Dhabi,2025-09-07,App,Regular
+CUST_01400,Mohammed Hassan,Dubai,2025-05-25,App,Regular
+CUST_01401,Hassan Ahmed,Sharjah,2025-05-17,App,Regular
+CUST_01402,Sara Khan,Ras Al Khaimah,2025-03-21,App,Regular
+CUST_01403,Rashid Khan,Abu Dhabi,2025-02-02,Web,Regular
+CUST_01404,Leila Ali,Dubai,2025-12-08,App,Regular
+CUST_01405,Hassan Al Qasimi,Abu Dhabi,2025-01-17,App,Regular
+CUST_01406,Zainab Ahmed,Sharjah,2025-05-16,App,Regular
+CUST_01407,Huda Ali,Sharjah,2025-07-21,App,Regular
+CUST_01408,Fatima Salem,Abu Dhabi,2026-01-01,Call Center,Premium
+CUST_01409,Tariq Khan,Abu Dhabi,2025-06-28,Web,Regular
+CUST_01410,Layla Mahmoud,Abu Dhabi,2025-11-26,Web,Regular
+CUST_01411,Zainab Hassan,Sharjah,2025-09-20,Web,Regular
+CUST_01412,Sara Al Qasimi,Ajman,2025-12-06,App,Regular
+CUST_01413,Amina Al Qasimi,Dubai,2025-06-03,Call Center,Premium
+CUST_01414,Aisha Ibrahim,Dubai,2025-03-10,Web,Regular
+CUST_01415,Khalid Mahmoud,Sharjah,2025-04-07,Web,Regular
+CUST_01416,Hassan Al Nahyan,Ajman,2025-04-27,App,Regular
+CUST_01417,Noor Khan,Abu Dhabi,2025-06-10,Referral,Regular
+CUST_01418,Huda Hassan,Dubai,2025-07-13,App,Regular
+CUST_01419,Khalid Salem,Dubai,2025-06-03,Web,VIP
+CUST_01420,Abdullah Al Nahyan,Abu Dhabi,2025-09-01,App,Regular
+CUST_01421,Fatima Salem,Dubai,2025-10-28,Call Center,Regular
+CUST_01422,Leila Al Nahyan,Dubai,2025-09-02,Web,Regular
+CUST_01423,Omar Mahmoud,Abu Dhabi,2025-03-06,App,Premium
+CUST_01424,Youssef Mahmoud,Ajman,2025-06-05,Web,VIP
+CUST_01425,Huda Al Maktoum,Dubai,2025-03-22,Web,Regular
+CUST_01426,Ali Khan,Abu Dhabi,2025-06-28,App,Regular
+CUST_01427,Huda Salem,Dubai,2025-08-26,App,Regular
+CUST_01428,Ali Hassan,Sharjah,2025-04-06,App,Regular
+CUST_01429,Mohammed Ibrahim,Abu Dhabi,2025-06-23,Web,Premium
+CUST_01430,Mariam Hassan,Abu Dhabi,2025-11-24,App,Premium
+CUST_01431,Fatima Al Maktoum,Abu Dhabi,2025-08-23,App,Regular
+CUST_01432,Khalid Khan,Ajman,2025-03-31,App,Regular
+CUST_01433,Tariq Al Qasimi,Dubai,2025-09-11,App,Regular
+CUST_01434,Mohammed Al Qasimi,Abu Dhabi,2025-11-14,App,VIP
+CUST_01435,Huda Ali,Sharjah,2025-07-29,Web,Premium
+CUST_01436,Huda Ibrahim,Dubai,2025-07-19,Web,Regular
+CUST_01437,Ahmed Al Maktoum,Sharjah,2025-10-04,Call Center,Regular
+CUST_01438,Omar Hassan,Ajman,2025-01-11,App,Premium
+CUST_01439,Hassan Mahmoud,Ras Al Khaimah,2025-04-11,App,Premium
+CUST_01440,Ahmed Al Maktoum,Dubai,2025-11-20,App,Regular
+CUST_01441,Layla Khan,Abu Dhabi,2025-12-25,Referral,Regular
+CUST_01442,Noor Ahmed,Abu Dhabi,2025-03-11,Call Center,VIP
+CUST_01443,Aisha Ali,Dubai,2025-09-18,Referral,Regular
+CUST_01444,Tariq Ahmed,Sharjah,2025-03-30,App,Regular
+CUST_01445,Mohammed Al Maktoum,Abu Dhabi,2025-06-05,Web,Regular
+CUST_01446,Sara Ibrahim,Dubai,2025-09-27,Web,VIP
+CUST_01447,Leila Mahmoud,Dubai,2025-06-25,App,Regular
+CUST_01448,Huda Al Qasimi,Dubai,2025-06-28,Call Center,Premium
+CUST_01449,Zainab Hassan,Abu Dhabi,2025-04-10,App,Premium
+CUST_01450,Mariam Ali,Abu Dhabi,2025-01-13,Call Center,Regular
+CUST_01451,Layla Khan,Sharjah,2025-03-12,Web,Regular
+CUST_01452,Omar Al Maktoum,Ras Al Khaimah,2025-11-01,Web,Regular
+CUST_01453,Rashid Al Qasimi,Dubai,2025-03-08,Web,Regular
+CUST_01454,Noor Al Maktoum,Dubai,2025-07-15,App,Regular
+CUST_01455,Khalid Mahmoud,Sharjah,2025-11-19,Web,Regular
+CUST_01456,Fatima Salem,Sharjah,2025-01-28,App,Regular
+CUST_01457,Aisha Al Maktoum,Dubai,2025-01-28,App,Regular
+CUST_01458,Aisha Ali,Dubai,2025-08-19,App,Regular
+CUST_01459,Youssef Al Nahyan,Abu Dhabi,2025-10-11,Web,Regular
+CUST_01460,Khalid Ibrahim,Sharjah,2025-12-29,App,Regular
+CUST_01461,Ali Khan,Dubai,2025-12-25,App,Regular
+CUST_01462,Ahmed Ahmed,Abu Dhabi,2025-08-07,Call Center,Regular
+CUST_01463,Aisha Mahmoud,Ras Al Khaimah,2025-05-22,App,Regular
+CUST_01464,Leila Salem,Dubai,2025-12-28,App,Regular
+CUST_01465,Ali Ali,Abu Dhabi,2025-02-26,App,VIP
+CUST_01466,Rashid Salem,Sharjah,2025-03-05,App,Regular
+CUST_01467,Sara Al Nahyan,Dubai,2025-02-27,App,Regular
+CUST_01468,Zainab Khan,Abu Dhabi,2025-11-11,App,Regular
+CUST_01469,Omar Ahmed,Ras Al Khaimah,2025-09-28,Web,VIP
+CUST_01470,Omar Hassan,Dubai,2025-12-30,App,Regular
+CUST_01471,Huda Ahmed,Dubai,2025-03-27,App,Regular
+CUST_01472,Fatima Mahmoud,Abu Dhabi,2025-09-15,App,Regular
+CUST_01473,Omar Ibrahim,Abu Dhabi,2025-06-22,App,Regular
+CUST_01474,Layla Al Maktoum,Dubai,2025-01-10,App,VIP
+CUST_01475,Mohammed Al Nahyan,Abu Dhabi,2025-10-24,Web,Regular
+CUST_01476,Zainab Al Qasimi,Dubai,2025-02-19,App,Regular
+CUST_01477,Rashid Al Nahyan,Dubai,2025-02-24,Call Center,Regular
+CUST_01478,Khalid Khan,Abu Dhabi,2025-08-25,Web,VIP
+CUST_01479,Sara Ahmed,Dubai,2025-08-29,App,Regular
+CUST_01480,Fatima Al Nahyan,Sharjah,2025-04-03,Referral,Regular
+CUST_01481,Fatima Ahmed,Ajman,2025-07-07,Call Center,Regular
+CUST_01482,Hassan Ali,Dubai,2025-03-04,App,VIP
+CUST_01483,Aisha Al Maktoum,Dubai,2025-01-08,Call Center,Regular
+CUST_01484,Ali Al Qasimi,Sharjah,2025-06-21,App,Regular
+CUST_01485,Noor Ibrahim,Sharjah,2025-11-18,Call Center,Premium
+CUST_01486,Khalid Al Nahyan,Dubai,2025-07-13,Web,Regular
+CUST_01487,Hassan Al Qasimi,Abu Dhabi,2025-03-03,Web,Regular
+CUST_01488,Youssef Ali,Abu Dhabi,2025-08-25,Referral,Regular
+CUST_01489,Khalid Ali,Sharjah,2025-12-23,App,Regular
+CUST_01490,Zainab Ali,Dubai,2025-12-02,Referral,Premium
+CUST_01491,Mariam Al Nahyan,Ajman,2025-03-12,Referral,Regular
+CUST_01492,Fatima Al Qasimi,Dubai,2025-02-26,Web,Regular
+CUST_01493,Huda Salem,Abu Dhabi,2025-09-08,App,Regular
+CUST_01494,Tariq Ibrahim,Abu Dhabi,2025-04-06,App,Regular
+CUST_01495,Leila Ali,Abu Dhabi,2025-07-06,Web,Regular
+CUST_01496,Leila Al Maktoum,Sharjah,2025-12-20,App,Regular
+CUST_01497,Ali Ibrahim,Sharjah,2025-09-10,Web,Regular
+CUST_01498,Aisha Ali,Sharjah,2025-08-17,Web,Premium
+CUST_01499,Fatima Al Nahyan,Sharjah,2025-05-17,Web,Regular
+CUST_01500,Hassan Al Maktoum,Dubai,2025-12-30,App,Regular
+CUST_01501,Rashid Salem,Abu Dhabi,2025-10-20,Web,Regular
+CUST_01502,Layla Hassan,Dubai,2025-09-26,Web,Regular
+CUST_01503,Rashid Salem,Sharjah,2025-02-21,App,Regular
+CUST_01504,Huda Khan,Ajman,2025-09-07,App,Regular
+CUST_01505,Noor Ali,Dubai,2025-03-21,Web,Regular
+CUST_01506,Amina Salem,Abu Dhabi,2025-01-31,Web,Premium
+CUST_01507,Ahmed Al Qasimi,Dubai,2025-09-19,App,Premium
+CUST_01508,Zainab Ibrahim,Abu Dhabi,2025-03-29,Call Center,Regular
+CUST_01509,Mohammed Ibrahim,Sharjah,2025-06-17,App,Premium
+CUST_01510,Layla Hassan,Ajman,2025-05-26,Web,Regular
+CUST_01511,Fatima Mahmoud,Dubai,2025-04-28,App,Regular
+CUST_01512,Amina Ali,Dubai,2025-07-29,Web,Regular
+CUST_01513,Layla Al Nahyan,Abu Dhabi,2025-08-27,Web,Regular
+CUST_01514,Abdullah Salem,Dubai,2025-08-21,App,Regular
+CUST_01515,Mohammed Ibrahim,Dubai,2025-08-20,App,Regular
+CUST_01516,Hassan Al Nahyan,Sharjah,2025-09-15,App,Regular
+CUST_01517,Ahmed Al Nahyan,Sharjah,2025-07-29,Call Center,VIP
+CUST_01518,Huda Al Maktoum,Dubai,2025-10-16,App,Premium
+CUST_01519,Amina Al Maktoum,Abu Dhabi,2025-02-19,Web,Regular
+CUST_01520,Leila Salem,Sharjah,2025-11-26,Referral,VIP
+CUST_01521,Sara Mahmoud,Sharjah,2025-10-18,App,Premium
+CUST_01522,Omar Ibrahim,Dubai,2025-06-27,App,Premium
+CUST_01523,Noor Al Maktoum,Dubai,2025-04-28,App,Regular
+CUST_01524,Abdullah Hassan,Ajman,2025-10-17,Web,Regular
+CUST_01525,Leila Salem,Dubai,2025-09-03,Call Center,Premium
+CUST_01526,Noor Ibrahim,Dubai,2025-03-03,App,Regular
+CUST_01527,Aisha Khan,Ras Al Khaimah,2025-01-05,Web,VIP
+CUST_01528,Hassan Hassan,Dubai,2025-11-24,Call Center,Premium
+CUST_01529,Sara Mahmoud,Sharjah,2025-09-28,Referral,Regular
+CUST_01530,Noor Al Nahyan,Dubai,2025-01-27,Web,Premium
+CUST_01531,Mariam Ibrahim,Abu Dhabi,2025-03-16,App,Regular
+CUST_01532,Huda Al Nahyan,Dubai,2025-05-14,App,Regular
+CUST_01533,Leila Khan,Sharjah,2025-04-10,App,Regular
+CUST_01534,Aisha Ali,Dubai,2025-04-24,App,Premium
+CUST_01535,Abdullah Khan,Ajman,2025-06-26,App,Premium
+CUST_01536,Aisha Ali,Ajman,2025-01-27,Call Center,Regular
+CUST_01537,Tariq Al Nahyan,Ras Al Khaimah,2025-08-22,App,Regular
+CUST_01538,Abdullah Salem,Dubai,2025-09-19,Web,Regular
+CUST_01539,Ali Ibrahim,Dubai,2025-01-06,App,Premium
+CUST_01540,Rashid Al Maktoum,Ajman,2025-10-14,App,Premium
+CUST_01541,Huda Salem,Ajman,2025-09-08,Call Center,Regular
+CUST_01542,Rashid Al Qasimi,Sharjah,2025-12-24,Referral,Regular
+CUST_01543,Tariq Al Qasimi,Dubai,2025-03-10,Web,Regular
+CUST_01544,Aisha Ali,Abu Dhabi,2025-12-06,App,Regular
+CUST_01545,Leila Salem,Sharjah,2025-06-17,Call Center,Regular
+CUST_01546,Rashid Ali,Ras Al Khaimah,2025-08-06,App,Regular
+CUST_01547,Leila Khan,Sharjah,2025-05-24,Call Center,VIP
+CUST_01548,Youssef Hassan,Dubai,2025-06-03,Call Center,Regular
+CUST_01549,Abdullah Al Qasimi,Sharjah,2025-03-15,Web,Regular
+CUST_01550,Huda Salem,Dubai,2025-12-28,Call Center,Regular
+CUST_01551,Rashid Ahmed,Dubai,2025-12-29,Web,Regular
+CUST_01552,Amina Hassan,Sharjah,2026-01-03,App,Regular
+CUST_01553,Amina Khan,Sharjah,2025-04-16,Web,Regular
+CUST_01554,Omar Salem,Sharjah,2026-01-04,Web,Regular
+CUST_01555,Sara Hassan,Abu Dhabi,2025-12-14,Call Center,Premium
+CUST_01556,Ali Al Qasimi,Sharjah,2025-09-18,App,Premium
+CUST_01557,Amina Hassan,Sharjah,2026-01-02,Web,Regular
+CUST_01558,Aisha Hassan,Ajman,2025-10-18,Web,Regular
+CUST_01559,Zainab Salem,Abu Dhabi,2025-10-23,Call Center,Regular
+CUST_01560,Huda Mahmoud,Ras Al Khaimah,2025-05-30,Web,Regular
+CUST_01561,Huda Al Maktoum,Dubai,2025-09-28,App,VIP
+CUST_01562,Aisha Al Maktoum,Dubai,2025-07-18,Call Center,Regular
+CUST_01563,Ali Al Maktoum,Dubai,2025-12-13,App,Regular
+CUST_01564,Fatima Khan,Ras Al Khaimah,2025-05-20,App,Regular
+CUST_01565,Mariam Ahmed,Dubai,2025-12-19,Web,Regular
+CUST_01566,Khalid Al Qasimi,Ajman,2025-02-04,Web,Regular
+CUST_01567,Sara Khan,Dubai,2025-10-08,Referral,Regular
+CUST_01568,Fatima Hassan,Dubai,2025-08-23,Web,Regular
+CUST_01569,Aisha Salem,Abu Dhabi,2025-12-15,App,Premium
+CUST_01570,Amina Khan,Dubai,2025-12-01,Call Center,Regular
+CUST_01571,Amina Ali,Abu Dhabi,2025-05-05,Web,Regular
+CUST_01572,Rashid Ahmed,Sharjah,2025-12-24,Web,Regular
+CUST_01573,Fatima Ali,Abu Dhabi,2025-07-21,Referral,Regular
+CUST_01574,Huda Hassan,Ajman,2025-10-13,App,Regular
+CUST_01575,Fatima Al Maktoum,Dubai,2025-05-12,App,Regular
+CUST_01576,Omar Salem,Dubai,2025-08-18,Referral,Premium
+CUST_01577,Layla Hassan,Sharjah,2025-11-01,App,Regular
+CUST_01578,Amina Salem,Dubai,2025-04-14,Web,VIP
+CUST_01579,Omar Ahmed,Abu Dhabi,2025-08-21,App,Regular
+CUST_01580,Mariam Al Nahyan,Dubai,2025-04-09,App,Regular
+CUST_01581,Mariam Mahmoud,Sharjah,2025-03-06,App,Regular
+CUST_01582,Youssef Al Maktoum,Ras Al Khaimah,2025-08-11,App,Regular
+CUST_01583,Khalid Mahmoud,Dubai,2025-05-19,App,Regular
+CUST_01584,Ali Al Qasimi,Sharjah,2025-10-30,App,Regular
+CUST_01585,Khalid Al Maktoum,Sharjah,2025-06-22,Web,Premium
+CUST_01586,Abdullah Al Qasimi,Ajman,2025-01-24,App,Premium
+CUST_01587,Ali Hassan,Abu Dhabi,2025-11-05,Referral,Regular
+CUST_01588,Fatima Salem,Ras Al Khaimah,2025-12-08,Call Center,Regular
+CUST_01589,Sara Ibrahim,Abu Dhabi,2025-10-24,Referral,Premium
+CUST_01590,Amina Hassan,Dubai,2025-02-10,Web,Regular
+CUST_01591,Hassan Mahmoud,Dubai,2025-04-26,App,Regular
+CUST_01592,Mariam Mahmoud,Sharjah,2025-02-07,App,Premium
+CUST_01593,Rashid Al Qasimi,Dubai,2025-08-04,App,Regular
+CUST_01594,Amina Mahmoud,Dubai,2025-07-29,App,Regular
+CUST_01595,Mohammed Hassan,Abu Dhabi,2025-04-27,App,Regular
+CUST_01596,Omar Hassan,Dubai,2025-06-22,Call Center,VIP
+CUST_01597,Noor Ahmed,Abu Dhabi,2025-04-25,App,Regular
+CUST_01598,Leila Mahmoud,Ras Al Khaimah,2025-09-04,App,Regular
+CUST_01599,Amina Al Maktoum,Dubai,2025-03-03,App,Regular
+CUST_01600,Noor Ibrahim,Sharjah,2025-05-07,App,Regular
+CUST_01601,Leila Salem,Dubai,2025-05-08,App,VIP
+CUST_01602,Fatima Hassan,Dubai,2025-07-18,Call Center,Regular
+CUST_01603,Aisha Ali,Dubai,2025-05-15,Referral,Regular
+CUST_01604,Amina Ahmed,Ajman,2025-01-16,App,Premium
+CUST_01605,Rashid Hassan,Dubai,2025-09-24,Web,Premium
+CUST_01606,Rashid Ibrahim,Ajman,2025-09-10,Referral,Premium
+CUST_01607,Fatima Ahmed,Ajman,2025-12-03,App,Regular
+CUST_01608,Omar Hassan,Dubai,2025-09-24,App,Regular
+CUST_01609,Mohammed Al Nahyan,Abu Dhabi,2025-03-30,App,Regular
+CUST_01610,Amina Mahmoud,Dubai,2025-01-07,App,Regular
+CUST_01611,Mohammed Khan,Sharjah,2025-12-13,Web,Regular
+CUST_01612,Omar Ali,Dubai,2025-02-26,Web,Regular
+CUST_01613,Omar Mahmoud,Dubai,2025-12-29,App,Regular
+CUST_01614,Huda Al Nahyan,Dubai,2025-12-21,Referral,VIP
+CUST_01615,Ali Al Maktoum,Dubai,2025-08-27,App,Regular
+CUST_01616,Hassan Al Maktoum,Dubai,2025-02-17,Referral,Regular
+CUST_01617,Mohammed Al Maktoum,Sharjah,2025-04-05,App,VIP
+CUST_01618,Khalid Mahmoud,Dubai,2025-02-09,Call Center,Regular
+CUST_01619,Tariq Khan,Abu Dhabi,2025-05-16,App,Regular
+CUST_01620,Huda Ali,Ajman,2025-08-22,Referral,Premium
+CUST_01621,Youssef Ali,Abu Dhabi,2025-06-14,Call Center,Regular
+CUST_01622,Ahmed Ali,Dubai,2025-12-14,App,Regular
+CUST_01623,Aisha Mahmoud,Dubai,2025-01-07,App,Regular
+CUST_01624,Leila Al Nahyan,Sharjah,2025-10-30,App,Regular
+CUST_01625,Fatima Al Nahyan,Dubai,2025-07-06,App,Regular
+CUST_01626,Rashid Al Nahyan,Abu Dhabi,2025-06-01,Web,Regular
+CUST_01627,Sara Salem,Dubai,2025-02-17,Call Center,Regular
+CUST_01628,Sara Ibrahim,Abu Dhabi,2025-07-18,Call Center,Regular
+CUST_01629,Youssef Al Maktoum,Dubai,2025-09-03,Call Center,Regular
+CUST_01630,Mariam Mahmoud,Sharjah,2025-04-26,App,Regular
+CUST_01631,Ali Ali,Dubai,2025-10-10,App,Regular
+CUST_01632,Sara Al Qasimi,Dubai,2025-06-05,App,Regular
+CUST_01633,Noor Al Maktoum,Dubai,2025-10-14,App,Regular
+CUST_01634,Amina Al Qasimi,Ajman,2025-03-08,App,Regular
+CUST_01635,Fatima Al Maktoum,Dubai,2025-10-24,App,VIP
+CUST_01636,Leila Ali,Dubai,2025-10-06,Referral,Regular
+CUST_01637,Amina Al Nahyan,Sharjah,2025-06-09,Web,Premium
+CUST_01638,Omar Hassan,Abu Dhabi,2025-04-22,Web,Regular
+CUST_01639,Huda Mahmoud,Dubai,2025-03-17,Referral,Regular
+CUST_01640,Mariam Al Qasimi,Dubai,2025-04-27,Call Center,Regular
+CUST_01641,Leila Ahmed,Ras Al Khaimah,2025-04-13,Web,Regular
+CUST_01642,Aisha Al Qasimi,Ajman,2025-12-13,App,Regular
+CUST_01643,Tariq Al Maktoum,Abu Dhabi,2025-10-12,App,Premium
+CUST_01644,Abdullah Mahmoud,Ajman,2025-02-10,App,Regular
+CUST_01645,Sara Al Nahyan,Ras Al Khaimah,2025-05-12,App,Regular
+CUST_01646,Aisha Khan,Dubai,2025-10-28,Referral,Regular
+CUST_01647,Zainab Hassan,Sharjah,2025-07-05,Call Center,Regular
+CUST_01648,Ali Khan,Abu Dhabi,2025-02-24,Call Center,Regular
+CUST_01649,Sara Salem,Sharjah,2025-02-08,Referral,Regular
+CUST_01650,Omar Hassan,Sharjah,2025-09-09,Call Center,Premium
+CUST_01651,Abdullah Hassan,Dubai,2025-11-15,App,Regular
+CUST_01652,Sara Salem,Sharjah,2025-03-23,Web,Premium
+CUST_01653,Tariq Salem,Dubai,2025-07-09,Web,Regular
+CUST_01654,Hassan Ali,Sharjah,2025-03-31,Web,Regular
+CUST_01655,Ahmed Hassan,Dubai,2025-05-10,Web,Regular
+CUST_01656,Layla Ali,Dubai,2025-05-25,Referral,Premium
+CUST_01657,Noor Al Qasimi,Ras Al Khaimah,2025-12-17,App,Regular
+CUST_01658,Hassan Ibrahim,Ajman,2025-08-28,Web,Premium
+CUST_01659,Abdullah Hassan,Dubai,2025-06-09,App,Regular
+CUST_01660,Zainab Mahmoud,Dubai,2025-02-28,App,Regular
+CUST_01661,Mariam Salem,Ras Al Khaimah,2025-02-14,App,Regular
+CUST_01662,Khalid Al Qasimi,Sharjah,2025-10-06,Web,Regular
+CUST_01663,Omar Ahmed,Sharjah,2025-11-20,Web,Premium
+CUST_01664,Mohammed Al Nahyan,Sharjah,2025-01-13,Referral,Regular
+CUST_01665,Rashid Al Maktoum,Dubai,2025-10-28,Web,Regular
+CUST_01666,Tariq Ali,Ajman,2025-11-02,App,Regular
+CUST_01667,Omar Al Maktoum,Sharjah,2025-10-13,Web,Regular
+CUST_01668,Khalid Mahmoud,Abu Dhabi,2025-10-07,Call Center,Regular
+CUST_01669,Zainab Al Qasimi,Ajman,2025-07-10,App,Premium
+CUST_01670,Youssef Khan,Sharjah,2025-11-01,App,Regular
+CUST_01671,Sara Al Qasimi,Dubai,2025-08-29,Web,Regular
+CUST_01672,Rashid Mahmoud,Abu Dhabi,2025-02-19,App,Regular
+CUST_01673,Youssef Hassan,Dubai,2025-09-18,App,Regular
+CUST_01674,Ahmed Khan,Ajman,2025-11-14,Web,Regular
+CUST_01675,Mariam Mahmoud,Ras Al Khaimah,2025-03-16,Web,VIP
+CUST_01676,Abdullah Al Qasimi,Abu Dhabi,2025-04-05,App,Regular
+CUST_01677,Tariq Salem,Sharjah,2025-12-07,App,Regular
+CUST_01678,Ali Ibrahim,Abu Dhabi,2025-07-06,Web,Regular
+CUST_01679,Fatima Khan,Dubai,2025-09-10,App,Regular
+CUST_01680,Layla Al Nahyan,Ras Al Khaimah,2025-05-19,Web,VIP
+CUST_01681,Noor Khan,Sharjah,2025-01-25,Web,Regular
+CUST_01682,Omar Mahmoud,Sharjah,2025-07-07,Web,Regular
+CUST_01683,Youssef Ibrahim,Abu Dhabi,2025-08-24,Web,Regular
+CUST_01684,Fatima Al Maktoum,Abu Dhabi,2025-12-02,App,Premium
+CUST_01685,Hassan Al Nahyan,Dubai,2025-12-30,App,Regular
+CUST_01686,Rashid Ahmed,Sharjah,2025-05-18,App,Regular
+CUST_01687,Tariq Mahmoud,Abu Dhabi,2025-10-22,App,VIP
+CUST_01688,Mariam Ali,Ajman,2025-12-04,Web,Regular
+CUST_01689,Youssef Hassan,Sharjah,2025-10-31,App,Regular
+CUST_01690,Mohammed Mahmoud,Dubai,2025-05-12,Referral,Regular
+CUST_01691,Youssef Khan,Abu Dhabi,2025-09-25,Web,Regular
+CUST_01692,Youssef Hassan,Dubai,2025-06-29,Referral,Regular
+CUST_01693,Zainab Ibrahim,Abu Dhabi,2025-11-09,App,Regular
+CUST_01694,Ahmed Mahmoud,Abu Dhabi,2025-03-16,App,Regular
+CUST_01695,Abdullah Al Qasimi,Sharjah,2025-05-01,App,Regular
+CUST_01696,Mohammed Mahmoud,Abu Dhabi,2025-11-29,Call Center,Regular
+CUST_01697,Khalid Khan,Abu Dhabi,2025-03-21,App,Regular
+CUST_01698,Mariam Al Qasimi,Dubai,2025-07-08,Call Center,Regular
+CUST_01699,Leila Al Nahyan,Dubai,2025-12-08,App,Premium
+CUST_01700,Layla Ali,Dubai,2025-06-22,App,Regular
+CUST_01701,Aisha Ibrahim,Abu Dhabi,2025-12-15,Web,Regular
+CUST_01702,Zainab Ibrahim,Dubai,2025-04-21,App,Regular
+CUST_01703,Tariq Al Qasimi,Dubai,2025-12-01,App,Premium
+CUST_01704,Huda Al Maktoum,Ras Al Khaimah,2025-05-08,Referral,Premium
+CUST_01705,Fatima Al Qasimi,Abu Dhabi,2025-10-24,Web,Regular
+CUST_01706,Tariq Al Qasimi,Abu Dhabi,2025-03-13,Web,Regular
+CUST_01707,Rashid Al Maktoum,Sharjah,2025-10-24,App,Regular
+CUST_01708,Ali Al Maktoum,Ajman,2025-03-30,App,Regular
+CUST_01709,Khalid Al Qasimi,Ajman,2025-09-25,Web,Regular
+CUST_01710,Youssef Salem,Dubai,2025-10-19,App,Premium
+CUST_01711,Ahmed Ahmed,Abu Dhabi,2025-02-16,Web,Regular
+CUST_01712,Omar Ibrahim,Dubai,2025-11-10,Referral,Regular
+CUST_01713,Zainab Ibrahim,Abu Dhabi,2025-04-01,App,Regular
+CUST_01714,Layla Ali,Ajman,2025-11-07,Web,Regular
+CUST_01715,Ali Salem,Abu Dhabi,2025-04-07,Call Center,Regular
+CUST_01716,Leila Mahmoud,Ajman,2025-05-19,Web,Premium
+CUST_01717,Mariam Hassan,Abu Dhabi,2025-08-24,App,Regular
+CUST_01718,Leila Salem,Dubai,2025-02-08,Referral,Premium
+CUST_01719,Layla Ali,Sharjah,2025-07-20,App,Regular
+CUST_01720,Ali Al Nahyan,Sharjah,2025-01-12,Web,Regular
+CUST_01721,Omar Mahmoud,Abu Dhabi,2025-09-19,App,Regular
+CUST_01722,Huda Al Qasimi,Abu Dhabi,2025-11-10,App,VIP
+CUST_01723,Aisha Al Qasimi,Dubai,2025-09-04,App,Regular
+CUST_01724,Leila Salem,Sharjah,2025-01-23,App,Regular
+CUST_01725,Amina Mahmoud,Dubai,2025-03-05,App,Regular
+CUST_01726,Mohammed Ibrahim,Sharjah,2025-12-07,Call Center,Regular
+CUST_01727,Ali Salem,Abu Dhabi,2025-10-07,Referral,Regular
+CUST_01728,Ahmed Ali,Sharjah,2025-09-28,App,VIP
+CUST_01729,Huda Hassan,Sharjah,2025-01-26,Referral,Regular
+CUST_01730,Rashid Ali,Dubai,2025-05-01,Referral,Regular
+CUST_01731,Zainab Ali,Dubai,2025-07-02,Web,Premium
+CUST_01732,Tariq Salem,Ajman,2025-02-23,App,Premium
+CUST_01733,Huda Al Qasimi,Sharjah,2025-05-14,App,Regular
+CUST_01734,Zainab Khan,Dubai,2025-02-15,App,VIP
+CUST_01735,Sara Salem,Abu Dhabi,2025-10-09,Web,VIP
+CUST_01736,Huda Ahmed,Dubai,2025-04-10,Call Center,Regular
+CUST_01737,Ahmed Al Maktoum,Ajman,2025-10-26,App,VIP
+CUST_01738,Rashid Al Nahyan,Dubai,2025-09-27,App,Premium
+CUST_01739,Ahmed Ali,Dubai,2025-12-05,Web,Regular
+CUST_01740,Omar Hassan,Sharjah,2025-08-01,App,Regular
+CUST_01741,Noor Al Nahyan,Dubai,2025-03-24,Web,Regular
+CUST_01742,Huda Salem,Dubai,2025-05-13,App,Regular
+CUST_01743,Khalid Mahmoud,Abu Dhabi,2025-08-08,Call Center,Regular
+CUST_01744,Tariq Hassan,Abu Dhabi,2025-11-13,Web,Regular
+CUST_01745,Khalid Ali,Sharjah,2025-04-18,App,Regular
+CUST_01746,Huda Mahmoud,Dubai,2025-10-16,Web,Regular
+CUST_01747,Zainab Al Qasimi,Dubai,2025-07-12,App,VIP
+CUST_01748,Amina Mahmoud,Abu Dhabi,2025-09-08,Web,VIP
+CUST_01749,Khalid Ahmed,Sharjah,2025-10-26,Web,Premium
+CUST_01750,Noor Ali,Ajman,2025-03-15,Web,Regular
+CUST_01751,Aisha Khan,Dubai,2025-08-20,Referral,Regular
+CUST_01752,Mariam Al Nahyan,Dubai,2025-04-23,Call Center,Regular
+CUST_01753,Rashid Ali,Dubai,2025-06-26,Web,Regular
+CUST_01754,Amina Salem,Ajman,2025-12-26,App,Premium
+CUST_01755,Fatima Al Qasimi,Abu Dhabi,2025-07-22,App,VIP
+CUST_01756,Ahmed Al Nahyan,Abu Dhabi,2025-03-19,App,Regular
+CUST_01757,Zainab Salem,Ajman,2025-08-14,App,Regular
+CUST_01758,Mohammed Al Nahyan,Dubai,2025-05-18,App,Premium
+CUST_01759,Layla Hassan,Abu Dhabi,2025-02-13,App,Regular
+CUST_01760,Leila Al Maktoum,Dubai,2025-07-19,Referral,Regular
+CUST_01761,Youssef Salem,Ras Al Khaimah,2025-12-05,Web,Regular
+CUST_01762,Rashid Ahmed,Ajman,2026-01-03,Web,Premium
+CUST_01763,Leila Al Maktoum,Ras Al Khaimah,2025-04-03,App,Regular
+CUST_01764,Zainab Ibrahim,Sharjah,2025-01-09,App,Regular
+CUST_01765,Omar Mahmoud,Dubai,2025-05-30,App,Premium
+CUST_01766,Omar Al Maktoum,Dubai,2025-11-06,Web,Regular
+CUST_01767,Rashid Mahmoud,Abu Dhabi,2025-12-27,App,Premium
+CUST_01768,Layla Salem,Dubai,2025-03-31,Call Center,Premium
+CUST_01769,Fatima Hassan,Abu Dhabi,2025-05-06,Web,Regular
+CUST_01770,Ahmed Al Qasimi,Dubai,2025-02-17,Call Center,Premium
+CUST_01771,Khalid Ali,Dubai,2025-07-03,Web,VIP
+CUST_01772,Youssef Ali,Ras Al Khaimah,2025-10-31,Web,Regular
+CUST_01773,Omar Mahmoud,Dubai,2025-01-11,Referral,Regular
+CUST_01774,Mohammed Al Nahyan,Abu Dhabi,2025-10-12,App,Regular
+CUST_01775,Sara Mahmoud,Abu Dhabi,2025-10-29,Referral,Regular
+CUST_01776,Noor Hassan,Abu Dhabi,2025-05-25,App,Regular
+CUST_01777,Layla Salem,Abu Dhabi,2025-04-13,Web,Regular
+CUST_01778,Abdullah Ali,Dubai,2025-10-25,App,Regular
+CUST_01779,Ahmed Ahmed,Ras Al Khaimah,2025-04-03,Referral,Regular
+CUST_01780,Huda Mahmoud,Abu Dhabi,2025-02-27,Referral,Regular
+CUST_01781,Amina Al Nahyan,Sharjah,2025-09-18,Referral,Regular
+CUST_01782,Sara Hassan,Dubai,2025-03-04,Referral,Regular
+CUST_01783,Rashid Ahmed,Dubai,2025-10-06,App,Regular
+CUST_01784,Tariq Ahmed,Sharjah,2025-12-25,Web,VIP
+CUST_01785,Abdullah Ali,Dubai,2025-10-19,Web,Regular
+CUST_01786,Zainab Khan,Abu Dhabi,2025-06-26,App,VIP
+CUST_01787,Abdullah Ibrahim,Ajman,2025-10-31,Web,Regular
+CUST_01788,Ahmed Ibrahim,Dubai,2025-03-04,Web,Regular
+CUST_01789,Khalid Al Nahyan,Abu Dhabi,2025-07-18,Referral,Regular
+CUST_01790,Layla Khan,Dubai,2025-06-14,Call Center,Regular
+CUST_01791,Huda Hassan,Dubai,2025-09-25,App,Regular
+CUST_01792,Amina Al Maktoum,Sharjah,2025-12-28,Web,Premium
+CUST_01793,Khalid Khan,Abu Dhabi,2025-05-31,App,Premium
+CUST_01794,Mohammed Ali,Dubai,2025-12-14,App,Regular
+CUST_01795,Hassan Al Nahyan,Dubai,2025-10-14,App,Regular
+CUST_01796,Mariam Ibrahim,Abu Dhabi,2025-06-13,App,VIP
+CUST_01797,Noor Khan,Abu Dhabi,2025-10-24,Call Center,Regular
+CUST_01798,Khalid Al Qasimi,Abu Dhabi,2025-12-19,Call Center,Regular
+CUST_01799,Omar Ibrahim,Sharjah,2025-04-16,App,Regular
+CUST_01800,Layla Khan,Abu Dhabi,2025-05-19,App,Premium
+CUST_01801,Omar Khan,Dubai,2025-04-17,Referral,VIP
+CUST_01802,Layla Salem,Dubai,2025-07-05,App,Premium
+CUST_01803,Ali Al Nahyan,Ras Al Khaimah,2025-03-06,App,Regular
+CUST_01804,Mohammed Ibrahim,Abu Dhabi,2025-11-14,Web,Regular
+CUST_01805,Ahmed Mahmoud,Sharjah,2025-01-25,App,Regular
+CUST_01806,Zainab Hassan,Dubai,2025-11-17,App,Regular
+CUST_01807,Hassan Ibrahim,Abu Dhabi,2025-10-25,App,Regular
+CUST_01808,Khalid Ibrahim,Dubai,2025-04-07,Referral,Regular
+CUST_01809,Rashid Ahmed,Abu Dhabi,2025-07-26,Web,VIP
+CUST_01810,Layla Salem,Dubai,2025-03-10,Web,Premium
+CUST_01811,Fatima Mahmoud,Abu Dhabi,2025-08-08,App,Regular
+CUST_01812,Zainab Mahmoud,Dubai,2025-01-20,Web,Premium
+CUST_01813,Rashid Hassan,Dubai,2025-07-24,Call Center,Regular
+CUST_01814,Mariam Ibrahim,Sharjah,2025-03-06,Web,Regular
+CUST_01815,Rashid Ibrahim,Dubai,2025-06-14,Referral,Regular
+CUST_01816,Ahmed Al Maktoum,Dubai,2025-12-15,App,Regular
+CUST_01817,Omar Ali,Abu Dhabi,2025-10-28,App,Regular
+CUST_01818,Aisha Hassan,Dubai,2025-07-08,App,Regular
+CUST_01819,Leila Ahmed,Sharjah,2025-04-09,App,Regular
+CUST_01820,Amina Ahmed,Dubai,2025-05-05,Referral,VIP
+CUST_01821,Khalid Ibrahim,Sharjah,2025-11-13,App,Regular
+CUST_01822,Hassan Hassan,Dubai,2025-04-08,App,Regular
+CUST_01823,Zainab Ali,Sharjah,2025-04-21,Call Center,Premium
+CUST_01824,Huda Hassan,Dubai,2025-07-09,Web,Regular
+CUST_01825,Youssef Ahmed,Dubai,2025-08-22,Web,Regular
+CUST_01826,Mariam Salem,Abu Dhabi,2025-03-12,App,Regular
+CUST_01827,Tariq Khan,Sharjah,2025-02-24,App,Premium
+CUST_01828,Khalid Khan,Dubai,2025-10-15,App,Premium
+CUST_01829,Huda Ali,Sharjah,2025-04-14,Referral,Regular
+CUST_01830,Ali Al Qasimi,Sharjah,2025-09-03,Web,VIP
+CUST_01831,Ahmed Al Qasimi,Dubai,2025-08-07,Call Center,Regular
+CUST_01832,Zainab Al Qasimi,Dubai,2025-11-22,Web,Regular
+CUST_01833,Rashid Mahmoud,Abu Dhabi,2025-06-14,Call Center,Regular
+CUST_01834,Zainab Ahmed,Abu Dhabi,2025-05-12,Web,Regular
+CUST_01835,Amina Salem,Dubai,2025-01-28,Web,Regular
+CUST_01836,Youssef Al Nahyan,Dubai,2025-12-23,Web,Regular
+CUST_01837,Mariam Al Maktoum,Dubai,2025-04-24,Web,Regular
+CUST_01838,Khalid Ibrahim,Ajman,2025-11-22,Call Center,Premium
+CUST_01839,Aisha Ibrahim,Dubai,2025-06-24,Call Center,Premium
+CUST_01840,Khalid Hassan,Sharjah,2025-07-07,App,Regular
+CUST_01841,Amina Mahmoud,Sharjah,2025-05-15,Web,Regular
+CUST_01842,Noor Al Maktoum,Abu Dhabi,2025-08-02,Web,Regular
+CUST_01843,Aisha Hassan,Abu Dhabi,2025-12-17,App,Regular
+CUST_01844,Leila Khan,Dubai,2025-10-26,Web,Regular
+CUST_01845,Tariq Mahmoud,Sharjah,2025-04-03,Call Center,Regular
+CUST_01846,Sara Hassan,Dubai,2025-06-19,App,Premium
+CUST_01847,Rashid Ibrahim,Abu Dhabi,2025-08-20,Web,Regular
+CUST_01848,Mohammed Ali,Abu Dhabi,2025-11-14,Call Center,Premium
+CUST_01849,Sara Ibrahim,Abu Dhabi,2025-11-23,App,Regular
+CUST_01850,Ali Al Qasimi,Dubai,2025-11-27,App,Regular
+CUST_01851,Hassan Ali,Dubai,2025-11-23,App,VIP
+CUST_01852,Leila Salem,Abu Dhabi,2025-07-30,Call Center,Premium
+CUST_01853,Mohammed Al Nahyan,Dubai,2025-03-27,Web,Regular
+CUST_01854,Hassan Khan,Abu Dhabi,2025-06-13,App,VIP
+CUST_01855,Hassan Ahmed,Dubai,2026-01-02,App,VIP
+CUST_01856,Khalid Salem,Dubai,2025-11-30,Web,Premium
+CUST_01857,Youssef Ahmed,Sharjah,2025-08-19,Referral,VIP
+CUST_01858,Noor Salem,Dubai,2025-09-27,Call Center,Regular
+CUST_01859,Abdullah Ali,Abu Dhabi,2025-03-30,App,Regular
+CUST_01860,Mariam Al Maktoum,Ras Al Khaimah,2025-03-09,Referral,Regular
+CUST_01861,Layla Ahmed,Dubai,2025-12-28,App,Premium
+CUST_01862,Mohammed Khan,Sharjah,2025-03-30,Web,Regular
+CUST_01863,Youssef Al Nahyan,Abu Dhabi,2025-02-21,Web,VIP
+CUST_01864,Mohammed Ibrahim,Abu Dhabi,2025-10-11,App,Regular
+CUST_01865,Fatima Al Maktoum,Dubai,2025-07-26,Referral,Regular
+CUST_01866,Rashid Al Nahyan,Abu Dhabi,2025-02-26,App,Regular
+CUST_01867,Khalid Salem,Sharjah,2025-03-24,Web,Regular
+CUST_01868,Mohammed Ali,Dubai,2025-06-11,App,Regular
+CUST_01869,Layla Khan,Dubai,2025-05-29,Web,Premium
+CUST_01870,Abdullah Al Qasimi,Ajman,2025-03-12,App,Regular
+CUST_01871,Rashid Al Qasimi,Dubai,2025-01-18,Web,Premium
+CUST_01872,Fatima Hassan,Dubai,2025-06-19,App,Premium
+CUST_01873,Zainab Ibrahim,Ajman,2025-10-07,App,Regular
+CUST_01874,Khalid Mahmoud,Dubai,2025-08-19,App,VIP
+CUST_01875,Ali Mahmoud,Sharjah,2025-04-04,Call Center,Regular
+CUST_01876,Tariq Salem,Sharjah,2025-08-25,App,Regular
+CUST_01877,Tariq Ali,Abu Dhabi,2025-09-29,App,Premium
+CUST_01878,Amina Ahmed,Abu Dhabi,2025-06-30,App,Regular
+CUST_01879,Zainab Mahmoud,Dubai,2025-04-30,App,Regular
+CUST_01880,Mohammed Ibrahim,Sharjah,2025-06-10,App,Regular
+CUST_01881,Noor Ali,Abu Dhabi,2025-05-17,Call Center,Regular
+CUST_01882,Ali Ahmed,Dubai,2025-01-09,Web,Regular
+CUST_01883,Ahmed Mahmoud,Dubai,2025-03-14,Web,Regular
+CUST_01884,Noor Ahmed,Abu Dhabi,2025-09-01,Web,Regular
+CUST_01885,Amina Al Maktoum,Dubai,2025-12-22,App,Regular
+CUST_01886,Zainab Ibrahim,Dubai,2025-06-06,Web,Premium
+CUST_01887,Ahmed Ali,Ras Al Khaimah,2025-06-02,Web,Regular
+CUST_01888,Leila Khan,Dubai,2025-01-07,Call Center,Regular
+CUST_01889,Amina Hassan,Abu Dhabi,2025-04-10,Call Center,Premium
+CUST_01890,Huda Mahmoud,Sharjah,2025-08-15,App,Premium
+CUST_01891,Youssef Khan,Ajman,2025-03-28,App,Regular
+CUST_01892,Youssef Ali,Dubai,2025-04-26,Referral,Regular
+CUST_01893,Khalid Al Nahyan,Abu Dhabi,2025-08-08,App,Premium
+CUST_01894,Layla Mahmoud,Dubai,2025-11-13,App,Regular
+CUST_01895,Khalid Ahmed,Ajman,2025-12-02,App,Regular
+CUST_01896,Amina Ahmed,Sharjah,2025-08-03,Web,VIP
+CUST_01897,Omar Al Nahyan,Dubai,2025-04-07,Web,Regular
+CUST_01898,Ali Ahmed,Dubai,2025-03-01,Web,Regular
+CUST_01899,Abdullah Salem,Sharjah,2025-08-23,App,Regular
+CUST_01900,Khalid Salem,Abu Dhabi,2025-09-12,Referral,Regular
+CUST_01901,Omar Hassan,Dubai,2025-01-13,App,Regular
+CUST_01902,Ali Al Maktoum,Dubai,2025-10-04,Referral,Regular
+CUST_01903,Ahmed Al Qasimi,Ajman,2025-02-25,App,Regular
+CUST_01904,Sara Ahmed,Ajman,2025-03-09,App,VIP
+CUST_01905,Abdullah Al Maktoum,Abu Dhabi,2025-05-03,Referral,Regular
+CUST_01906,Mohammed Al Qasimi,Dubai,2025-01-11,App,Regular
+CUST_01907,Zainab Khan,Dubai,2025-06-28,App,Regular
+CUST_01908,Huda Ahmed,Abu Dhabi,2025-09-16,Call Center,Regular
+CUST_01909,Noor Ibrahim,Dubai,2025-12-26,Web,Regular
+CUST_01910,Fatima Hassan,Dubai,2025-02-14,App,VIP
+CUST_01911,Ali Al Maktoum,Sharjah,2025-05-20,App,Regular
+CUST_01912,Youssef Al Nahyan,Abu Dhabi,2025-10-09,Web,Regular
+CUST_01913,Zainab Al Qasimi,Abu Dhabi,2025-04-12,App,Regular
+CUST_01914,Khalid Ali,Abu Dhabi,2025-01-10,Call Center,Regular
+CUST_01915,Aisha Khan,Sharjah,2025-07-20,Referral,Regular
+CUST_01916,Abdullah Khan,Sharjah,2025-01-21,Web,VIP
+CUST_01917,Omar Ibrahim,Ras Al Khaimah,2025-02-21,Web,Regular
+CUST_01918,Rashid Khan,Sharjah,2025-09-03,App,Premium
+CUST_01919,Youssef Ahmed,Ajman,2025-06-18,App,Regular
+CUST_01920,Mariam Al Maktoum,Abu Dhabi,2025-10-12,App,Regular
+CUST_01921,Rashid Al Nahyan,Sharjah,2025-05-13,Referral,VIP
+CUST_01922,Zainab Ahmed,Dubai,2025-04-15,Call Center,Premium
+CUST_01923,Noor Al Maktoum,Dubai,2025-12-11,App,Regular
+CUST_01924,Omar Al Nahyan,Ajman,2025-05-04,Web,Premium
+CUST_01925,Huda Hassan,Dubai,2025-01-11,Web,Regular
+CUST_01926,Mariam Ahmed,Dubai,2025-10-30,Web,Regular
+CUST_01927,Aisha Ali,Sharjah,2025-05-08,App,Regular
+CUST_01928,Ahmed Al Maktoum,Abu Dhabi,2025-10-28,Web,Regular
+CUST_01929,Zainab Salem,Dubai,2025-03-24,Referral,Regular
+CUST_01930,Noor Al Nahyan,Sharjah,2025-05-11,Referral,Regular
+CUST_01931,Mariam Ibrahim,Dubai,2025-02-19,Web,VIP
+CUST_01932,Leila Hassan,Ajman,2025-11-20,Web,Premium
+CUST_01933,Fatima Al Maktoum,Dubai,2025-07-05,Referral,VIP
+CUST_01934,Ali Mahmoud,Dubai,2025-02-27,App,Regular
+CUST_01935,Ali Ibrahim,Dubai,2025-05-03,Call Center,Regular
+CUST_01936,Hassan Mahmoud,Dubai,2025-11-30,App,VIP
+CUST_01937,Noor Ibrahim,Abu Dhabi,2025-04-12,App,Regular
+CUST_01938,Ahmed Ali,Ras Al Khaimah,2025-07-06,Call Center,Regular
+CUST_01939,Ali Ahmed,Dubai,2025-01-24,App,Regular
+CUST_01940,Zainab Ibrahim,Abu Dhabi,2025-10-17,Referral,Regular
+CUST_01941,Sara Mahmoud,Sharjah,2025-12-26,App,Premium
+CUST_01942,Zainab Khan,Sharjah,2025-10-21,App,Regular
+CUST_01943,Mariam Mahmoud,Abu Dhabi,2025-07-01,App,Regular
+CUST_01944,Hassan Ibrahim,Abu Dhabi,2025-05-24,Referral,Regular
+CUST_01945,Leila Mahmoud,Sharjah,2025-03-27,App,Premium
+CUST_01946,Mohammed Mahmoud,Abu Dhabi,2025-03-24,Call Center,Regular
+CUST_01947,Abdullah Ahmed,Abu Dhabi,2025-05-18,Web,Regular
+CUST_01948,Amina Hassan,Dubai,2025-08-24,App,Regular
+CUST_01949,Ahmed Mahmoud,Ajman,2025-07-17,App,Regular
+CUST_01950,Mariam Al Maktoum,Sharjah,2025-11-17,App,Regular
+CUST_01951,Noor Salem,Dubai,2025-05-06,Referral,Premium
+CUST_01952,Hassan Al Nahyan,Ajman,2025-12-07,App,Premium
+CUST_01953,Amina Ali,Dubai,2025-04-11,App,Regular
+CUST_01954,Rashid Ibrahim,Abu Dhabi,2025-10-13,Web,Regular
+CUST_01955,Ali Salem,Dubai,2025-05-28,App,Premium
+CUST_01956,Hassan Ali,Abu Dhabi,2025-11-28,Web,Regular
+CUST_01957,Hassan Al Nahyan,Sharjah,2025-02-22,Web,Regular
+CUST_01958,Rashid Al Nahyan,Dubai,2025-01-26,Web,Premium
+CUST_01959,Ali Al Qasimi,Abu Dhabi,2025-01-20,App,Premium
+CUST_01960,Omar Al Nahyan,Sharjah,2025-09-09,App,Regular
+CUST_01961,Omar Al Nahyan,Dubai,2025-01-20,Web,Regular
+CUST_01962,Tariq Ali,Ras Al Khaimah,2025-12-06,Web,Regular
+CUST_01963,Zainab Mahmoud,Abu Dhabi,2025-11-19,Referral,Premium
+CUST_01964,Tariq Ahmed,Abu Dhabi,2025-01-29,Web,Regular
+CUST_01965,Noor Khan,Abu Dhabi,2025-11-10,App,Regular
+CUST_01966,Mohammed Al Maktoum,Dubai,2025-04-20,Referral,Regular
+CUST_01967,Zainab Al Nahyan,Ras Al Khaimah,2025-08-31,Web,Regular
+CUST_01968,Fatima Hassan,Abu Dhabi,2025-10-16,App,Regular
+CUST_01969,Huda Hassan,Dubai,2026-01-01,Web,Regular
+CUST_01970,Fatima Salem,Sharjah,2025-05-20,App,Regular
+CUST_01971,Rashid Al Maktoum,Abu Dhabi,2025-02-09,Referral,Premium
+CUST_01972,Sara Al Nahyan,Abu Dhabi,2025-04-24,Web,Regular
+CUST_01973,Rashid Al Nahyan,Ras Al Khaimah,2025-02-24,Web,Regular
+CUST_01974,Layla Mahmoud,Abu Dhabi,2025-07-20,App,VIP
+CUST_01975,Omar Khan,Dubai,2025-09-30,Web,Regular
+CUST_01976,Layla Salem,Sharjah,2025-11-20,Call Center,Regular
+CUST_01977,Mariam Mahmoud,Abu Dhabi,2025-10-16,Call Center,Regular
+CUST_01978,Huda Al Nahyan,Dubai,2025-11-26,App,VIP
+CUST_01979,Tariq Hassan,Dubai,2025-12-15,Web,Regular
+CUST_01980,Abdullah Ali,Dubai,2025-02-26,App,Regular
+CUST_01981,Mariam Al Qasimi,Abu Dhabi,2025-10-12,App,Regular
+CUST_01982,Youssef Mahmoud,Ajman,2025-06-25,Referral,Regular
+CUST_01983,Mariam Mahmoud,Dubai,2025-11-07,App,Regular
+CUST_01984,Abdullah Hassan,Sharjah,2025-06-14,App,Regular
+CUST_01985,Amina Hassan,Sharjah,2025-07-13,Web,Regular
+CUST_01986,Huda Ali,Abu Dhabi,2025-06-18,App,Regular
+CUST_01987,Leila Khan,Sharjah,2025-10-19,Call Center,Regular
+CUST_01988,Amina Khan,Ajman,2025-07-15,App,Premium
+CUST_01989,Amina Ahmed,Abu Dhabi,2025-07-07,Call Center,VIP
+CUST_01990,Abdullah Ibrahim,Dubai,2025-07-26,Referral,Premium
+CUST_01991,Ahmed Al Maktoum,Sharjah,2025-05-29,App,Premium
+CUST_01992,Leila Al Maktoum,Ajman,2025-09-26,App,VIP
+CUST_01993,Ali Ahmed,Dubai,2025-01-07,App,Regular
+CUST_01994,Sara Khan,Abu Dhabi,2025-04-23,Web,Regular
+CUST_01995,Hassan Al Maktoum,Ras Al Khaimah,2025-12-23,App,Regular
+CUST_01996,Khalid Mahmoud,Dubai,2025-09-22,Web,VIP
+CUST_01997,Amina Salem,Sharjah,2025-10-23,Call Center,Regular
+CUST_01998,Ali Al Nahyan,Abu Dhabi,2025-01-23,Web,Regular
+CUST_01999,Abdullah Hassan,Dubai,2025-03-24,Web,Regular
+CUST_02000,Ali Ahmed,Sharjah,2025-07-10,Web,Regular
