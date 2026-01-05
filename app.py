@@ -443,23 +443,68 @@ def executive_view(df):
     
     st.markdown("---")
     
-    # Daily Revenue Trend
-    st.subheader("📈 Daily Revenue Trend")
-    daily_revenue = df.groupby(df['order_date'].dt.date)['net_amount'].sum().reset_index()
-    daily_revenue.columns = ['Date', 'Revenue']
+        # Revenue Trend - Weekly and Monthly
+    st.subheader("📈 Revenue Trend Analysis")
     
-    fig_daily = px.line(
-        daily_revenue, 
-        x='Date', 
-        y='Revenue',
-        title='Daily Revenue Trend (AED)',
-        labels={'Revenue': 'Revenue (AED)', 'Date': 'Order Date'}
-    )
-    fig_daily.update_traces(line_color='#667eea', line_width=3)
-    fig_daily = apply_light_theme(fig_daily, height=400)
-    st.plotly_chart(fig_daily, use_container_width=True)
+    # Create two columns for weekly and monthly trends
+    col1, col2 = st.columns(2)
     
-    create_insight_box("Track daily revenue patterns to identify peak sales days and plan inventory accordingly.")
+    with col1:
+        # Weekly Revenue Trend
+        df['week'] = df['order_date'].dt.to_period('W').apply(lambda r: r.start_time)
+        weekly_revenue = df.groupby('week')['net_amount'].sum().reset_index()
+        weekly_revenue.columns = ['Week', 'Revenue']
+        
+        fig_weekly = px.line(
+            weekly_revenue, 
+            x='Week', 
+            y='Revenue',
+            title='Weekly Revenue Trend (AED)',
+            labels={'Revenue': 'Revenue (AED)', 'Week': 'Week Starting'}
+        )
+        fig_weekly.update_traces(
+            line_color='#3498db', 
+            line_width=3,
+            mode='lines+markers',
+            marker=dict(size=8)
+        )
+        fig_weekly.update_layout(
+            hovermode='x unified', 
+            height=400,
+            xaxis_title="Week Starting",
+            yaxis_title="Revenue (AED)"
+        )
+        st.plotly_chart(fig_weekly, use_container_width=True)
+    
+    with col2:
+        # Monthly Revenue Trend
+        df['month'] = df['order_date'].dt.to_period('M').apply(lambda r: r.start_time)
+        monthly_revenue = df.groupby('month')['net_amount'].sum().reset_index()
+        monthly_revenue.columns = ['Month', 'Revenue']
+        
+        fig_monthly = px.bar(
+            monthly_revenue, 
+            x='Month', 
+            y='Revenue',
+            title='Monthly Revenue Trend (AED)',
+            labels={'Revenue': 'Revenue (AED)', 'Month': 'Month'}
+        )
+        fig_monthly.update_traces(
+            marker_color='#2ecc71',
+            marker_line_color='#27ae60',
+            marker_line_width=1.5
+        )
+        fig_monthly.update_layout(
+            hovermode='x unified', 
+            height=400,
+            xaxis_title="Month",
+            yaxis_title="Revenue (AED)"
+        )
+        st.plotly_chart(fig_monthly, use_container_width=True)
+    
+    create_insight_box("Weekly trends reveal short-term patterns and campaign impacts, while monthly trends show overall business trajectory and seasonality.")
+    
+    st.markdown("---")
     
     # Two columns for next row
     col1, col2 = st.columns(2)
