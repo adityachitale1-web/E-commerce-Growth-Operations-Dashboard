@@ -1,41 +1,43 @@
-# 🛒 Souq Leadership Dashboard
+# SouqPlus Executive Dashboard
 
-An interactive business intelligence dashboard for Souq's leadership team, built with Streamlit and deployed on GitHub.
+A production-ready Streamlit dashboard for SouqPlus, a leading UAE-based e-commerce company.
 
-## 📊 Features
+## Features
+- **Executive View:** Revenue, growth, and margin KPIs with actionable insights
+- **Operations View:** Fulfillment, delivery, and returns analytics
+- **Dynamic Filters:** Date range, city, and order channel
+- **Modern UI:** Clean, professional, and responsive design
 
-### Page 1: Executive Summary
-- Total revenue, orders, and AOV with period-over-period comparison
-- Daily revenue trends
-- Revenue distribution by city
-- Top 5 products by revenue
-- Order status distribution
+## How to Run
+1. Ensure all CSV files are in the project directory:
+   - customers.csv
+   - orders.csv
+   - order_items.csv
+   - fullfillment.csv
+   - returns.csv
+2. Install requirements:
+   ```bash
+   pip install streamlit pandas plotly
+   ```
+3. Launch the dashboard:
+   ```bash
+   streamlit run app.py
+   ```
 
-### Page 2: Sales Performance
-- Revenue breakdown by channel, payment method, and customer segment
-- Product category performance analysis
-- Discount impact analysis
-- Coupon code usage tracking
+## Repository Structure
+```
+├── app.py
+├── customers.csv
+├── orders.csv
+├── order_items.csv
+├── fullfillment.csv
+├── returns.csv
+├── README.md
+```
 
-### Page 3: Operations & Fulfillment
-- On-time delivery rate and delay metrics
-- Warehouse and delivery partner performance
-- Delay reason analysis
-- Delivery zone performance comparison
+## About
+Built for SouqPlus leadership to drive data-driven decisions across the UAE.
 
-### Page 4: Customer & Returns
-- Customer acquisition trends
-- Signup channel effectiveness
-- Customer segment analysis
-- Return rate and reasons
-- Refund status tracking
-- Customer lifetime value indicators
+---
 
-## 🚀 Deployment Instructions
-
-### Local Deployment
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/souq-dashboard.git
-cd souq-dashboard
+© 2026 SouqPlus. All rights reserved.
