@@ -443,23 +443,34 @@ def executive_view(df):
     
     st.markdown("---")
     
-    # Daily Revenue Trend
-    st.subheader("📈 Daily Revenue Trend")
-    daily_revenue = df.groupby(df['order_date'].dt.date)['net_amount'].sum().reset_index()
-    daily_revenue.columns = ['Date', 'Revenue']
+    # Monthly Revenue Trend
+    st.subheader("📈 Monthly Revenue Trend")
     
-    fig_daily = px.line(
-        daily_revenue, 
-        x='Date', 
+    # Create month column
+    df_copy = df.copy()
+    df_copy['order_month'] = df_copy['order_date'].dt.to_period('M')
+    monthly_revenue = df_copy.groupby('order_month')['net_amount'].sum().reset_index()
+    monthly_revenue['order_month'] = monthly_revenue['order_month'].astype(str)
+    monthly_revenue.columns = ['Month', 'Revenue']
+    
+    # Create the line chart with markers
+    fig_monthly = px.line(
+        monthly_revenue, 
+        x='Month', 
         y='Revenue',
-        title='Daily Revenue Trend (AED)',
-        labels={'Revenue': 'Revenue (AED)', 'Date': 'Order Date'}
+        title='Monthly Revenue Trend (AED)',
+        labels={'Revenue': 'Revenue (AED)', 'Month': 'Month'},
+        markers=True
     )
-    fig_daily.update_traces(line_color='#667eea', line_width=3)
-    fig_daily = apply_light_theme(fig_daily, height=400)
-    st.plotly_chart(fig_daily, use_container_width=True)
+    fig_monthly.update_traces(
+        line_color='#667eea', 
+        line_width=3,
+        marker=dict(size=10, color='#667eea', line=dict(width=2, color='#ffffff'))
+    )
+    fig_monthly = apply_light_theme(fig_monthly, height=400)
+    st.plotly_chart(fig_monthly, use_container_width=True)
     
-    create_insight_box("Track daily revenue patterns to identify peak sales days and plan inventory accordingly.")
+    create_insight_box("Track monthly revenue patterns to identify seasonal trends and plan strategic initiatives accordingly.")
     
     # Two columns for next row
     col1, col2 = st.columns(2)
