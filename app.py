@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for black background theme
+# Custom CSS for black background theme with white chart backgrounds
 st.markdown("""
     <style>
     /* Main background */
@@ -123,11 +123,11 @@ st.markdown("""
         color: white;
     }
     
-    /* Chart containers */
+    /* Chart containers - WHITE BACKGROUND */
     .stPlotlyChart {
-        background-color: #1a1d24;
+        background-color: #ffffff;
         border-radius: 10px;
-        padding: 10px;
+        padding: 15px;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     }
     
@@ -171,8 +171,8 @@ st.markdown("""
     
     /* Dataframe */
     .dataframe {
-        background-color: #1a1d24;
-        color: #e0e0e0;
+        background-color: #ffffff;
+        color: #000000;
     }
     
     /* Footer */
@@ -203,32 +203,38 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 
-def apply_dark_theme(fig, height=400):
-    """Apply dark theme to plotly figure"""
+def apply_light_theme(fig, height=400):
+    """Apply light theme to plotly figure with BLACK text"""
     fig.update_layout(
         height=height,
-        paper_bgcolor='#1a1d24',
-        plot_bgcolor='#0e1117',
-        font=dict(color='#e0e0e0', size=12),
+        paper_bgcolor='#ffffff',
+        plot_bgcolor='#f8f9fa',
+        font=dict(color='#000000', size=12, family='Arial, sans-serif'),
         xaxis=dict(
-            gridcolor='#333',
-            linecolor='#333',
-            zerolinecolor='#333',
-            tickfont=dict(color='#e0e0e0')
+            gridcolor='#e0e0e0',
+            linecolor='#cccccc',
+            zerolinecolor='#cccccc',
+            tickfont=dict(color='#000000', size=11)
         ),
         yaxis=dict(
-            gridcolor='#333',
-            linecolor='#333',
-            zerolinecolor='#333',
-            tickfont=dict(color='#e0e0e0')
+            gridcolor='#e0e0e0',
+            linecolor='#cccccc',
+            zerolinecolor='#cccccc',
+            tickfont=dict(color='#000000', size=11)
         ),
-        title_font=dict(color='#ffffff', size=16),
+        title_font=dict(color='#000000', size=16, family='Arial, sans-serif'),
         legend=dict(
-            bgcolor='#1a1d24',
-            bordercolor='#333',
-            font=dict(color='#e0e0e0')
+            bgcolor='#ffffff',
+            bordercolor='#cccccc',
+            font=dict(color='#000000', size=11)
         ),
-        hovermode='closest'
+        hovermode='closest',
+        hoverlabel=dict(
+            bgcolor='#ffffff',
+            font_size=12,
+            font_family='Arial, sans-serif',
+            font_color='#000000'
+        )
     )
     return fig
 
@@ -450,7 +456,7 @@ def executive_view(df):
         labels={'Revenue': 'Revenue (AED)', 'Date': 'Order Date'}
     )
     fig_daily.update_traces(line_color='#667eea', line_width=3)
-    fig_daily = apply_dark_theme(fig_daily, height=400)
+    fig_daily = apply_light_theme(fig_daily, height=400)
     st.plotly_chart(fig_daily, use_container_width=True)
     
     create_insight_box("Track daily revenue patterns to identify peak sales days and plan inventory accordingly.")
@@ -472,8 +478,8 @@ def executive_view(df):
             title='Revenue Distribution by City (AED)',
             labels={'net_amount': 'Revenue (AED)', 'city': 'City'}
         )
-        fig_city.update_traces(marker_color='#2ecc71')
-        fig_city = apply_dark_theme(fig_city, height=350)
+        fig_city.update_traces(marker_color='#2ecc71', textfont=dict(color='#000000'))
+        fig_city = apply_light_theme(fig_city, height=350)
         st.plotly_chart(fig_city, use_container_width=True)
         
         create_insight_box("Focus marketing efforts on high-performing cities while exploring growth opportunities in underperforming regions.")
@@ -490,13 +496,18 @@ def executive_view(df):
             title='Revenue Share by Order Channel',
             hole=0.4
         )
-        fig_channel.update_traces(textposition='inside', textinfo='percent+label')
+        fig_channel.update_traces(
+            textposition='inside', 
+            textinfo='percent+label',
+            textfont=dict(color='#ffffff', size=13),
+            marker=dict(line=dict(color='#ffffff', width=2))
+        )
         fig_channel.update_layout(
             height=350,
-            paper_bgcolor='#1a1d24',
-            font=dict(color='#e0e0e0'),
-            title_font=dict(color='#ffffff'),
-            legend=dict(bgcolor='#1a1d24', font=dict(color='#e0e0e0'))
+            paper_bgcolor='#ffffff',
+            font=dict(color='#000000', size=12),
+            title_font=dict(color='#000000', size=16),
+            legend=dict(bgcolor='#ffffff', font=dict(color='#000000'))
         )
         st.plotly_chart(fig_channel, use_container_width=True)
         
@@ -519,8 +530,8 @@ def executive_view(df):
             title='Revenue by Product Category (AED)',
             labels={'net_amount': 'Revenue (AED)', 'product_category': 'Category'}
         )
-        fig_category.update_traces(marker_color='#3498db')
-        fig_category = apply_dark_theme(fig_category, height=350)
+        fig_category.update_traces(marker_color='#3498db', textfont=dict(color='#000000'))
+        fig_category = apply_light_theme(fig_category, height=350)
         st.plotly_chart(fig_category, use_container_width=True)
         
         create_insight_box("Top categories drive majority of revenue. Consider cross-selling strategies to boost lower-performing categories.")
@@ -548,7 +559,7 @@ def executive_view(df):
             color='discount_pct',
             color_continuous_scale='Reds'
         )
-        fig_discount = apply_dark_theme(fig_discount, height=350)
+        fig_discount = apply_light_theme(fig_discount, height=350)
         st.plotly_chart(fig_discount, use_container_width=True)
         
         create_insight_box("High discount categories may indicate pricing pressure or promotional intensity. Monitor for margin impact.")
@@ -619,13 +630,18 @@ def operations_view(df, fulfillment, returns):
                 'Failed': '#e74c3c'
             }
         )
-        fig_status.update_traces(textposition='inside', textinfo='percent+label')
+        fig_status.update_traces(
+            textposition='inside', 
+            textinfo='percent+label',
+            textfont=dict(color='#ffffff', size=13),
+            marker=dict(line=dict(color='#ffffff', width=2))
+        )
         fig_status.update_layout(
             height=350,
-            paper_bgcolor='#1a1d24',
-            font=dict(color='#e0e0e0'),
-            title_font=dict(color='#ffffff'),
-            legend=dict(bgcolor='#1a1d24', font=dict(color='#e0e0e0'))
+            paper_bgcolor='#ffffff',
+            font=dict(color='#000000'),
+            title_font=dict(color='#000000'),
+            legend=dict(bgcolor='#ffffff', font=dict(color='#000000'))
         )
         st.plotly_chart(fig_status, use_container_width=True)
         
@@ -650,7 +666,7 @@ def operations_view(df, fulfillment, returns):
             },
             barmode='group'
         )
-        fig_hub = apply_dark_theme(fig_hub, height=350)
+        fig_hub = apply_light_theme(fig_hub, height=350)
         st.plotly_chart(fig_hub, use_container_width=True)
         
         create_insight_box("Identify underperforming hubs for capacity planning and process improvement initiatives.")
@@ -673,8 +689,8 @@ def operations_view(df, fulfillment, returns):
             title='Delayed Deliveries by Zone',
             labels={'Delayed Orders': 'Number of Delays', 'Zone': 'Delivery Zone'}
         )
-        fig_zone.update_traces(marker_color='#e67e22')
-        fig_zone = apply_dark_theme(fig_zone, height=350)
+        fig_zone.update_traces(marker_color='#e67e22', textfont=dict(color='#000000'))
+        fig_zone = apply_light_theme(fig_zone, height=350)
         st.plotly_chart(fig_zone, use_container_width=True)
         
         create_insight_box("High-delay zones may need route optimization or additional delivery partners.")
@@ -693,8 +709,8 @@ def operations_view(df, fulfillment, returns):
             title='Top 10 Reasons for Delivery Delays',
             labels={'Count': 'Number of Incidents', 'Reason': 'Delay Reason'}
         )
-        fig_reasons.update_traces(marker_color='#c0392b')
-        fig_reasons = apply_dark_theme(fig_reasons, height=350)
+        fig_reasons.update_traces(marker_color='#c0392b', textfont=dict(color='#000000'))
+        fig_reasons = apply_light_theme(fig_reasons, height=350)
         st.plotly_chart(fig_reasons, use_container_width=True)
         
         create_insight_box("Address top delay reasons systematically to improve overall delivery performance.")
@@ -716,8 +732,8 @@ def operations_view(df, fulfillment, returns):
             title='Returns by Product Category',
             labels={'Returns': 'Number of Returns', 'product_category': 'Category'}
         )
-        fig_returns_cat.update_traces(marker_color='#8e44ad')
-        fig_returns_cat = apply_dark_theme(fig_returns_cat, height=350)
+        fig_returns_cat.update_traces(marker_color='#8e44ad', textfont=dict(color='#000000'))
+        fig_returns_cat = apply_light_theme(fig_returns_cat, height=350)
         st.plotly_chart(fig_returns_cat, use_container_width=True)
         
         create_insight_box("High return rates in specific categories may signal quality issues or sizing problems.")
@@ -734,8 +750,8 @@ def operations_view(df, fulfillment, returns):
             title='Returns by City',
             labels={'Returns': 'Number of Returns', 'city': 'City'}
         )
-        fig_returns_city.update_traces(marker_color='#16a085')
-        fig_returns_city = apply_dark_theme(fig_returns_city, height=350)
+        fig_returns_city.update_traces(marker_color='#16a085', textfont=dict(color='#000000'))
+        fig_returns_city = apply_light_theme(fig_returns_city, height=350)
         st.plotly_chart(fig_returns_city, use_container_width=True)
         
         create_insight_box("Geographic return patterns can reveal logistics or customer expectation issues in specific markets.")
